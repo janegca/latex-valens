@@ -1,0 +1,53 @@
+% Valens Book III.06.1 42nd chart, III.14.1
+\documentclass[border=2pt]{standalone}
+\input{chartPreamble}
+
+\begin{document}
+\begin{tikzpicture}[rotate=-150, scale=3.5]
+	% --- Draw the basic chart
+	% draw the circles
+	\draw[thick] (0,0) circle(1.0);
+	\draw[thick] (0,0) circle(0.88);
+	
+	% draw cusps
+	\foreach \x in {0,30,...,330} {
+	        % lines from center to point
+	        \draw[gray] (0,0) -- (\x:1);
+	}
+	
+	% draw center of circle
+	\fill[white] (0,0) circle(0.1);
+	\draw[thick] (0,0) circle(0.1);
+	
+	% draw sign labels
+	\foreach \sign/\label in {
+	15 /\Aries, 45 /\Taurus, 75 /\Gemini,
+	105 /\Cancer, 135 /\Leo, 165 /\Virgo,
+	195 /\Libra, 225 /\Scorpio, 255 /\Sagittarius,
+	285 /\Capricorn, 315 /\Aquarius, 345 /\Pisces}
+	\draw (\sign:0.94) node {\label};
+	
+	% --- draw Asc and MC lines
+	\draw [->, red, ultra thick] 
+	    (167:1.2)--(347:1.2cm)
+	    node [above] {\tiny{\ASC $17^\circ$}}; 
+	
+	\draw [->, blue, ultra thick] 
+	    (85:1.2)--(265:1.2)node [left] {\tiny{\MC$25^\circ$}};
+	
+	% --- draw planets
+	\node        at (105:0.6) {\Sun \tiny{$29^\circ 30'$}};
+	\node        at (342:0.75) {\Moon \tiny{$12^\circ$}};
+	\node        at (130:0.7) {\Mercury \tiny{$11^\circ 25$}};
+	\node        at (100:0.7) {\Venus \tiny{$28^\circ 13'$}};
+	\node        at (220:0.8) {\Mars \tiny{$7^\circ 23'$}};
+	\node        at (292:0.7) {\Jupiter \tiny{$22^\circ 13'$}};
+	\node        at (255:0.75) {\Saturn \tiny{$27^\circ 8'$}}; 
+%	\node        at (255:0.6) {\Fortune};
+% 	\node			at (105:0.6) {D};	
+	
+	% -- draw aspects
+	
+	
+\end{tikzpicture}
+\end{document}

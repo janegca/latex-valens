@@ -1,0 +1,104 @@
+\usepackage[greek, english]{babel}	% use setlanguage
+\usepackage[top=2cm, bottom=2cm, 
+            outer=2.5cm, inner=2.5cm,
+            heightrounded, 
+            marginparwidth=2.3cm,            
+            marginparsep=0.5cm]{geometry}
+\usepackage[colorlinks=true,
+            linkcolor=blue, 
+            linktoc=all,
+            unicode]{hyperref}
+\usepackage{enumitem}
+\usepackage{pdfpages}            
+\usepackage{verse}
+\usepackage{marginnote}
+\usepackage{wrapfig}			% wrapping text around figures
+\usepackage[utf8]{inputenc}	% allow special chrs as typed                        
+\usepackage{relsize}			% used by headers
+\usepackage{xspace}				% force a space
+\usepackage{longtable}			% span pages
+\usepackage{multirow}			% for table rows
+\usepackage{textcomp}			% for text angle brackets
+\usepackage{siunitx}			% align numbers in table
+
+% ------------------------------------------------------------
+%								STYLES
+% ------------------------------------------------------------
+
+% TOC entries
+\renewcommand\cftsectionfont{\bfseries\small}
+
+% Section depth and style
+\settocdepth{subsubsection}
+
+% Bringhurst chapter style
+\makechapterstyle{bringhurst}{%
+	\renewcommand{\chapterheadstart}{}
+	\renewcommand{\chaptername}{} % remove `chapter' from hdr
+	\renewcommand{\printchaptername}{}
+	\renewcommand{\chapternamenum}{}
+	\renewcommand{\printchapternum}{}
+	\renewcommand{\afterchapternum}{}
+	\renewcommand{\printchaptertitle}[1]{%
+		\raggedright\larger\scshape\MakeLowercase{##1}}
+	\renewcommand{\afterchaptertitle}{%
+		\vskip 0.3em \hrule\vskip\onelineskip}
+}
+
+% headings
+\setsecheadstyle{\bfseries\raggedright} 			% section	
+\setsubsecheadstyle{\bfseries\raggedright\normalfont\bfseries}
+\setsubsubsecheadstyle{\small\bfseries}			
+
+% set paragraph spacing
+\nonzeroparskip
+
+% put margin notes on the left
+%\reversemarginpar
+
+% figure captions
+\setlength{\belowcaptionskip}{-10pt}  % decrease space below
+\captiontitlefont{\footnotesize}
+
+% start footnote numbering anew on each page
+\usepackage{perpage}    
+\MakePerPage{footnote} 
+
+% make footnotes work in tabbing environment
+\usepackage{footnote}
+\makesavenoteenv{tabbing}
+\makesavenoteenv{tabular}
+\makesavenoteenv{table}
+
+% ------------------------------------------------------------
+%						REDUCE WARNINGS
+% ------------------------------------------------------------
+% general warnings
+\midsloppy
+\hbadness=10000    % turn off underfull warnings in TOC
+\hfuzz=10pt			% limit overfull box warnings (for cells)
+
+% specific warnings
+\usepackage{silence}
+\WarningFilter{latex}{Marginpar}
+
+% ------------------------------------------------------------
+% 						MACROS
+% ------------------------------------------------------------
+% for margin notes
+\newcommand{\nlm}[1]{\noindent\marginpar{#1}}
+\newcommand{\mn}[1]{\marginnote{\textsc{\footnotesize{#1}}}}
+\newcommand{\mndl}{\marginnote{\tiny{\textsc{Delineation Note}}}}
+\newcommand{\mnmb}{\marginnote{\tiny{\textsc{Malefic as Benefic}}}}
+\newcommand{\mnbm}{\marginnote{\tiny{\textsc{Benefic as Malefic}}}}
+\newcommand{\mnm}{\marginnote{\small{\textsc{Method}}}}
+\newcommand{\mnt}{\marginnote{\footnotesize{\textsc{Technique}}}}
+\newcommand{\mned}{\marginnote{\textsc{\footnotesize{Exact Degree}}}}
+
+% insert a section divider
+\newcommand{\secbr}{\par\noindent\rule{\textwidth}{0.2pt}}
+
+% degree symbol
+\renewcommand{\deg}{$^{\circ}$}
+
+

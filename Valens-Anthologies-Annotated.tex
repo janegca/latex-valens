@@ -1,0 +1,29 @@
+\documentclass[extrafontsizes,ebook,12pt,oneside]{memoir}
+\input{preamble}
+\input{charts/chartPreamble}
+
+\begin{document}
+\chapterstyle{bringhurst}
+\frontmatter
+
+\input{title}
+\input{preface}
+\tableofcontents
+\cleardoublepage
+\listoffigures
+%\newpage
+%\listoftables
+\mainmatter
+\begingroup
+\let\clearpage\relax
+% -- book files to include ---------------------------------
+\input{book01}
+\input{book02}
+\input{book03}
+\input{book04}
+\input{book05}
+
+
+% ----------------------------------------------------------
+\endgroup
+\end{document}
