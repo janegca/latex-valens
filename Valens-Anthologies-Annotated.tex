@@ -5,8 +5,9 @@
 \begin{document}
 \chapterstyle{bringhurst}
 \frontmatter
-
+\pagenumbering{gobble}  % suppress page number on title page
 \input{title}
+\pagenumbering{roman}	  % turn page numbering back on
 \input{preface}
 \tableofcontents
 \cleardoublepage
