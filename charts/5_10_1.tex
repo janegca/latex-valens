@@ -1,9 +1,9 @@
-% Valens Book V.09.1 54th example chart
+% Valens Book V.10.1 56th example chart
 \documentclass[border=10pt]{standalone}
 \input{chartPreamble}
 
 \begin{document}
-\begin{tikzpicture}[rotate=30, scale=3.5]
+\begin{tikzpicture}[rotate=-30, scale=3.5]
 	% --- Draw the basic chart
 	% draw the circles
 	\draw[thick] (0,0) circle(1.0);
@@ -29,23 +29,23 @@
 	
 	% --- draw Asc and MC lines
 	\draw [->, red, ultra thick] 
-	    (345:1.2)--(165:1.2cm)
+	    (45:1.2)--(225:1.2cm)
 	    node [above] {\ASC}; % $ 0^\circ$};
 	
 %	\draw [->, blue, dashed, ultra thick] 
-%	     (285:1.2)--(105:1.2)node [left] {\MC}; %$ 10^\circ$};	
+%	     (225:1.2)--(45:1.2)node [left] {\MC}; %$ 10^\circ$};	
 	
 	% --- draw planets
-	\node         at (310:0.75) {\Sun};      %$ 1^\circ$}; 
-	\node         at (318:0.75) {\Mercury};  %$13^\circ$}; 
+	\node         at (221:0.75) {\Sun};      %$ 1^\circ$}; 
+	\node         at (221:0.65) {\Mercury};  %$13^\circ$}; 
 	
-	\node         at (213:0.75) {\Moon};     %$16^\circ$};
-	\node         at (295:0.75){\Venus};    %$21^\circ$};	
+	\node         at (226:0.75) {\Moon};     %$16^\circ$};
+	\node         at (232:0.75){\Venus};    %$21^\circ$};	
 		
-	\node         at (93:0.75) {\Saturn};
+	\node         at (262:0.75) {\Saturn};
 	
-	\node         at (203:0.75) {\Jupiter};  %$ 3^\circ$};	
-	\node         at (172:0.75) {\Mars};     %$27^\circ$}; 
+	\node         at (273:0.75) {\Jupiter};  %$ 3^\circ$};	
+	\node         at (140:0.75) {\Mars};     %$27^\circ$}; 
 	
 	% \node			 at (345:0.6) {\Fortune};    	
 	
