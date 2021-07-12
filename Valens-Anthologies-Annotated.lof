@@ -3,7 +3,7 @@
 \addvspace {10pt}
 \addvspace {10pt}
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Chart 1 [II.22.1, GH L50]\relax }}{131}{figure.caption.58}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Chart 2 [II.21.2, GH 95,V,18]\relax }}{133}{figure.caption.60}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Chart 2 [II.21.2, GH L95,V,18]\relax }}{133}{figure.caption.60}%
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Chart 3 [II.21.3, GH L85]\relax }}{134}{figure.caption.62}%
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Chart 4 [II.21.4, GH L83]\relax }}{135}{figure.caption.64}%
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Chart 5 [II.21.5, GH L74.XI]\relax }}{136}{figure.caption.66}%
@@ -83,19 +83,23 @@
 \addvspace {10pt}
 \contentsline {figure}{\numberline {6.1}{\ignorespaces Chart 72 [VI.6.1, GH L132]\relax }}{439}{figure.caption.200}%
 \addvspace {10pt}
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Chart 73 [VII.3.1, GH 120, XII]\relax }}{461}{figure.caption.202}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Chart 74 [VII.3.2, GH 114, IX]\relax }}{462}{figure.caption.203}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Chart 75 [VII.3.3, GH 122, XII]\relax }}{463}{figure.caption.204}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces Chart 21a [VII.3.4, GH 118]\relax }}{464}{figure.caption.205}%
-\contentsline {figure}{\numberline {7.5}{\ignorespaces Chart 76 [VII.3.5, GH 117, VI]\relax }}{465}{figure.caption.206}%
-\contentsline {figure}{\numberline {7.6}{\ignorespaces Chart 5a [VII.3.5, GH 74, XI]\relax }}{466}{figure.caption.207}%
-\contentsline {figure}{\numberline {7.7}{\ignorespaces Chart 77 [VII.4.1, GH 173]\relax }}{471}{figure.caption.208}%
-\contentsline {figure}{\numberline {7.8}{\ignorespaces Chart 78 [VII.4.2, GH 159]\relax }}{472}{figure.caption.209}%
-\contentsline {figure}{\numberline {7.9}{\ignorespaces Chart 79 [VII.4.3, GH 162]\relax }}{473}{figure.caption.210}%
-\contentsline {figure}{\numberline {7.10}{\ignorespaces Chart 80 [VII.4.4, GH 122, VI.30]\relax }}{474}{figure.caption.211}%
-\contentsline {figure}{\numberline {7.11}{\ignorespaces Chart 81 [VII.5.1, GH 122, VI.12]\relax }}{476}{figure.caption.212}%
-\contentsline {figure}{\numberline {7.12}{\ignorespaces Chart 82 [VII.6.1, GH 124]\relax }}{484}{figure.caption.213}%
-\contentsline {figure}{\numberline {7.13}{\ignorespaces Chart 83 [VII.6.2, GH 134, VI]\relax }}{486}{figure.caption.214}%
-\contentsline {figure}{\numberline {7.14}{\ignorespaces Chart 84 [VII.6.3, GH 108, XI]\relax }}{487}{figure.caption.215}%
-\contentsline {figure}{\numberline {7.15}{\ignorespaces Chart 85 [VII.6.4, GH 110, XII]\relax }}{488}{figure.caption.216}%
-\contentsline {figure}{\numberline {7.16}{\ignorespaces Chart 68a [VII.6.5, GH 113, VII]\relax }}{489}{figure.caption.217}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Chart 73 [VII.3.1, GH L120, XII]\relax }}{461}{figure.caption.202}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Chart 74 [VII.3.2, GH L114, IX]\relax }}{462}{figure.caption.203}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Chart 75 [VII.3.3, GH L122, XII]\relax }}{463}{figure.caption.204}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Chart 21a [VII.3.4, GH L118]\relax }}{464}{figure.caption.205}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Chart 76 [VII.3.5, GH L117, VI]\relax }}{465}{figure.caption.206}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Chart 5a [VII.3.5, GH L74, XI]\relax }}{466}{figure.caption.207}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Chart 77 [VII.4.1, GH L173]\relax }}{471}{figure.caption.208}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Chart 78 [VII.4.2, GH L159]\relax }}{472}{figure.caption.209}%
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Chart 79 [VII.4.3, GH L162]\relax }}{473}{figure.caption.210}%
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Chart 80 [VII.4.4, GH L122, VI.30]\relax }}{474}{figure.caption.211}%
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Chart 81 [VII.5.1, GH L122, VI.12]\relax }}{476}{figure.caption.212}%
+\contentsline {figure}{\numberline {7.12}{\ignorespaces Chart 82 [VII.6.1, GH L124]\relax }}{484}{figure.caption.213}%
+\contentsline {figure}{\numberline {7.13}{\ignorespaces Chart 83 [VII.6.2, GH L134, VI]\relax }}{486}{figure.caption.214}%
+\contentsline {figure}{\numberline {7.14}{\ignorespaces Chart 84 [VII.6.3, GH L108, XI]\relax }}{487}{figure.caption.215}%
+\contentsline {figure}{\numberline {7.15}{\ignorespaces Chart 85 [VII.6.4, GH L110, XII]\relax }}{488}{figure.caption.216}%
+\contentsline {figure}{\numberline {7.16}{\ignorespaces Chart 68a [VII.6.5, GH L113, VII]\relax }}{489}{figure.caption.217}%
+\contentsline {figure}{\numberline {7.17}{\ignorespaces Chart 86 [VII.6.6, GH L129]\relax }}{490}{figure.caption.218}%
+\contentsline {figure}{\numberline {7.18}{\ignorespaces Chart 87 [VII.6.7, GH L102,XII,14] \relax }}{491}{figure.caption.219}%
+\contentsline {figure}{\numberline {7.19}{\ignorespaces Chart 11a [VII.6.8, GH L105] \relax }}{492}{figure.caption.220}%
+\contentsline {figure}{\numberline {7.20}{\ignorespaces Chart 88 [VII.6.7, GH L158] \relax }}{493}{figure.caption.221}%
