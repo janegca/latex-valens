@@ -1,0 +1,61 @@
+% Valens Book VII.6.1 GH L124  82nd example chart
+\documentclass[border=10pt]{standalone}
+\input{chartPreamble}
+
+\begin{document}
+\begin{tikzpicture}[rotate=0, scale=3.5]
+	% --- Draw the basic chart
+	% draw the circles
+	\draw[thick] (0,0) circle(1.0);
+	\draw[thick] (0,0) circle(0.85);
+	
+	% draw cusps
+	\foreach \x in {0,30,...,330} {
+	        % lines from center to point
+	        \draw[gray] (0,0) -- (\x:1);
+	}
+	
+	% draw center of circle
+	\fill[white] (0,0) circle(0.1);
+	\draw[thick] (0,0) circle(0.1);
+	
+	% draw sign labels
+	\foreach \sign/\label in {
+	15 /\Aries, 45 /\Taurus, 75 /\Gemini,
+	105 /\Cancer, 135 /\Leo, 165 /\Virgo,
+	195 /\Libra, 225 /\Scorpio, 255 /\Sagittarius,
+	285 /\Capricorn, 315 /\Aquarius, 345 /\Pisces}
+	\draw (\sign:0.93) node {\label};
+	
+	% --- draw Asc and MC lines
+	\draw [->, red, ultra thick] 
+		    (15:1.2)--(195:1.2cm)
+ 	       node [above] {\ASC}; % $ 0^\circ$};
+	
+%	\draw [->, blue, dashed, ultra thick] 
+%	     (225:1.2)--(45:1.2)node [left] {\MC}; %$ 10^\circ$};	
+	
+	% --- draw planets
+	\node         at (130:0.75) {\Sun};      %$ 1^\circ$}; 
+	\node         at (105:0.75) {\Mercury};  %$13^\circ$}; 
+	
+	\node         at (140:0.75) {\Moon};     %$16^\circ$};
+	\node         at (75:0.75){\Venus};    %$21^\circ$};	
+		
+	\node         at (155:0.75) {\Saturn};
+	
+	\node         at (345:0.75) {\Jupiter};  %$ 3^\circ$};	
+	\node         at (255:0.75) {\Mars};     %$27^\circ$}; 
+	
+	%\node			 at (255:0.6) {\Fortune};   
+	%\node			at (75:0.75) {D}; 	
+	
+	% -- Placements given in Greek Horoscopes
+	%\node	[{red}] at (295:0.75)  {[\Jupiter]};
+
+	
+	% -- draw aspects
+	
+	
+\end{tikzpicture}
+\end{document}
