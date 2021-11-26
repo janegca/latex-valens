@@ -1,0 +1,85 @@
+% Chart 3.3 Operative Degrees
+\documentclass[border=10pt]{standalone}
+\input{chartPreamble}
+
+\begin{document}
+
+\begin{tikzpicture}[scale=3.5]
+
+\begin{scope}[rotate=165]
+	% draw numbered, fixed house positions
+	\foreach \sign/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\sign + 15:0.2) node {\tiny\label};
+\end{scope}
+
+\begin{scope}[rotate=195]
+	% --- Draw the basic chart
+	% draw the circles
+	\draw (0,0) circle(1.05);
+	\draw (0,0) circle(0.85);
+	
+	% draw cusps
+	\foreach \x in {0,30,...,330} {
+	        % lines from center to point
+	        \draw[gray] (0,0) -- (\x:1.05);
+	}
+	
+	% draw center of circle
+	\fill[white] (0,0) circle(0.15);
+	\draw (0,0) circle(0.15);
+	\draw (0,0) circle(0.25);
+	
+	% draw sign labels
+	\foreach \sign/\label in {
+		15 /\Aries, 45 /\Taurus, 75 /\Gemini,
+		105 /\Cancer, 135 /\Leo, 165 /\Virgo,
+		195 /\Libra, 225 /\Scorpio, 255 /\Sagittarius,
+		285 /\Capricorn, 315 /\Aquarius, 345 /\Pisces}
+	\draw (\sign:0.95) node {\label};
+		
+	% --- draw Asc and MC lines
+	\draw [->, red] 
+	    (163:1.2)--(343:1.2cm)
+	    node [above] {\ASC}
+	    node [below] {\small 13°};
+	    
+	\draw [->, blue, dashed] 
+	      (82:1.2)--(262:1.2) node {\MC\, \small22°};		      
+	
+	% --- draw planets
+	%\node at (342:0.75) {\Moon};
+	%\node at (342:0.65) {\tiny 12°};
+	
+	% -- Colour house
+	 % -- 	arc(start angle : delta angle : radius)
+	 \def\opclr {[green!20]}
+	 \def\midclr {[green!5]}
+     \begin{scope}[on background layer]
+     	\filldraw\opclr (0,0) -- (343:1.05) arc (343:376:1.05); % Asc
+     	\filldraw\midclr (0,0) -- (376:1.05) arc (376:409:1.05);
+     	
+     	\filldraw\opclr (0,0) -- (163:1.05) arc (163:196:1.05); % Desc
+     	\filldraw\midclr (0,0) -- (196:1.05) arc (196:229:1.05);
+     	
+     	\filldraw\opclr (0,0) -- (262:1.05) arc (262:289:1.05); % MC
+     	\filldraw\midclr (0,0) -- (289:1.05) arc (289:316:1.05);
+     	
+     	\filldraw\opclr (0,0) -- (82:1.05) arc (82:109:1.05); % IC
+     	\filldraw\midclr (0,0) -- (109:1.05) arc (109:136:1.05);
+     \end{scope}
+\end{scope}	
+	
+\end{tikzpicture}
+\end{document}
