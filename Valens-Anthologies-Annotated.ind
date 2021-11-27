@@ -2,6 +2,8 @@
 
   \item Ascendant
     \subitem how to find, \hyperpage{33}
+  \item aspects
+    \subitem sextile, \hyperpage{115}
 
   \indexspace
 
@@ -19,24 +21,70 @@
 
   \indexspace
 
+  \item houses
+    \subitem Midheaven, \hyperpage{101}
+
+  \indexspace
+
+  \item lots
+    \subitem Daimon, \hyperpage{102}, \hyperpage{127}
+    \subitem Fortune, \hyperpage{95}, \hyperpage{99}, 
+		\hyperpage{102, 103}, \hyperpage{110}, \hyperpage{124}, 
+		\hyperpage{127}
+
+  \indexspace
+
   \item Midheaven
     \subitem how to compute, \hyperpage{39}
 
   \indexspace
 
+  \item places
+    \subitem 11th, \hyperpage{100}
+    \subitem 12th, \hyperpage{99}
+    \subitem 2nd, \hyperpage{110}
+    \subitem 3rd, \hyperpage{108}
+    \subitem 4th, \hyperpage{107}
+    \subitem 5th, \hyperpage{106}
+    \subitem 6th, \hyperpage{105}
+    \subitem 7th, \hyperpage{104}
+    \subitem 8th, \hyperpage{103}
+    \subitem 9th, \hyperpage{102}
+    \subitem Ascendant, \hyperpage{96}
+    \subitem benefics, \hyperpage{105}
+    \subitem declines, \hyperpage{124}
+    \subitem exaltation, \hyperpage{126}
+    \subitem Fortune houses, \hyperpage{124}
+      \subsubitem accomplishment (acquisition), \hyperpage{129}
+    \subitem names of, \hyperpage{112}
   \item planets
+    \subitem aspects, \hyperpage{113}
     \subitem benefic, \hyperpage{8}
+    \subitem benefics, \hyperpage{100--104}, \hyperpage{106, 107}, 
+		\hyperpage{110}
     \subitem finding the planets, \hyperpage{59}
-    \subitem Jupiter, \hyperpage{3}
+    \subitem Jupiter, \hyperpage{3}, \hyperpage{96}, \hyperpage{100}, 
+		\hyperpage{105}, \hyperpage{108}, \hyperpage{110}, 
+		\hyperpage{129}
+      \subsubitem aspect, \hyperpage{113, 114}, \hyperpage{122}
       \subsubitem in combination with other planets, \hyperpage{75}
       \subsubitem with the other planets, \hyperpage{66}
     \subitem malefic, \hyperpage{8}
-    \subitem Mars, \hyperpage{4}
+    \subitem malefics, \hyperpage{98, 99}, \hyperpage{101}, 
+		\hyperpage{104}, \hyperpage{107}, \hyperpage{110}
+    \subitem Mars, \hyperpage{4}, \hyperpage{96}, \hyperpage{105--108}, 
+		\hyperpage{110}, \hyperpage{129, 130}
+      \subsubitem aspect, \hyperpage{113--115}
       \subsubitem in combination with other planets, \hyperpage{80}
-    \subitem Mercury, \hyperpage{6}
+    \subitem Mercury, \hyperpage{6}, \hyperpage{97}, 
+		\hyperpage{103--106}, \hyperpage{108}, \hyperpage{110}, 
+		\hyperpage{129}
+      \subsubitem aspect, \hyperpage{116}
       \subsubitem in combination with other planets, \hyperpage{79}
       \subsubitem with the other planets, \hyperpage{68}
-    \subitem Moon, \hyperpage{1}
+    \subitem Moon, \hyperpage{1}, \hyperpage{97}, \hyperpage{103}, 
+		\hyperpage{105, 106}, \hyperpage{108}, \hyperpage{111}, 
+		\hyperpage{129}
       \subsubitem 3rd, 7th, 40th days, \hyperpage{52}
       \subsubitem finding New and Full Moon, \hyperpage{43}
       \subsubitem finding the Moon, \hyperpage{56}
@@ -44,13 +92,20 @@
       \subsubitem nodes, \hyperpage{53}
       \subsubitem visibility periods, \hyperpage{50}
     \subitem predicting effects, \hyperpage{81}
-    \subitem Saturn, \hyperpage{2}
+    \subitem Saturn, \hyperpage{2}, \hyperpage{96}, 
+		\hyperpage{105, 106}, \hyperpage{108}, \hyperpage{110}, 
+		\hyperpage{129, 130}
+      \subsubitem aspect, \hyperpage{113, 114}, \hyperpage{120}
       \subsubitem in combination with other planets, \hyperpage{71}
       \subsubitem with the other planets, \hyperpage{64}
-    \subitem Sun, \hyperpage{1}
+    \subitem Sun, \hyperpage{1}, \hyperpage{97}, \hyperpage{105, 106}, 
+		\hyperpage{108}, \hyperpage{110}, \hyperpage{129}
       \subsubitem with the Moon, \hyperpage{69}
     \subitem transit in houses, \hyperpage{64}
-    \subitem Venus, \hyperpage{5}
+    \subitem Venus, \hyperpage{5}, \hyperpage{96}, \hyperpage{105, 106}, 
+		\hyperpage{108}, \hyperpage{110}, \hyperpage{129}
+      \subsubitem aspect, \hyperpage{113}, \hyperpage{115}, 
+		\hyperpage{119}
       \subsubitem in combination with other planets, \hyperpage{78}
       \subsubitem with the other planets, \hyperpage{67}
 
@@ -112,6 +167,8 @@
 
   \indexspace
 
+  \item technique
+    \subitem triplicity rulers, \hyperpage{91}
   \item terms
     \subitem \Aquarius, \hyperpage{31}
     \subitem \Aries, \hyperpage{25}
