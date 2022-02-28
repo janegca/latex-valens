@@ -1,0 +1,73 @@
+% Chart 3.3.1 - Aphesis example from p38 VRS
+\documentclass[border=10pt]{standalone}
+\input{chartPreamble}
+
+\begin{document}
+
+\begin{tikzpicture}[rotate=105, scale=3.5]
+	% --- Draw the basic chart
+	% draw the circles
+	\draw (0,0) circle(1.05);
+	\draw (0,0) circle(0.85);
+	
+	% draw cusps
+	\foreach \x in {0,30,...,330} {
+	        % lines from center to point
+	        \draw[gray] (0,0) -- (\x:1.05);
+	}
+	
+	% draw center of circle
+	\fill[white] (0,0) circle(0.15);
+	\draw (0,0) circle(0.15);
+	\draw (0,0) circle(0.25);
+	
+	% draw sign labels
+	\foreach \sign/\label in {
+		15 /\Aries, 45 /\Taurus, 75 /\Gemini,
+		105 /\Cancer, 135 /\Leo, 165 /\Virgo,
+		195 /\Libra, 225 /\Scorpio, 255 /\Sagittarius,
+		285 /\Capricorn, 315 /\Aquarius, 345 /\Pisces}
+	\draw (\sign:0.95) node {\label};
+	
+	% draw house numbers
+	\foreach \sign/\label in {
+		60 / 1, 
+		90/ 2, 
+		120 / 3,
+		150 / 4, 
+		180 / 5, 
+		210 / 6,
+		240 / 7 , 
+		270 / 8, 
+		300 / 9,
+		330 + 5 / 10, 
+		0 + 5 / 11, 
+		30 + 5/ 12}
+	\draw (\sign + 15:0.2) node {\tiny\label};
+	
+	% --- draw Asc and MC lines
+	\draw [->, red] 
+	    (248:1.2)--(68:1.2cm)
+	    node [above] {\ASC}
+	    node [below] {\small 8°};
+	    
+	\draw [->, blue, dashed] 
+	      (142:1.2)--(322:1.2) node {\MC\, \small22°};		      
+	
+	% --- draw planets
+%	\node at (342:0.75) {\Moon};
+%	\node at (342:0.65) {\tiny 12°};
+
+	% -- Colour house
+	 % -- 	arc(start angle : delta angle : radius)
+     \scoped[on background layer]\filldraw[orange!10]
+     	(0,0) -- (68:1.05) arc (68:142:1.05);
+     	
+	% -- Aspect
+%	\draw [red, thick] 
+%	      (265:0.6)--(87:0.65) node [below] {\scriptsize 27°\Opposition\Saturn};		
+
+	
+	
+\end{tikzpicture}
+\end{document}
