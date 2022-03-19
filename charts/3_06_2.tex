@@ -1,53 +1,95 @@
-% Valens Book III.06.2 43rd chart
-\documentclass[border=2pt]{standalone}
+% Valens Book III.06.2 43rd chart Native died at age 51
+\documentclass[border=10pt]{standalone}
 \input{chartPreamble}
 
 \begin{document}
-\begin{tikzpicture}[rotate=0, scale=3.5]
+
+\begin{tikzpicture}[scale=3.5]
+\begin{scope}[rotate=165]
+	% draw numbered, fixed house positions
+	\foreach \sign/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\sign + 15:0.2) node {\tiny\label};
+\end{scope}
+
+\begin{scope}[rotate=-15]
 	% --- Draw the basic chart
 	% draw the circles
-	\draw[thick] (0,0) circle(1.0);
-	\draw[thick] (0,0) circle(0.88);
+	\draw (0,0) circle(1.05);
+	\draw (0,0) circle(0.85);
 	
 	% draw cusps
 	\foreach \x in {0,30,...,330} {
 	        % lines from center to point
-	        \draw[gray] (0,0) -- (\x:1);
+	        \draw[gray] (0,0) -- (\x:1.05);
 	}
 	
 	% draw center of circle
-	\fill[white] (0,0) circle(0.1);
-	\draw[thick] (0,0) circle(0.1);
+	\fill[white] (0,0) circle(0.15);
+	\draw (0,0) circle(0.15);
+	\draw (0,0) circle(0.25);
 	
 	% draw sign labels
 	\foreach \sign/\label in {
-	15 /\Aries, 45 /\Taurus, 75 /\Gemini,
-	105 /\Cancer, 135 /\Leo, 165 /\Virgo,
-	195 /\Libra, 225 /\Scorpio, 255 /\Sagittarius,
-	285 /\Capricorn, 315 /\Aquarius, 345 /\Pisces}
-	\draw (\sign:0.94) node {\label};
+		15 /\Aries, 45 /\Taurus, 75 /\Gemini,
+		105 /\Cancer, 135 /\Leo, 165 /\Virgo,
+		195 /\Libra, 225 /\Scorpio, 255 /\Sagittarius,
+		285 /\Capricorn, 315 /\Aquarius, 345 /\Pisces}
+	\draw (\sign:0.95) node {\label};
 	
 	% --- draw Asc and MC lines
-	\draw [->, red, ultra thick] 
+	\draw [->, red] 
 	    (15:1.2)--(195:1.2cm)
-	    node [above] {\tiny{\ASC $15^\circ$}}; 
-	
-	\draw [->, blue, ultra thick] 
-	    (286:1.2)--(106:1.2)node [left] {\tiny{\MC$16^\circ$}};
+	    node [above] {\ASC}
+	    node [below] {\small 15°};
+	    
+	\draw [->, blue, dashed] 
+	      (286:1.2)--(106:1.2) node {\MC\, \small 16°};		      
 	
 	% --- draw planets
-	\node        at (355:0.6) {\Sun \tiny{$25^\circ 08'$}};
-	\node        at (76:0.75){\Moon \tiny{$16^\circ 53'$}};
-	\node        at (12:0.7) {\Mercury \tiny{$12^\circ$}};
-	\node        at (309:0.7) {\Venus \tiny{$9^\circ$}};
-	\node        at (51:0.8) {\Mars \tiny{$21^\circ 08'$}};
-	\node        at (254:0.7) {\Jupiter \tiny{$24^\circ 18'$}};
-	\node        at (340:0.7) {\Saturn \tiny{$01^\circ 25'$}}; 
-%	\node        at (255:0.6) {\Fortune};
-% 	\node			at (105:0.6) {D};	
+	\node at (75:0.75) {\Moon};
+	\node at (75:0.65) {\tiny 16°};
 	
-	% -- draw aspects
+	\node at (350:0.75) {\Sun};
+	\node at (350:0.65) {\tiny 25°};
 	
+	\node at (340:0.75) {\Saturn}; 
+	\node at (340:0.65) {\tiny 1°};	
 	
+	\node at (255:0.75) {\Jupiter};
+	\node at (255:0.65) {\tiny 24°};
+	
+	\node at (51:0.75) {\Mars};
+	\node at (51:0.65) {\tiny 21°};
+	
+	\node at (315:0.75) {\Venus};
+	\node at (315:0.65) {\tiny 9°};
+			
+	\node  at (10:0.75) {\Mercury};
+	\node  at (10:0.65) {\tiny 12°};
+		
+	% -- Colour house
+	 % -- 	arc(start angle : delta angle : radius)
+%     \scoped[on background layer]\filldraw[orange!10]
+%     	(0,0) -- (195:1.05) arc (195:285:1.05);
+     \scoped[on background layer]\filldraw[orange!30]
+     	(0,0) -- (195:1.05) arc (195:231:1.05);	
+     	
+	% -- Aspect
+	\draw [red, thick] 
+	      (51:0.6)--(231:0.65);
+	\node at (231:0.75) [red] {\scriptsize 21°\Opposition\Mars};		
+\end{scope}	
 \end{tikzpicture}
 \end{document}

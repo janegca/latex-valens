@@ -1,53 +1,103 @@
 % Valens Book III.06.1 42nd chart, III.14.1
-\documentclass[border=2pt]{standalone}
+\documentclass[border=10pt]{standalone}
 \input{chartPreamble}
 
 \begin{document}
-\begin{tikzpicture}[rotate=-150, scale=3.5]
+
+\begin{tikzpicture}[scale=3.5]
+
+\begin{scope}[rotate=165]
+	% draw numbered, fixed house positions
+	\foreach \sign/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\sign + 15:0.2) node {\tiny\label};
+\end{scope}
+
+\begin{scope}[rotate=195]
 	% --- Draw the basic chart
 	% draw the circles
-	\draw[thick] (0,0) circle(1.0);
-	\draw[thick] (0,0) circle(0.88);
+	\draw (0,0) circle(1.05);
+	\draw (0,0) circle(0.85);
 	
 	% draw cusps
 	\foreach \x in {0,30,...,330} {
 	        % lines from center to point
-	        \draw[gray] (0,0) -- (\x:1);
+	        \draw[gray] (0,0) -- (\x:1.05);
 	}
 	
 	% draw center of circle
-	\fill[white] (0,0) circle(0.1);
-	\draw[thick] (0,0) circle(0.1);
+	\fill[white] (0,0) circle(0.15);
+	\draw (0,0) circle(0.15);
+	\draw (0,0) circle(0.25);
 	
 	% draw sign labels
 	\foreach \sign/\label in {
-	15 /\Aries, 45 /\Taurus, 75 /\Gemini,
-	105 /\Cancer, 135 /\Leo, 165 /\Virgo,
-	195 /\Libra, 225 /\Scorpio, 255 /\Sagittarius,
-	285 /\Capricorn, 315 /\Aquarius, 345 /\Pisces}
-	\draw (\sign:0.94) node {\label};
-	
+		15 /\Aries, 45 /\Taurus, 75 /\Gemini,
+		105 /\Cancer, 135 /\Leo, 165 /\Virgo,
+		195 /\Libra, 225 /\Scorpio, 255 /\Sagittarius,
+		285 /\Capricorn, 315 /\Aquarius, 345 /\Pisces}
+	\draw (\sign:0.95) node {\label};
+		
 	% --- draw Asc and MC lines
-	\draw [->, red, ultra thick] 
+	\draw [->, red] 
 	    (167:1.2)--(347:1.2cm)
-	    node [above] {\tiny{\ASC $17^\circ$}}; 
-	
-	\draw [->, blue, ultra thick] 
-	    (85:1.2)--(265:1.2)node [left] {\tiny{\MC$25^\circ$}};
+	    node [above] {\ASC}
+	    node [below] {\small 17°};
+	    
+	\draw [->, blue, dashed] 
+	      (85:1.2)--(265:1.2) node {\MC\, \small25°};		      
 	
 	% --- draw planets
-	\node        at (105:0.6) {\Sun \tiny{$29^\circ 30'$}};
-	\node        at (342:0.75) {\Moon \tiny{$12^\circ$}};
-	\node        at (130:0.7) {\Mercury \tiny{$11^\circ 25$}};
-	\node        at (100:0.7) {\Venus \tiny{$28^\circ 13'$}};
-	\node        at (220:0.8) {\Mars \tiny{$7^\circ 23'$}};
-	\node        at (292:0.7) {\Jupiter \tiny{$22^\circ 13'$}};
-	\node        at (255:0.75) {\Saturn \tiny{$27^\circ 8'$}}; 
-%	\node        at (255:0.6) {\Fortune};
-% 	\node			at (105:0.6) {D};	
+	\node at (342:0.75) {\Moon};
+	\node at (342:0.65) {\tiny 12°};
 	
-	% -- draw aspects
+	\node at (110:0.75) {\Sun};
+	\node at (110:0.65) {\tiny 29°};
 	
+	\node at (265:0.75) {\Saturn}; 
+	\node at (265:0.65) {\tiny 27°};	
+	
+	\node at (285:0.75) {\Jupiter};
+	\node at (285:0.65) [red!50] {[\tiny 22°]};
+	\node at (285:0.55) {\tiny 7°};
+	
+	\node at (225:0.75) {\Mars};
+	\node at (225:0.65) {\tiny 7°};
+	
+	\node at (100:0.75) {\Venus};
+	\node at (100:0.65) {\tiny 28°};
+			
+	\node  at (135:0.75) {\Mercury};
+	\node  at (135:0.65) {\tiny 11°};
+		
+	% -- draw Lots
+	%\node at (100:0.7) {\Fortune \tiny 14°};   
+	%\node at (105:0.65) {2°};
+	
+	% -- Colour house
+	 % -- 	arc(start angle : delta angle : radius)
+     \scoped[on background layer]\filldraw[orange!10]
+     	(0,0) -- (347:1.05) arc (347:437:1.05);
+     	
+	% -- Aspect
+	\draw [red, thick] 
+	      (265:0.6)--(87:0.65) node [below] {\scriptsize 27°\Opposition\Saturn};		
+	\draw [red, thick] 
+	      (225:0.6)--(45:0.65) node [below] {\scriptsize 7°\Opposition\Mars};
+	      \draw [black!60!green, thick] 
+	      (288:0.5)--(45:0.65) node [left] {\scriptsize 7°\Trine\Jupiter};
+\end{scope}	
 	
 \end{tikzpicture}
 \end{document}
