@@ -1,5 +1,30 @@
 % packages used by all the chart files
-\usepackage{starfont}
-\usepackage{tikz}
-\usetikzlibrary{backgrounds}
+\usepackage{wasysym}	% for astrology symbols
+\usepackage{starfont}		% astrology font
+\usepackage{tikz}			% drawing package
+\usetikzlibrary{backgrounds, calc, quotes}
+\starfontsans
 
+\tikzset{
+	pics/fortune/.style ={ % Lot of Fortune
+		code={
+			\node (lot) [draw, circle, thick] {};
+			\draw [thick] (lot.north east) -- (lot.south west)
+    				(lot.north west) -- (lot.south east);}
+	}
+}
+
+\tikzset{ % Lot of Daimon
+	daimon/.pic ={ 
+		\node (lot) [draw, circle, thick, font=\bfseries] {};
+		\draw [very thick] ([yshift=0.05cm]lot.north) --
+							 ([yshift=-0.05cm]lot.south);
+	}
+}
+
+\tikzset{
+	pics/lot/.style = { % Generic Lot with symbol parameter
+			code={\node [draw, circle, thick, font=\bfseries, scale=0.5]
+						 {\textbf{\textsl{#1}}};}
+	}
+}
