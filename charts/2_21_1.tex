@@ -1,23 +1,43 @@
 % Valens Book II.21 First example chart
-%\documentclass[border=10pt]{standalone}
-%\input{chartPreamble}
+\documentclass[border=3pt]{standalone}
+\input{chartPreamble}
 %
-%\begin{document}
+\begin{document}
 \begin{tikzpicture}[scale=3.5]
+\begin{scope}[rotate=165]
+	% draw numbered, fixed house positions
+	\foreach \sign/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\sign + 15:0.2) node {\tiny\label};
+\end{scope}
+
+\begin{scope}[rotate=-15]
 	% --- Draw the basic chart
 	% draw the circles
-	\draw[thick] (0,0) circle(1.0);
-	\draw[thick] (0,0) circle(0.9);
+	\draw[thick] (0,0) circle(1.05);
+	\draw[thick] (0,0) circle(0.85);
 	
 	% draw cusps
 	\foreach \x in {0,30,...,330} {
 	        % lines from center to point
-	        \draw[gray] (0,0) -- (\x:1);
+	        \draw[gray] (0,0) -- (\x:1.05);
 	}
 	
 	% draw center of circle
-	\fill[white] (0,0) circle(0.1);
-	\draw[thick] (0,0) circle(0.1);
+	\fill[white] (0,0) circle(0.15);
+	\draw (0,0) circle(0.15);
+	\draw (0,0) circle(0.25);
 	
 	% draw sign labels
 	\foreach \sign/\label in {
@@ -28,27 +48,34 @@
 	\draw (\sign:0.95) node {\label};
 	
 	% --- draw Asc and MC lines
-	\draw [->, red, ultra thick] 
+	\draw [->, red] 
 	    (15:1.2)--(195:1.2cm)
 	    node [above] {\ASC}; % $ 0^\circ$};
 	
 	%\draw [->, blue, ultra thick] 
 	%    (100:1.2)--(280:1.2)node [left] {\MC $ 10^\circ$};	
 	
+	% -- Colour house
+	 % -- 	arc(start angle : delta angle : radius)
+     \scoped[on background layer]\filldraw[green!10]
+     	(0,0) -- (240:.85) arc (240:270:.85);
+ 	 \scoped[on background layer]\filldraw[yellow!20]
+     	(0,0) -- (120:.85) arc (120:150:.85);
+	
 	% --- draw planets
-	\node         at (213:0.8)  {\Sun};      %$ 1^\circ$}; 
-	\node [below] at (216:0.75) {\Mercury};  %$13^\circ$};     
-	\node [below] at (225:0.75) {\Mars};     %$27^\circ$};       
-	\node         at (106:0.75) {\Moon};     %$16^\circ$};
-	\node         at (190:0.75) {\Venus};    %$21^\circ$};
-	\node [right] at (243:0.75) {\Jupiter}; %$ 3^\circ$};
-	\node         at (310:0.75) {\Saturn};   %$10^\circ$};	
+	\node         at (214:0.75)  {\Sun};      
+	\node [below] at (216:0.75) {\Mercury};     
+	\node [below, blue] at (225:0.70) {\Large\Mars};    
+	\node [blue]   at (106:0.75) {\LARGE\Moon};     
+	\node [blue]   at (190:0.75) {\large\Venus};    
+	\node [right] at (243:0.75) {\Jupiter}; 
+	\node         at (310:0.75) {\Saturn};   
 	\node         at (315:0.5)  {\Fortune};
 	
 	% -- draw aspect
-	\draw [green] (106:0.75)-- node[above, left]
-		{\Trine} (225:0.75);
-	
-	
+	\draw [black!50!green] (106:0.65)-- node[above, left]
+		{\Trine} (230:0.65);
+		
+\end{scope}
 \end{tikzpicture}
-%\end{document}
+\end{document}
