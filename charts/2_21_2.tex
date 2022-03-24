@@ -1,4 +1,4 @@
-% Valens Book II.22 Second example chart
+% Valens Book II.21 Second example chart GH L95 V,18
 \documentclass[border=2pt]{standalone}
 \input{chartPreamble}
 
@@ -67,8 +67,10 @@
 	\node at (280:0.7) {\Jupiter}; 
 	\node at (95:0.7)  {\Saturn};   
 	\node at (105:0.7) [blue] {\large\Mars};     
-	\node at (115:.7) [blue]  {\Large\Venus};     	
-	\node at (75:0.7)  {\Fortune};
+	\node at (115:.7) [blue]  {\Large\Venus};  
+	
+	% -- Lots   	
+	\pic at (75:0.7)  {fortune};
 
 \end{scope}
 \end{tikzpicture}

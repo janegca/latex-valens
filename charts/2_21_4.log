@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.20)  22 MAR 2022 08:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.20)  24 MAR 2022 15:50
 entering extended mode
 **./2_21_4.tex
 (2_21_4.tex
@@ -484,17 +484,17 @@ LaTeX Font Info:    Font shape `OT1/stf/m/n' will be
 {C:/Users/jgris/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (2_21_4.aux) ) 
 Here is how much of TeX's memory you used:
- 12808 strings out of 478840
- 265817 string characters out of 2848060
- 544088 words of memory out of 3000000
- 30540 multiletter control sequences out of 15000+600000
+ 12824 strings out of 478840
+ 266179 string characters out of 2848060
+ 545079 words of memory out of 3000000
+ 30556 multiletter control sequences out of 15000+600000
  405251 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,7n,111p,454b,743s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 107i,9n,111p,454b,986s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/jgris/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmr5.pfb><C:/Users/jgris/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/starfont/starfont.pfb>
-Output written on 2_21_4.pdf (1 page, 26179 bytes).
+Output written on 2_21_4.pdf (1 page, 26038 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

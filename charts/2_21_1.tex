@@ -1,4 +1,4 @@
-% Valens Book II.21 First example chart
+% Valens Book II.21 First example chart GH L50
 \documentclass[border=3pt]{standalone}
 \input{chartPreamble}
 %
@@ -72,7 +72,9 @@
 	\node [blue]   at (190:0.75) {\large\Venus};    
 	\node [right] at (243:0.75) {\Jupiter}; 
 	\node         at (310:0.75) {\Saturn};   
-	\node         at (315:0.5)  {\Fortune};
+	
+	% -- Lots
+	\pic at (315:0.5)  {fortune};
 	
 	% -- draw aspect
 	\draw [black!50!green] (106:0.65)-- node[above, left]
