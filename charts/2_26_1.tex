@@ -1,23 +1,43 @@
-% Valens Book II.26 15th example chart
-%\documentclass[border=10pt]{standalone}
-%\input{chartPreamble}
+% Valens Book II.26.1 example chart GH L188
+\documentclass[border=3pt]{standalone}
+\input{chartPreamble}
 %
-%\begin{document}
-\begin{tikzpicture}[rotate=0, scale=3.5]
+\begin{document}
+\begin{tikzpicture}[scale=3.5]
+\begin{scope}[rotate=165]
+	% draw numbered, fixed house positions
+	\foreach \sign/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\sign + 15:0.2) node {\tiny\label};
+\end{scope}
+
+\begin{scope}[rotate=-15]
 	% --- Draw the basic chart
 	% draw the circles
-	\draw[thick] (0,0) circle(1.0);
-	\draw[thick] (0,0) circle(0.9);
+	\draw (0,0) circle(1.05);
+	\draw (0,0) circle(0.85);
 	
 	% draw cusps
 	\foreach \x in {0,30,...,330} {
 	        % lines from center to point
-	        \draw[gray] (0,0) -- (\x:1);
+	        \draw[gray] (0,0) -- (\x:1.05);
 	}
 	
 	% draw center of circle
-	\fill[white] (0,0) circle(0.1);
-	\draw[thick] (0,0) circle(0.1);
+	\fill[white] (0,0) circle(0.15);
+	\draw (0,0) circle(0.15);
+	\draw (0,0) circle(0.25);
 	
 	% draw sign labels
 	\foreach \sign/\label in {
@@ -28,30 +48,32 @@
 	\draw (\sign:0.95) node {\label};
 	
 	% --- draw Asc and MC lines
-	\draw [->, red, ultra thick] 
+	\draw [->, red] 
 	    (15:1.2)--(195:1.2cm)
-	    node [above] {\ASC}; % $ 0^\circ$};
+	    node [above] {\ASC};
 	
-	\draw [->, blue, dashed, ultra thick] 
-	     (285:1.2)--(105:1.2)node [left] {\MC}; %$ 10^\circ$};	
+	% -- Colour house
+	 % -- 	arc(start angle : delta angle : radius)
+ 	 \scoped[on background layer]\filldraw[yellow!20]
+     	(0,0) -- (60:.85) arc (60:90:.85);		 	
+     \scoped[on background layer]\filldraw[green!10]
+     	(0,0) -- (120:.85) arc (120:150:.85);			
 	
 	% --- draw planets
-	\node         at (125:0.8) {\Sun};      %$ 1^\circ$};
-	\node         at (132:0.8) {\Moon};     %$16^\circ$};
-	\node         at (139:0.8) {\Jupiter};  %$ 3^\circ$};			
-	\node         at (145:0.8) {\Mercury};  %$13^\circ$};	
-	
-	\node         at (75:0.8) {\Mars};     %$27^\circ$}; 	
-	\node [{red}] at (315:0.8) {[\Mars]};
-	\node         at (115:0.8) {\Venus};    %$21^\circ$};		
+	\node at (132:0.75) {\Moon};	
+	\node at (125:0.75) [blue] {\Large\Sun};
+	\node at (185:0.75) [blue] {\large\Saturn}; 
+	\node at (138:0.75) [blue] {\Large\Jupiter};	
+	\node at (75:0.75) {\Mars};
+	\node at (105:0.75) {\Venus};			
+	\node at (145:0.75) {\Mercury};
 		
-	\node         at (185:0.8) {\Saturn}; 
-		
-	\node			 at (205:0.8) {\Fortune};    	
-	
-	
-	% -- draw aspects
-	
+	% -- draw Lots
+	\pic at (205:0.75) {fortune};
+	\pic at (204:0.6) {daimon};
+	\pic at (203:0.45) {lot=B}; 				% Basis
+
+\end{scope}
 	
 \end{tikzpicture}
-%\end{document}
+\end{document}
