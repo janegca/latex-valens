@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.20)  13 JUL 2021 09:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.20)  27 MAR 2022 11:23
 entering extended mode
 **./2_36_2.tex
 (2_36_2.tex
@@ -57,6 +57,12 @@ File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 \sa@box=\box50
 )
 (chartPreamble.tex
+(C:\Users\jgris\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+)
 (C:\Users\jgris\AppData\Local\Programs\MiKTeX\tex/latex/starfont\starfont.sty
 Package: starfont 2010/09/29 v1.2 Anthony Owen's StarFont
 )
@@ -410,13 +416,22 @@ z/libraries\tikzlibrarybackgrounds.code.tex
 File: tikzlibrarybackgrounds.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@layerbox@background=\box62
 \pgf@layerboxsaved@background=\box63
+)
+(C:\Users\jgris\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\jgris\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
 (C:\Users\jgris\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box64
-) (2_36_2.aux)
+)
+No file 2_36_2.aux.
 \openout1 = `2_36_2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -460,25 +475,27 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    Font shape `OT1/stf/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 28.
+(Font)              scaled to size 9.49997pt on input line 48.
  [1
 
 {C:/Users/jgris/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (2_36_2.aux) ) 
 Here is how much of TeX's memory you used:
- 12368 strings out of 478840
- 257699 string characters out of 2848060
- 533140 words of memory out of 3000000
- 30112 multiletter control sequences out of 15000+600000
- 403838 words of font info for 28 fonts, out of 8000000 for 9000
+ 12771 strings out of 478840
+ 264818 string characters out of 2848060
+ 546095 words of memory out of 3000000
+ 30505 multiletter control sequences out of 15000+600000
+ 404505 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,7n,111p,440b,639s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 107i,9n,111p,454b,986s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/jgris/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmr10.pfb><C:/Users/jgris/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/starfont/starfont.pfb>
-Output written on 2_36_2.pdf (1 page, 23772 bytes).
+amsfonts/cm/cmbxsl10.pfb><C:/Users/jgris/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/jgris/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/jgris/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/starfont/starfont.pfb>
+Output written on 2_36_2.pdf (1 page, 43071 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
