@@ -1,23 +1,43 @@
-% Valens Book II.41.4 34nd chart
-\documentclass[border=2pt]{standalone}
+% Valens Book II.41.04 example chart GH L86
+\documentclass[border=3pt]{standalone}
 \input{chartPreamble}
-
+%
 \begin{document}
-\begin{tikzpicture}[rotate=180, scale=3.5]
+\begin{tikzpicture}[scale=3.5]
+\begin{scope}[rotate=165]
+	% draw numbered, fixed house positions
+	\foreach \sign/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\sign + 15:0.2) node {\tiny\label};
+\end{scope}
+
+\begin{scope}[rotate=165]
 	% --- Draw the basic chart
 	% draw the circles
-	\draw[thick] (0,0) circle(1.0);
-	\draw[thick] (0,0) circle(0.88);
+	\draw (0,0) circle(1.05);
+	\draw (0,0) circle(0.85);
 	
 	% draw cusps
 	\foreach \x in {0,30,...,330} {
 	        % lines from center to point
-	        \draw[gray] (0,0) -- (\x:1);
+	        \draw[gray] (0,0) -- (\x:1.05);
 	}
 	
 	% draw center of circle
-	\fill[white] (0,0) circle(0.1);
-	\draw[thick] (0,0) circle(0.1);
+	\fill[white] (0,0) circle(0.15);
+	\draw (0,0) circle(0.15);
+	\draw (0,0) circle(0.25);
 	
 	% draw sign labels
 	\foreach \sign/\label in {
@@ -25,30 +45,36 @@
 	105 /\Cancer, 135 /\Leo, 165 /\Virgo,
 	195 /\Libra, 225 /\Scorpio, 255 /\Sagittarius,
 	285 /\Capricorn, 315 /\Aquarius, 345 /\Pisces}
-	\draw (\sign:0.94) node {\label};
+	\draw (\sign:0.95) node {\label};
 	
 	% --- draw Asc and MC lines
-	\draw [->, red, ultra thick] 
+	\draw [->, red] 
 	    (195:1.2)--(15:1.2cm)
-	    node [above] {\ASC}; % $ 0^\circ$};
-	
-	%\draw [->, blue, ultra thick] 
-	%    (195:1.2)--(15:1.2)node [left] {\MC}; %$ 10^\circ$};	
+	    node [above] {\ASC};     
 	
 	% --- draw planets
-	\node         at (275:0.8) {\Sun};      %$ 1^\circ$};
-	\node         at (315:0.8) {\Moon};     %$16^\circ$};		
-	\node         at (285:0.8) {\Mercury};  %$13^\circ$}; 	 	   
-	\node         at (290:0.6){\Venus};    %$21^\circ$};	    
-	\node         at (295:0.8) {\Mars};     %$27^\circ$};			
-	\node         at (280:0.6) {\Jupiter};  %$ 3^\circ$};			
-	\node         at ( 45:0.8) {\Saturn};   %$10^\circ$};		
+	\node at (315:0.75) {\Moon};	
+	\node at (275:0.75) {\Sun};
+	\node at ( 45:0.75) {\Saturn}; 
+	\node at (280:0.6) {\Jupiter};	
+	\node at (295:0.75) {\Mars};
+	\node at (290:0.6) {\Venus};			
+	\node at (285:0.75) {\Mercury};
 		
-%	\node         at ( 75:0.6) {\Fortune};
-%	\node			 at (225:0.6) {D};	
+	% -- draw Lots
+	\pic at ( 45:0.6) [blue] {fortune};
+	\pic at (345:0.6) [blue]{daimon};
+	%\pic at ( 15:0.6) {lot=B}; 				% Basis
 	
-	% -- draw aspects
+	% -- draw syzygy
+	%\pic at (285:0.6){lot=Sy};
 	
+	% -- Colour house
+	 % -- 	arc(start angle : delta angle : radius)
+     \scoped[on background layer]\filldraw[blue!10]
+     	(0,0) -- (240:1.05) arc (240:270:1.05);	
+
+\end{scope}
 	
 \end{tikzpicture}
 \end{document}
