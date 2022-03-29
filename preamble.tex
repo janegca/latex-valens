@@ -14,6 +14,7 @@
 \usepackage{relsize}				% used by headers
 \usepackage{xspace}				% force a space
 \usepackage{longtable}			% span pages
+\usepackage{makecell}
 \usepackage{multirow}			% for table rows
 \usepackage{textcomp}			% for text angle brackets
 \usepackage{siunitx}				% align numbers in table
@@ -105,5 +106,8 @@
 
 % degree symbol
 \renewcommand{\deg}{$^{\circ}$}
+
+% centering `p' columns in a table
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
 
 
