@@ -1,23 +1,44 @@
-% Valens Book III.15.2 50th example chart
-\documentclass[border=10pt]{standalone}
+% Valens Book III.15.2 50th example chart GH L102, IV
+\documentclass[border=2pt]{standalone}
 \input{chartPreamble}
 
 \begin{document}
-\begin{tikzpicture}[rotate=120, scale=3.5]
+\begin{tikzpicture}[scale=3.5]
+\begin{scope}[rotate=165]
+	% draw numbered, fixed house positions
+	\foreach \sign/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\sign + 15:0.2) node {\tiny\label};
+\end{scope}
+
+\begin{scope}[rotate=105]
+
 	% --- Draw the basic chart
 	% draw the circles
-	\draw[thick] (0,0) circle(1.0);
-	\draw[thick] (0,0) circle(0.9);
+	\draw (0,0) circle(1.05);
+	\draw (0,0) circle(0.85);
 	
 	% draw cusps
 	\foreach \x in {0,30,...,330} {
 	        % lines from center to point
-	        \draw[gray] (0,0) -- (\x:1);
+	        \draw[gray] (0,0) -- (\x:1.05);
 	}
 	
 	% draw center of circle
-	\fill[white] (0,0) circle(0.1);
-	\draw[thick] (0,0) circle(0.1);
+	\fill[white] (0,0) circle(0.15);
+	\draw (0,0) circle(0.15);
+	\draw (0,0) circle(0.25);
 	
 	% draw sign labels
 	\foreach \sign/\label in {
@@ -28,30 +49,22 @@
 	\draw (\sign:0.95) node {\label};
 	
 	% --- draw Asc and MC lines
-	\draw [->, red, ultra thick] 
+	\draw [->, red] 
 	    (255:1.2)--(75:1.2cm)
-	    node [above] {\ASC}; % $ 0^\circ$};
-	
-%	\draw [->, blue, dashed, ultra thick] 
-%	     (285:1.2)--(105:1.2)node [left] {\MC}; %$ 10^\circ$};	
+	    node [above] {\ASC}; 
 	
 	% --- draw planets
-	\node         at ( 35:0.8) {\Sun};      %$ 1^\circ$}; 
-	\node         at ( 45:0.8) {\Mercury};  %$13^\circ$}; 
+	\node         at ( 35:0.7) {\Sun};      
+	\node         at ( 45:0.7) {\Mercury};  
 	
-	\node         at (345:0.8) {\Moon};     %$16^\circ$};
-	\node         at ( 25:0.8) {\Venus};    %$21^\circ$};	
+	\node         at (345:0.7) {\Moon};    
+	\node         at ( 25:0.7) {\Venus};   
 		
-	\node         at (225:0.8) {\Saturn};
+	\node         at (225:0.7) {\Saturn};
 	
-	\node         at (  5:0.8) {\Jupiter};  %$ 3^\circ$};	
-	\node         at ( 15:0.8) {\Mars};     %$27^\circ$}; 
-	
-%	\node			 at (135:0.6) {\Fortune};    	
-	
-	
-	% -- draw aspects
-	
-	
+	\node         at (  5:0.7) {\Jupiter};  
+	\node         at ( 15:0.7) {\Mars};     
+		
+\end{scope}	
 \end{tikzpicture}
 \end{document}
