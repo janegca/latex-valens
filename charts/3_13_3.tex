@@ -1,18 +1,38 @@
-% Valens Book III.13.3 48th chart
+% Valens Book III.13.3 48th chart GH L115, II
 \documentclass[border=2pt]{standalone}
 \input{chartPreamble}
 
 \begin{document}
-\begin{tikzpicture}[rotate=-90, scale=3.5]
+\begin{tikzpicture}[scale=3.5]
+\begin{scope}[rotate=160]
+	% draw numbered, fixed house positions
+	\foreach \sign/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\sign + 15:0.2) node {\tiny\label};
+\end{scope}
+
+\begin{scope}[rotate=255]
+
 	% --- Draw the basic chart
 	% draw the circles
-	\draw[thick] (0,0) circle(1.0);
-	\draw[thick] (0,0) circle(0.88);
+	\draw (0,0) circle(1.05);
+	\draw (0,0) circle(0.85);
 	
 	% draw cusps
 	\foreach \x in {0,30,...,330} {
 	        % lines from center to point
-	        \draw[gray] (0,0) -- (\x:1);
+	        \draw[gray] (0,0) -- (\x:1.05);
 	}
 	
 	% draw center of circle
@@ -28,28 +48,21 @@
 	\draw (\sign:0.94) node {\label};
 	
 	% --- draw Asc and MC lines
-	\draw [->, red, ultra thick] 
+	\draw [->, red] 
 	    (108:1.2)--(288:1.2cm)
-	    node [above] {\tiny{\ASC $18^\circ$}}; 
-	
-%	\draw [->, blue, ultra thick] 
-%	    (73:1.2)--(253:1.2)node [left] {\tiny{\MC$13^\circ$}};
+	    node [above] {\tiny{\ASC\, 18°}}; 
 	
 	% --- draw planets
-	\node        at (320:0.7) {\Sun \tiny{$29^\circ$}};
-	\node        at ( 5:0.6) {\Moon}; %\tiny{$16^\circ$}};
-%	\node        at (234:0.7) {\Mercury \tiny{$27^\circ$}};
-%	\node        at (206:0.7) {\Venus \tiny{$25^\circ $}};
-%	\node        at (218:0.7) {\Mars \tiny{$4^\circ 20'$}};
-%	\node        at ( 75:0.7) {\Jupiter \tiny{$19^\circ 11'$}};
-%	\node        at (191:0.7) {\Saturn \tiny{$11^\circ 33'$}}; 
-%	\node        at (255:0.6) {\Fortune};
-% 	\node			at (105:0.6) {D};	
-   \node        at (226:0.7) {\NorthNode \tiny{$16^\circ$}};
-   \node        at ( 18:0.8) {\Moon \tiny{New $26^\circ$}};
+	\node        at (320:0.7) {\Sun \tiny{29°}};
+	\node        at ( 5:0.7) {\Moon};
+   \node        at (226:0.7) {\NorthNode \tiny{16°}};
+   \node        at ( 310:0.6) {\Moon \tiny{New 26°}};
+   
+    % -- Colour house
+	 % -- 	arc(start angle : delta angle : radius)
+     \scoped[on background layer]\filldraw[orange!30]
+     	(0,0) -- (288:1.05) arc (288:326:1.05);   
 	
-	% -- draw aspects
-	
-	
+\end{scope}	
 \end{tikzpicture}
 \end{document}
