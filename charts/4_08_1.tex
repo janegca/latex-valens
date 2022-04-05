@@ -1,23 +1,44 @@
-% Valens Book IV.08.1 42b chart, (also in III.6.1, 14.1)
+% Valens Book IV.08.1 42b chart, (also in III.6.1, 14.1) GH L75
 \documentclass[border=2pt]{standalone}
 \input{chartPreamble}
 
 \begin{document}
-\begin{tikzpicture}[rotate=-150, scale=3.5]
+\begin{tikzpicture}[scale=3.5]
+\begin{scope}[rotate=165]
+	% draw numbered, fixed house positions
+	\foreach \sign/\label in {
+		0 / 1, 
+		30/ 2, 
+		60 / 3,
+		90 / 4, 
+		120 / 5, 
+		150 / 6,
+		180/ 7 , 
+		210 / 8, 
+		240 / 9,
+		270 + 5 / 10, 
+		300 + 5 / 11, 
+		330 + 5/ 12}
+	\draw (\sign + 15:0.2) node {\tiny\label};
+\end{scope}
+
+\begin{scope}[rotate=-165]
+
 	% --- Draw the basic chart
 	% draw the circles
-	\draw[thick] (0,0) circle(1.0);
-	\draw[thick] (0,0) circle(0.88);
+	\draw[thick] (0,0) circle(1.05);
+	\draw[thick] (0,0) circle(0.85);
 	
 	% draw cusps
 	\foreach \x in {0,30,...,330} {
 	        % lines from center to point
-	        \draw[gray] (0,0) -- (\x:1);
+	        \draw[gray] (0,0) -- (\x:1.05);
 	}
 	
 	% draw center of circle
-	\fill[white] (0,0) circle(0.1);
-	\draw[thick] (0,0) circle(0.1);
+	\fill[white] (0,0) circle(0.15);
+	\draw (0,0) circle(0.15);
+	\draw (0,0) circle(0.25);
 	
 	% draw sign labels
 	\foreach \sign/\label in {
@@ -28,26 +49,26 @@
 	\draw (\sign:0.94) node {\label};
 	
 	% --- draw Asc and MC lines
-	\draw [->, red, ultra thick] 
+	\draw [->, red] 
 	    (167:1.2)--(347:1.2cm)
-	    node [above] {\tiny{\ASC $17^\circ$}}; 
+	    node [above] {\tiny{\ASC 17°}}; 
 	
-	\draw [->, blue, ultra thick] 
-	    (85:1.2)--(265:1.2)node [left] {\tiny{\MC$25^\circ$}};
+	\draw [->, blue, dashed] 
+	    (85:1.2)--(265:1.2)node [left] {\tiny{\MC 25°}};
 	
 	% --- draw planets
-	\node        at (105:0.6) {\Sun \tiny{$29^\circ 30'$}};
-	\node        at (342:0.75) {\Moon \tiny{$12^\circ$}};
-	\node        at (130:0.7) {\Mercury \tiny{$11^\circ 25$}};
-	\node        at (100:0.7) {\Venus \tiny{$28^\circ 13'$}};
-	\node        at (220:0.8) {\Mars \tiny{$7^\circ 23'$}};
-	\node        at (292:0.7) {\Jupiter \tiny{$22^\circ 13'$}};
-	\node        at (255:0.75) {\Saturn \tiny{$27^\circ 8'$}}; 
-	\node        at (135:0.6) {\Fortune};
- 	\node			at (225:0.6) {D};	
+	\node        at (105:0.6) {\Sun \tiny{29° 30'}};
+	\node        at (342:0.75) {\Moon \tiny{12°}};
+	\node        at (130:0.7) {\Mercury \tiny{11° 25'}};
+	\node        at (100:0.7) {\Venus \tiny{28° 13'}};
+	\node        at (220:0.8) {\Mars \tiny{7° 23'}};
+	\node        at (290:0.7) {\Jupiter \tiny\Retrograde{22° 13'}};
+	\node        at (255:0.75) {\Saturn \tiny{27° 8'}}; 
 	
-	% -- draw aspects
+	\pic at (135:0.6) {fortune};
+ 	\pic at (225:0.6) {daimon};	
+ 	\pic at (285:0.5) {lot=S};
 	
-	
+\end{scope}	
 \end{tikzpicture}
 \end{document}
