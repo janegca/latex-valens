@@ -1,7 +1,7 @@
-% Valens Book VII.4.2 78th example chart  GH L159 
-\documentclass[border=2pt]{standalone}
+% Valens Book II.21 5th example chart GH L74 XI
+\documentclass[border=3pt]{standalone}
 \input{chartPreamble}
-
+%
 \begin{document}
 \begin{tikzpicture}[scale=3.5]
 \begin{scope}[rotate=165]
@@ -22,7 +22,7 @@
 	\draw (\sign + 15:0.2) node {\tiny\label};
 \end{scope}
 
-\begin{scope}[rotate=135]
+\begin{scope}[rotate=-15]
 	% --- Draw the basic chart
 	% draw the circles
 	\draw (0,0) circle(1.05);
@@ -49,23 +49,21 @@
 	
 	% --- draw Asc and MC lines
 	\draw [->, red] 
-		    (225:1.2)--(45:1.2cm)
- 	       node [above] {\ASC}; 
-	
+	    (15:1.2)--(195:1.2cm)
+	    node [above] {\ASC};	   
+	    
 	% --- draw planets
-	\node         at (115:0.75) {\Sun};      
-	\node         at (95:0.75) {\Mercury};  
+	\node at (245:0.75) {\Sun};      
+	\node at (253:0.75) {\Mercury};  
+	\node at (260:0.75) {\Saturn};
+	\node at (267:0.75) {\Jupiter};  
+	\node at (105:0.75) {\Moon};     
+	\node at (165:0.75) {\Mars};     
+	\node at (190:0.75) {\Venus};    	
 	
-	\node         at (285:0.75) {\Moon};     
-	\node         at (105:0.75){\Venus};   	
-		
-	\node         at (220:0.75) {\Saturn};
-	
-	\node         at (315:0.75) {\Jupiter}; 	
-	\node         at (135:0.75) {\Mars};     
-	
-	\pic			 at (225:0.6) {fortune};   
+	% -- Lots
+	\pic at (345:0.75) {fortune};    	
 
-\end{scope}	
+\end{scope}
 \end{tikzpicture}
 \end{document}
