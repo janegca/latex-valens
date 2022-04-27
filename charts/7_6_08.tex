@@ -1,7 +1,7 @@
-% Valens Book VII.6.7   87th example chart GH L102,Xii,14
-\documentclass[border=2pt]{standalone}
+% Valens Book II.21 and VII.6.8 11th example chart GH L105
+\documentclass[border=4pt]{standalone}
 \input{chartPreamble}
-
+%
 \begin{document}
 \begin{tikzpicture}[scale=3.5]
 \begin{scope}[rotate=165]
@@ -22,7 +22,7 @@
 	\draw (\sign + 15:0.2) node {\tiny\label};
 \end{scope}
 
-\begin{scope}[rotate=15]
+\begin{scope}[rotate=-15]
 	% --- Draw the basic chart
 	% draw the circles
 	\draw (0,0) circle(1.05);
@@ -37,7 +37,7 @@
 	% draw center of circle
 	\fill[white] (0,0) circle(0.15);
 	\draw (0,0) circle(0.15);
-	\draw (0,0) circle(0.25);	
+	\draw (0,0) circle(0.25);
 	
 	% draw sign labels
 	\foreach \sign/\label in {
@@ -49,17 +49,20 @@
 	
 	% --- draw Asc and MC lines
 	\draw [->, red] 
-		    (345:1.2)--(165:1.2cm)
- 	       node [above] {\ASC}; 
+	    (15:1.2)--(195:1.2cm)
+	    node [above] {\ASC}; 
 	
 	% --- draw planets
-	\node         at (245:0.75) {\Sun};      
-	\node         at (265:0.75) {\Mercury};  
-	\node         at (105:0.75) {\Moon};   
-	\node         at (285:0.75){\Venus};    
-	\node         at (255:0.75) {\Saturn};
-	\node         at (45:0.75) {\Jupiter};  
-	\node         at (135:0.75) {\Mars};    
+	\node at (280:0.75) {\Sun};      
+	\node at (290:0.75) {\Mercury};  
+	\node at (250:0.75) {\Moon};     
+	\node at (260:0.75) {\Saturn}; 
+	\node at (160:0.75) {\Mars};     	
+	\node at (315:0.75) {\Venus};    
+	\node at (105:0.75) {\Jupiter};  	
+		
+	% -- Lots	
+	\pic at (225:0.6) {fortune};    	
 	
 \end{scope}
 \end{tikzpicture}
