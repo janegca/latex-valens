@@ -27,8 +27,7 @@
   \item banking, \hyperpage{6}
   \item barley, \hyperpage{1}
   \item beans, \hyperpage{5}
-  \item beautry, \hyperpage{5}, \hyperpage{8}
-  \item beauty, \hyperpage{1}
+  \item beauty, \hyperpage{1}, \hyperpage{5}, \hyperpage{8}
   \item belly, \hyperpage{7}
   \item beneficence, \hyperpage{3}
   \item bereavement, \hyperpage{2, 3}
@@ -39,7 +38,7 @@
   \item blood, \hyperpage{4}
   \item bloodshed, \hyperpage{4}
   \item body, \hyperpage{1}
-    \subitem fron from head to foot, \hyperpage{6}
+    \subitem front from head to foot, \hyperpage{6}
     \subitem right side, \hyperpage{4}
   \item boils, \hyperpage{4}
   \item breasts, \hyperpage{2}
@@ -57,8 +56,40 @@
   \item capricious, \hyperpage{7}
   \item capture, \hyperpage{2}, \hyperpage{4}
   \item care-worn, \hyperpage{2}
+  \item Ceres, \hyperpage{11}
   \item certification, \hyperpage{6}
   \item chains, \hyperpage{2}, \hyperpage{4}
+  \item character
+    \subitem ambitious, \hyperpage{14}
+    \subitem articulate, \hyperpage{12}
+    \subitem authoritarian, \hyperpage{9}
+    \subitem boastful, \hyperpage{9}
+    \subitem changeable, \hyperpage{9}, \hyperpage{14}
+    \subitem cheerful, \hyperpage{14}
+    \subitem distinguished, \hyperpage{9}, \hyperpage{11}
+    \subitem energetic, \hyperpage{11}
+    \subitem generous, \hyperpage{11}
+    \subitem great-hearted, \hyperpage{9}
+    \subitem hard, \hyperpage{9}
+    \subitem haughty, \hyperpage{9}
+    \subitem inflated, \hyperpage{9}
+    \subitem intimidating, \hyperpage{9}
+    \subitem just, \hyperpage{9}
+    \subitem music-loving, \hyperpage{11}
+    \subitem noble, \hyperpage{11}, \hyperpage{14}
+    \subitem party-giving, \hyperpage{14}
+    \subitem pleasure loving, \hyperpage{14}
+    \subitem pleasure-loving, \hyperpage{11}
+    \subitem popular, \hyperpage{14}
+    \subitem powerful, \hyperpage{9}
+    \subitem restless, \hyperpage{9}
+    \subitem stable, \hyperpage{11}
+    \subitem theatrical, \hyperpage{14}
+    \subitem toilsome, \hyperpage{11}
+    \subitem travelers, \hyperpage{14}
+    \subitem unfinished, \hyperpage{11}
+    \subitem unstable, \hyperpage{9}
+    \subitem wanderers, \hyperpage{14}
   \item cheerfulness, \hyperpage{5}
   \item childbearing, \hyperpage{3}
   \item childlessness, \hyperpage{3}
@@ -67,6 +98,27 @@
     \subitem young, \hyperpage{6}
   \item city, \hyperpage{2}
   \item cleanliness, \hyperpage{5}
+  \item climate
+    \subitem calm, \hyperpage{10}, \hyperpage{12, 13}
+    \subitem chill, \hyperpage{10}
+    \subitem cool, \hyperpage{10}
+    \subitem damp, \hyperpage{13}
+    \subitem desctructive, \hyperpage{12}
+    \subitem destructive, \hyperpage{9, 10}, \hyperpage{13}
+    \subitem earthquakes, \hyperpage{10}, \hyperpage{13}
+    \subitem fiery, \hyperpage{10}
+    \subitem hail, \hyperpage{9}
+    \subitem hot, \hyperpage{9, 10}, \hyperpage{13}
+    \subitem lightning, \hyperpage{10}
+    \subitem mild, \hyperpage{9}
+    \subitem smokey, \hyperpage{10}
+    \subitem stormy, \hyperpage{9}
+    \subitem temperate, \hyperpage{10}
+    \subitem thunder, \hyperpage{9, 10}
+    \subitem thunderstorms, \hyperpage{13}
+    \subitem watery, \hyperpage{9}
+    \subitem wet, \hyperpage{12, 13}
+    \subitem windy, \hyperpage{9}
   \item clothing
     \subitem decoration, \hyperpage{5}
   \item coins, \hyperpage{6}
@@ -82,6 +134,26 @@
   \item communication, \hyperpage{6}
   \item companionship, \hyperpage{5}
   \item conception, \hyperpage{1}, \hyperpage{83}
+  \item constellations
+    \subitem Aquila, \hyperpage{14}
+    \subitem Auriga, \hyperpage{9}, \hyperpage{11}
+    \subitem Bootes, \hyperpage{9}, \hyperpage{11}, \hyperpage{13, 14}
+    \subitem Canis, \hyperpage{13}
+    \subitem Canis Major, \hyperpage{14}
+    \subitem Cetus, \hyperpage{9}, \hyperpage{11}, \hyperpage{13}
+    \subitem Crown, \hyperpage{13, 14}
+    \subitem Eridanus, \hyperpage{11}, \hyperpage{13}
+    \subitem Hare, \hyperpage{14}
+    \subitem Hercules, \hyperpage{14}
+    \subitem Lupus, \hyperpage{9}
+    \subitem Lyra, \hyperpage{13}
+    \subitem Ophiouchus, \hyperpage{11}, \hyperpage{13}
+    \subitem Orioin, \hyperpage{11}
+    \subitem Orion, \hyperpage{13}
+    \subitem Perseus, \hyperpage{9}
+    \subitem Procyon, \hyperpage{14}
+    \subitem Satyr
+      \subsubitem see {constellations, Orion}, \hyperpage{13}
   \item copper, \hyperpage{7}
   \item cough, \hyperpage{3}
   \item crops, \hyperpage{3}
@@ -116,6 +188,7 @@
     \subitem difficult, \hyperpage{4}
   \item embroidery, \hyperpage{5}
   \item emeralds, \hyperpage{5}
+  \item estates, \hyperpage{11}
   \item excrement, \hyperpage{4}
   \item exile, \hyperpage{4}
   \item expenses, \hyperpage{2}
@@ -135,6 +208,8 @@
   \item fights, \hyperpage{4}
   \item fingers, \hyperpage{7}
   \item fire, \hyperpage{4}
+  \item fixed stars
+    \subitem Aries, \hyperpage{9}
   \item force, \hyperpage{4}
   \item foresight, \hyperpage{8}
   \item forethought, \hyperpage{6}
@@ -157,6 +232,12 @@
   \item geometry, \hyperpage{6}
   \item gifts, \hyperpage{3}, \hyperpage{5}
   \item glass, \hyperpage{2}
+  \item gods
+    \subitem Apollo, \hyperpage{13}
+    \subitem Hercules, \hyperpage{13}
+    \subitem Juno, \hyperpage{13}
+    \subitem Saturn, \hyperpage{13}
+    \subitem Vulcan, \hyperpage{13}
   \item gold, \hyperpage{1}
   \item gout, \hyperpage{3}
   \item griefs, \hyperpage{2}
@@ -214,8 +295,9 @@
     \subitem craftwork, \hyperpage{4}
     \subitem diviner, \hyperpage{6}
     \subitem doctor, \hyperpage{6}
+    \subitem educators, \hyperpage{12}
     \subitem factory worker, \hyperpage{5}
-    \subitem farmer, \hyperpage{2}
+    \subitem farmer, \hyperpage{2}, \hyperpage{11}
     \subitem gambler, \hyperpage{7}
     \subitem goldsmiths, \hyperpage{5}
     \subitem governor, \hyperpage{4}
@@ -223,28 +305,45 @@
     \subitem interpreter, dreams, \hyperpage{6}
     \subitem inventor, \hyperpage{5}
     \subitem jeweller, \hyperpage{5}
+    \subitem judge, \hyperpage{12}
+    \subitem king, \hyperpage{9}
+    \subitem laborers, \hyperpage{11}
+    \subitem leaders, \hyperpage{11}
     \subitem logician, \hyperpage{6}
     \subitem magician, \hyperpage{7}
     \subitem manager, \hyperpage{3}
     \subitem marketer, \hyperpage{5}
     \subitem masonry, \hyperpage{4}
+    \subitem merchant, \hyperpage{12}
     \subitem modeler, \hyperpage{6}
+    \subitem music-lovers, \hyperpage{12}
     \subitem musician, \hyperpage{6}
+    \subitem occultist, \hyperpage{12}
     \subitem orator, \hyperpage{6}
     \subitem performer, \hyperpage{7}
     \subitem philosopher, \hyperpage{6}
     \subitem physician, \hyperpage{6}
+    \subitem planters, \hyperpage{11}
+    \subitem poets, \hyperpage{12}
     \subitem priest, \hyperpage{7}
-    \subitem priests, \hyperpage{5}
+    \subitem priests, \hyperpage{5}, \hyperpage{11}
+    \subitem propagators, \hyperpage{11}
     \subitem prophet, \hyperpage{6}
     \subitem public office, \hyperpage{7}
+    \subitem rhetorician, \hyperpage{12}
+    \subitem scholars, \hyperpage{12}
     \subitem school adminstrator, \hyperpage{5}
+    \subitem school superintendants, \hyperpage{11}
     \subitem sculptor, \hyperpage{6}
     \subitem secretary, \hyperpage{6}
     \subitem serf, \hyperpage{2}
+    \subitem stewards, \hyperpage{12}
     \subitem strategist, \hyperpage{6}
     \subitem teacher, \hyperpage{7}
+    \subitem temple supervisors, \hyperpage{11}
     \subitem toy makers, \hyperpage{5}
+    \subitem translator, \hyperpage{12}
+    \subitem trustee, \hyperpage{12}
     \subitem waterside, \hyperpage{2}
     \subitem weaver, \hyperpage{6}
     \subitem weight lifters, \hyperpage{7}
@@ -303,6 +402,11 @@
   \item Midheaven
     \subitem how to compute, \hyperpage{39}
   \item mimes, \hyperpage{7}
+  \item mind
+    \subitem bold, \hyperpage{9}
+    \subitem brilliant, \hyperpage{9}, \hyperpage{11}
+    \subitem sensible, \hyperpage{12}
+    \subitem unsteady, \hyperpage{14}
   \item miserable, \hyperpage{2}
   \item money, \hyperpage{3}
   \item Moon
@@ -359,6 +463,7 @@
     \subitem Fortune houses, \hyperpage{124}
       \subsubitem accomplishment (acquisition), \hyperpage{129}
     \subitem names of, \hyperpage{112}
+  \item plagues, \hyperpage{9}
   \item planets
     \subitem aspects, \hyperpage{113}
     \subitem benefics, \hyperpage{100--104}, \hyperpage{106, 107}, 
@@ -418,7 +523,7 @@
     \subitem offices, \hyperpage{3}
     \subitem ties, \hyperpage{3}
   \item possession, \hyperpage{3}
-  \item possessions, \hyperpage{2, 3}
+  \item possessions, \hyperpage{2, 3}, \hyperpage{11}
     \subitem loss, \hyperpage{4}
   \item property
     \subitem loss, \hyperpage{4}
@@ -456,6 +561,15 @@
   \item Saturn
     \subitem significations, \hyperpage{2}, \hyperpage{8}
   \item screams, \hyperpage{4}
+  \item seas
+    \subitem Caspian Sea, \hyperpage{14}
+    \subitem Crimean Gulf, \hyperpage{14}
+    \subitem Dead Sea, \hyperpage{10}
+    \subitem Hellespont, \hyperpage{14}
+    \subitem Indian Ocean, \hyperpage{10}
+    \subitem Libyan Sea, \hyperpage{14}
+    \subitem Read Sea, \hyperpage{14}
+    \subitem Red Sea, \hyperpage{10}
   \item seat, \hyperpage{4}
   \item secretive, \hyperpage{2}
   \item secrets, \hyperpage{2}
@@ -471,8 +585,11 @@
   \item service, \hyperpage{6}
   \item shoulders, \hyperpage{7}
   \item sight, \hyperpage{1}
+  \item signa
+    \subitem public, \hyperpage{12}
   \item signs
     \subitem airy, \hyperpage{17}
+    \subitem amphibious, \hyperpage{14}
     \subitem anthromorphic, \hyperpage{17}, \hyperpage{21}
     \subitem Aquarius, \hyperpage{21}
     \subitem Aries, \hyperpage{9}
@@ -481,14 +598,24 @@
 		\hyperpage{19}, \hyperpage{22}
     \subitem Cancer, \hyperpage{13}
     \subitem Capricorn, \hyperpage{20}
+    \subitem changeable, \hyperpage{9}
+    \subitem climate
+      \subsubitem \Aries, \hyperpage{9}
+      \subsubitem \Cancer, \hyperpage{13}
+      \subsubitem \Gemini, \hyperpage{12}
+      \subsubitem \Taurus, \hyperpage{10}
     \subitem common, \hyperpage{16}
     \subitem earthy, \hyperpage{11}, \hyperpage{16}, \hyperpage{20}
-    \subitem ecliptic, \hyperpage{18}
+    \subitem ecliptic, \hyperpage{9}, \hyperpage{18}
     \subitem equinotical, \hyperpage{17}
     \subitem feminine, \hyperpage{10}, \hyperpage{14}, \hyperpage{16}, 
 		\hyperpage{18}, \hyperpage{20}, \hyperpage{22}
+    \subitem fertile, \hyperpage{9}
+    \subitem fertility, \hyperpage{11}
     \subitem fiery, \hyperpage{9}, \hyperpage{15}, \hyperpage{19}
+    \subitem fixed, \hyperpage{11}
     \subitem Gemini, \hyperpage{12}
+    \subitem governing, \hyperpage{9}
     \subitem Leo, \hyperpage{15}
     \subitem Libra, \hyperpage{17}
     \subitem listening and beholding, \hyperpage{42}
@@ -496,8 +623,10 @@
 		\hyperpage{19}, \hyperpage{21}
     \subitem mute, \hyperpage{11}, \hyperpage{14}, \hyperpage{16}, 
 		\hyperpage{18}, \hyperpage{20--22}
+    \subitem noble, \hyperpage{9}, \hyperpage{11}
     \subitem Pisces, \hyperpage{22}
     \subitem prolific, \hyperpage{14}
+    \subitem public, \hyperpage{14}
     \subitem rising times, \hyperpage{40}
     \subitem Sagittarius, \hyperpage{19}
     \subitem Scorpio, \hyperpage{18}
@@ -514,6 +643,8 @@
     \subitem Virgo, \hyperpage{16}
     \subitem vocal, \hyperpage{17}, \hyperpage{19}
     \subitem watery, \hyperpage{14}, \hyperpage{18}, \hyperpage{22}
+  \item sigsns
+    \subitem tropical, \hyperpage{10}
   \item silver, \hyperpage{2}
   \item singing, \hyperpage{5}
   \item slaghing, \hyperpage{4}
@@ -525,6 +656,46 @@
   \item spleen, \hyperpage{2}
   \item sport, \hyperpage{6}
   \item squalid, \hyperpage{2}
+  \item states
+    \subitem Acarnania, \hyperpage{14}
+    \subitem Africa, \hyperpage{12}
+    \subitem Arabia, \hyperpage{11}, \hyperpage{13}
+    \subitem Armenia, \hyperpage{10}, \hyperpage{12}, \hyperpage{14}
+    \subitem Babylon, \hyperpage{10, 11}
+    \subitem Babylonia, \hyperpage{10}
+    \subitem Bactria, \hyperpage{14}
+    \subitem Boeotia, \hyperpage{13}
+    \subitem Britain, \hyperpage{14}
+    \subitem Cappadocia, \hyperpage{10}, \hyperpage{14}
+    \subitem Carthage, \hyperpage{12}
+    \subitem Caucasus, \hyperpage{12}
+    \subitem Celtica, \hyperpage{13}
+    \subitem Cilicia, \hyperpage{13}
+    \subitem Cyprus, \hyperpage{11}
+    \subitem Egypt, \hyperpage{10}, \hyperpage{13}
+    \subitem Elymais, \hyperpage{10}, \hyperpage{12}
+    \subitem Ethiopia, \hyperpage{14}
+    \subitem Galatia, \hyperpage{13}
+    \subitem Germany, \hyperpage{12}
+    \subitem India, \hyperpage{12, 13}
+    \subitem Ionia, \hyperpage{14}
+    \subitem Kos, \hyperpage{14}
+    \subitem Libya, \hyperpage{13}
+    \subitem Lydia, \hyperpage{14}
+    \subitem Media, \hyperpage{11}
+    \subitem Palestine, \hyperpage{10}
+    \subitem Persis, \hyperpage{10}, \hyperpage{12}
+    \subitem Rhodes, \hyperpage{14}
+    \subitem Rome, \hyperpage{13}
+    \subitem Sarmatia, \hyperpage{12}
+    \subitem Schina, \hyperpage{14}
+    \subitem Scythia, \hyperpage{11}
+    \subitem Susa, \hyperpage{10}
+    \subitem Syria, \hyperpage{13}
+    \subitem Thrace, \hyperpage{10}, \hyperpage{13}
+    \subitem Thule, \hyperpage{14}
+    \subitem Troglodytia, \hyperpage{14}
+    \subitem Zakynthus, \hyperpage{14}
   \item steps
     \subitem of the Moon, \hyperpage{55}
   \item stewards, \hyperpage{3}
@@ -594,6 +765,7 @@
   \item Venus
     \subitem significations, \hyperpage{5}, \hyperpage{8}
   \item versatility, \hyperpage{6}
+  \item Vesta, \hyperpage{11}
   \item violence, \hyperpage{4}
   \item voice
     \subitem fine, \hyperpage{5}
