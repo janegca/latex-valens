@@ -17,7 +17,9 @@
     \subitem circle, \hyperpage{23}
     \subitem pole, \hyperpage{23}
   \item Ascendant
-    \subitem how to find, \hyperpage{33}
+    \subitem finding, \hyperpage{33}
+      \subsubitem degree, \hyperpage{34}, \hyperpage{37}
+    \subitem gnomon, \hyperpage{36}
   \item aspects
     \subitem sextile, \hyperpage{115}
   \item association, \hyperpage{6}
@@ -286,6 +288,8 @@
 
   \indexspace
 
+  \item day
+    \subitem ruler, \hyperpage{45}
   \item death
     \subitem violent, \hyperpage{3}
     \subitem wife, \hyperpage{4}
@@ -382,6 +386,11 @@
   \item homosexuality, \hyperpage{3}
   \item honors, \hyperpage{1}
   \item hopes, \hyperpage{4}
+  \item hour
+    \subitem ruler, \hyperpage{45}
+  \item hours
+    \subitem length
+      \subsubitem day, \hyperpage{39}
   \item household, \hyperpage{2}
     \subitem mistress, \hyperpage{2}
   \item housekeeping, \hyperpage{2}
@@ -553,7 +562,7 @@
   \item Mercury
     \subitem significations, \hyperpage{6}, \hyperpage{8}
   \item Midheaven
-    \subitem how to compute, \hyperpage{39}
+    \subitem finding, \hyperpage{39}
   \item mimes, \hyperpage{7}
   \item mind
     \subitem bold, \hyperpage{9}
@@ -709,8 +718,6 @@
   \item ruler
     \subitem of hour, \hyperpage{45}
     \subitem of the month, \hyperpage{47}
-    \subitem of the year, \hyperpage{47}
-    \subitem of week day, \hyperpage{45}
   \item rump, \hyperpage{18}
 
   \indexspace
@@ -763,6 +770,7 @@
     \subitem autumn, \hyperpage{19}
     \subitem barren, \hyperpage{16}
     \subitem base, \hyperpage{21}
+    \subitem beholding , \ see{listening and beholding}{42}
     \subitem bi-corporeal, \hyperpage{20}
     \subitem bicorporeal, \hyperpage{12}, \hyperpage{16}, 
 		\hyperpage{19}, \hyperpage{22}
@@ -1057,6 +1065,8 @@
 
   \indexspace
 
+  \item year
+    \subitem ruler, \hyperpage{47}
   \item youth, \hyperpage{6}
 
   \indexspace
