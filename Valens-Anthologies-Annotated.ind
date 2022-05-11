@@ -89,9 +89,10 @@
     \subitem \Virgo, \hyperpage{16}, \hyperpage{27}
     \subitem accusative, \hyperpage{21}
     \subitem acquisitive, \hyperpage{66}
-    \subitem adaptable, \hyperpage{68}
-    \subitem ambitious, \hyperpage{14}
+    \subitem adaptable, \hyperpage{68}, \hyperpage{72}
+    \subitem ambitious, \hyperpage{14}, \hyperpage{72}
     \subitem articulate, \hyperpage{12}
+    \subitem atheist, \hyperpage{72, 73}
     \subitem athletic, \hyperpage{69}
     \subitem authoritarian, \hyperpage{9}
     \subitem bad, \hyperpage{20}
@@ -101,15 +102,18 @@
     \subitem betraying, \hyperpage{21}
     \subitem blameworthy, \hyperpage{68}
     \subitem boastful, \hyperpage{9}
+    \subitem bold, \hyperpage{72}
     \subitem braggarts, \hyperpage{69}
     \subitem brilliant, \hyperpage{15}
     \subitem burdened, \hyperpage{20}
     \subitem changeable, \hyperpage{9}, \hyperpage{14}, \hyperpage{69}
     \subitem cheerful, \hyperpage{14}
-    \subitem commanding, \hyperpage{69}
+    \subitem clever, \hyperpage{74}
+    \subitem commanding, \hyperpage{69}, \hyperpage{72}
     \subitem conflicted, \hyperpage{23}
     \subitem conniving, \hyperpage{18}
-    \subitem covetous, \hyperpage{17, 18}
+    \subitem covetous, \hyperpage{17, 18}, \hyperpage{72}, 
+		\hyperpage{74}
     \subitem criminal, \hyperpage{18}, \hyperpage{20}
     \subitem critical, \hyperpage{20}
     \subitem curious, \hyperpage{65}
@@ -121,12 +125,14 @@
     \subitem envious, \hyperpage{21}
     \subitem experienced, \hyperpage{69}
     \subitem fickle, \hyperpage{20}, \hyperpage{68}
-    \subitem flexible, \hyperpage{68}
-    \subitem generous, \hyperpage{11}, \hyperpage{19}, \hyperpage{21}
+    \subitem flexible, \hyperpage{68}, \hyperpage{74}
+    \subitem generous, \hyperpage{11}, \hyperpage{19}, \hyperpage{21}, 
+		\hyperpage{72}
     \subitem glorious, \hyperpage{15}, \hyperpage{67}
     \subitem godless, \hyperpage{21}
     \subitem gracious, \hyperpage{68}
     \subitem great-hearted, \hyperpage{9}, \hyperpage{19}
+    \subitem greedy, \hyperpage{72}
     \subitem gregarious, \hyperpage{68}
     \subitem hard, \hyperpage{9}
     \subitem haughty, \hyperpage{9}
@@ -135,10 +141,13 @@
     \subitem imperious, \hyperpage{15}
     \subitem incorrigible, \hyperpage{18}, \hyperpage{21}
     \subitem independent, \hyperpage{15}, \hyperpage{69}
-    \subitem ineffective, \hyperpage{69}
+    \subitem ineffective, \hyperpage{69}, \hyperpage{73}
     \subitem inflated, \hyperpage{9}, \hyperpage{15}
     \subitem inquisitive, \hyperpage{69}
+    \subitem insecure, \hyperpage{74}
     \subitem insincere, \hyperpage{20}
+    \subitem insubordinate, \hyperpage{72}
+    \subitem intelligent, \hyperpage{74}
     \subitem intimidating, \hyperpage{9}
     \subitem irascible, \hyperpage{15}
     \subitem joker, \hyperpage{20}
@@ -150,6 +159,7 @@
     \subitem lewd, \hyperpage{23}
     \subitem loving, \hyperpage{19}
     \subitem lying, \hyperpage{20}
+    \subitem malevolent, \hyperpage{72}
     \subitem malicious, \hyperpage{17}, \hyperpage{21}, \hyperpage{68}
     \subitem martial, \hyperpage{69}
     \subitem misanthropic, \hyperpage{21}
@@ -158,7 +168,7 @@
     \subitem murderous, \hyperpage{18}
     \subitem music-loving, \hyperpage{11}
     \subitem noble, \hyperpage{11}, \hyperpage{14}, \hyperpage{16, 17}, 
-		\hyperpage{19}, \hyperpage{65, 66}
+		\hyperpage{19}, \hyperpage{65, 66}, \hyperpage{73}
     \subitem party-giving, \hyperpage{14}
     \subitem perjurious, \hyperpage{18}
     \subitem petty, \hyperpage{21}
@@ -171,30 +181,37 @@
     \subitem prolific, \hyperpage{23}
     \subitem prominent, \hyperpage{19}
     \subitem pure, \hyperpage{69}
+    \subitem reclusive, \hyperpage{73}
     \subitem religious, \hyperpage{16}
     \subitem resourceful, \hyperpage{69}
     \subitem restless, \hyperpage{9}
     \subitem reverent, \hyperpage{65}
     \subitem secretive, \hyperpage{21}
+    \subitem seducer, \hyperpage{74}
     \subitem self-controlled, \hyperpage{68}
     \subitem self-willed, \hyperpage{21}
     \subitem sensible, \hyperpage{69}
     \subitem sexy, \hyperpage{23}
     \subitem shameful, \hyperpage{20}
     \subitem shameless, \hyperpage{23}, \hyperpage{68}
+    \subitem sharp, \hyperpage{74}
     \subitem showy, \hyperpage{66, 67}
+    \subitem shrewd, \hyperpage{74}
     \subitem sociable, \hyperpage{23}, \hyperpage{68}
     \subitem spendthrift, \hyperpage{16}, \hyperpage{68}
     \subitem stable, \hyperpage{11}
     \subitem steady, \hyperpage{15}
+    \subitem subtle, \hyperpage{72}
     \subitem theatrical, \hyperpage{14}
     \subitem theiving, \hyperpage{23}
     \subitem thieving, \hyperpage{18}
     \subitem toilsome, \hyperpage{11}, \hyperpage{20}
+    \subitem traitor, \hyperpage{72}
     \subitem traitorous, \hyperpage{18}
     \subitem travelers, \hyperpage{14}
     \subitem tricky, \hyperpage{18}, \hyperpage{21}
     \subitem trusted, \hyperpage{16}, \hyperpage{67}
+    \subitem trustworthy, \hyperpage{72}
     \subitem tryant, \hyperpage{15}
     \subitem uncontrollable, \hyperpage{21}
     \subitem unfinished, \hyperpage{11}
@@ -202,10 +219,12 @@
     \subitem unstable, \hyperpage{9}
     \subitem unsteady, \hyperpage{23}, \hyperpage{68}
     \subitem varied, \hyperpage{23}
-    \subitem vigorous, \hyperpage{66}
+    \subitem vigorous, \hyperpage{66}, \hyperpage{72}
+    \subitem violent, \hyperpage{73}
     \subitem wanderer, \hyperpage{23}
     \subitem wanderers, \hyperpage{14}
     \subitem warped, \hyperpage{20}
+    \subitem wicked, \hyperpage{73}
   \item cheerfulness, \hyperpage{5}
   \item childbearing, \hyperpage{3}
   \item childlessness, \hyperpage{3}
@@ -391,7 +410,7 @@
   \item games, \hyperpage{6}
     \subitem racing, \hyperpage{4}
   \item gender
-    \subitem bi-sexual, \hyperpage{68}
+    \subitem bi-sexual, \hyperpage{68}, \hyperpage{73, 74}
   \item genitals, \hyperpage{4}
   \item geometry, \hyperpage{6}
   \item gifts, \hyperpage{3}, \hyperpage{5}
@@ -472,7 +491,8 @@
   \item jobs
     \subitem accountant, \hyperpage{6}, \hyperpage{16}, \hyperpage{67}
     \subitem actor, \hyperpage{7}, \hyperpage{16}
-    \subitem administrator, \hyperpage{16}, \hyperpage{67}
+    \subitem administrator, \hyperpage{16}, \hyperpage{67}, 
+		\hyperpage{72}
     \subitem advisor, legal, \hyperpage{6}
     \subitem architect, \hyperpage{6}
     \subitem artisan, \hyperpage{21}
@@ -493,9 +513,11 @@
     \subitem educator, \hyperpage{67}
     \subitem educators, \hyperpage{12}
     \subitem embezzler, \hyperpage{69}
+    \subitem entrepreneur, \hyperpage{73}
     \subitem factory worker, \hyperpage{5}
     \subitem farmer, \hyperpage{2}, \hyperpage{11}, \hyperpage{17}, 
 		\hyperpage{20}
+    \subitem financial, \hyperpage{72}
     \subitem forger, \hyperpage{69}
     \subitem gambler, \hyperpage{7}
     \subitem goldsmiths, \hyperpage{5}
@@ -548,12 +570,12 @@
     \subitem serf, \hyperpage{2}
     \subitem slave master, \hyperpage{67}
     \subitem steward, \hyperpage{16}
-    \subitem stewards, \hyperpage{12}, \hyperpage{65}
+    \subitem stewards, \hyperpage{12}, \hyperpage{65}, \hyperpage{72}
     \subitem strategist, \hyperpage{6}
     \subitem tax collector, \hyperpage{65}
     \subitem teacher, \hyperpage{7}
     \subitem temple supervisors, \hyperpage{11}
-    \subitem thief, \hyperpage{69}
+    \subitem thief, \hyperpage{69}, \hyperpage{72, 73}
     \subitem toy makers, \hyperpage{5}
     \subitem translator, \hyperpage{12}
     \subitem treasurer, \hyperpage{66}
@@ -707,10 +729,22 @@
     \subitem \Mercury-\Moon, \hyperpage{69}
     \subitem \Mercury-\Sun, \hyperpage{68}
     \subitem \Saturn-\Jupiter, \hyperpage{65}
+    \subitem \Saturn-\Jupiter-\Mars, \hyperpage{71}
+    \subitem \Saturn-\Jupiter-\Mercury, \hyperpage{72}
+    \subitem \Saturn-\Jupiter-\Moon, \hyperpage{71}
+    \subitem \Saturn-\Jupiter-\Sun, \hyperpage{71}
+    \subitem \Saturn-\Jupiter-\Venus, \hyperpage{72}
     \subitem \Saturn-\Mars, \hyperpage{65}
+    \subitem \Saturn-\Mars-\Mercury, \hyperpage{73}
+    \subitem \Saturn-\Mars-\Moon, \hyperpage{73}
+    \subitem \Saturn-\Mars-\Sun, \hyperpage{72}
+    \subitem \Saturn-\Mars-\Venus, \hyperpage{73}
     \subitem \Saturn-\Mercury, \hyperpage{65}
     \subitem \Saturn-\Sun, \hyperpage{66}
     \subitem \Saturn-\Venus, \hyperpage{65}
+    \subitem \Saturn-\Venus-\Mercury, \hyperpage{74}
+    \subitem \Saturn-\Venus-\Moon, \hyperpage{74}
+    \subitem \Saturn-\Venus-\Sun, \hyperpage{74}
     \subitem \Sun-\Moon, \hyperpage{69}
     \subitem \Venus-\Mars, \hyperpage{68}
     \subitem \Venus-\Mercury, \hyperpage{68}
@@ -754,48 +788,83 @@
       \subsubitem winds, \hyperpage{55}
     \subitem predicting effects, \hyperpage{81}
     \subitem productive of
-      \subsubitem accusations, \hyperpage{69}
+      \subsubitem accusations, \hyperpage{69}, \hyperpage{71}, 
+		\hyperpage{73}
       \subsubitem acquisitions, \hyperpage{67, 68}
       \subsubitem adoptions, \hyperpage{65}
       \subsubitem adornment, \hyperpage{69}
       \subsubitem adornments, \hyperpage{66, 67}
-      \subsubitem associations, \hyperpage{68, 69}
+      \subsubitem adultery, \hyperpage{73}
+      \subsubitem advancement, \hyperpage{72}
+      \subsubitem anxiety, \hyperpage{73}
+      \subsubitem associations, \hyperpage{68, 69}, \hyperpage{72, 73}
+      \subsubitem associations with great, \hyperpage{71}
       \subsubitem associations with the great, \hyperpage{66}
+      \subsubitem associations, lofty, \hyperpage{74}
       \subsubitem basic livelihood, \hyperpage{68}
-      \subsubitem betrayal, \hyperpage{69}
+      \subsubitem betrayal, \hyperpage{69}, \hyperpage{74}
       \subsubitem bodily suffering, \hyperpage{66}
       \subsubitem business, \hyperpage{68}
       \subsubitem business success, \hyperpage{69}
       \subsubitem campaigns, \hyperpage{67}
+      \subsubitem censure, \hyperpage{74}
+      \subsubitem change, \hyperpage{74}
       \subsubitem changeable livelihood, \hyperpage{67}
       \subsubitem children, \hyperpage{67}
+      \subsubitem command, \hyperpage{71}
       \subsubitem commerce, \hyperpage{69}
       \subsubitem conveyances, \hyperpage{67}
-      \subsubitem crises, \hyperpage{68}
+      \subsubitem crime, \hyperpage{72--74}
+      \subsubitem crises, \hyperpage{68}, \hyperpage{72}
+      \subsubitem danger, \hyperpage{72}
       \subsubitem death, \hyperpage{65}
-      \subsubitem debts, \hyperpage{65}, \hyperpage{68}
+      \subsubitem death, violent, \hyperpage{73}
+      \subsubitem debts, \hyperpage{65}, \hyperpage{68}, 
+		\hyperpage{72, 73}
+      \subsubitem deeds, \hyperpage{74}
+      \subsubitem distinction, \hyperpage{74}
       \subsubitem divorce, \hyperpage{65}
+      \subsubitem divorces, \hyperpage{74}
       \subsubitem education, \hyperpage{69}
+      \subsubitem embarrassment, \hyperpage{72}
       \subsubitem eminence, \hyperpage{67}
       \subsubitem employmnent, \hyperpage{65}
-      \subsubitem estates, \hyperpage{65}, \hyperpage{69}
+      \subsubitem envy, \hyperpage{72, 73}
+      \subsubitem estates, \hyperpage{65}, \hyperpage{69}, 
+		\hyperpage{71}
+      \subsubitem expenses, \hyperpage{73}
+      \subsubitem failure, \hyperpage{71}
+      \subsubitem falls, \hyperpage{72}
+      \subsubitem fame, \hyperpage{71}
       \subsubitem fits, \hyperpage{66}
       \subsubitem friends, \hyperpage{67}
-      \subsubitem gifts, \hyperpage{66--68}
+      \subsubitem friendships, \hyperpage{73}
+      \subsubitem gifts, \hyperpage{66--68}, \hyperpage{71, 72}
       \subsubitem great acquaintances, \hyperpage{67}
       \subsubitem grief, \hyperpage{66}
       \subsubitem harm, \hyperpage{65}
       \subsubitem hatred, \hyperpage{65, 66}
       \subsubitem honor, \hyperpage{67}
-      \subsubitem honors, \hyperpage{66--68}
-      \subsubitem hostility, \hyperpage{68, 69}
+      \subsubitem honors, \hyperpage{66--68}, \hyperpage{72}, 
+		\hyperpage{74}
+      \subsubitem hositility, \hyperpage{72}
+      \subsubitem hostility, \hyperpage{68, 69}, \hyperpage{73}
       \subsubitem ill-treatment by family, friends, \hyperpage{68}
       \subsubitem important deaths, \hyperpage{66}
-      \subsubitem imprisonment, \hyperpage{69}
+      \subsubitem imprisonment, \hyperpage{69}, \hyperpage{73}
       \subsubitem inconstancy, \hyperpage{65}
+      \subsubitem infamy, \hyperpage{72}
+      \subsubitem influence, \hyperpage{71}
       \subsubitem inheritance, \hyperpage{65}
-      \subsubitem lawsuits, \hyperpage{65}, \hyperpage{69}
-      \subsubitem legacies, \hyperpage{65}
+      \subsubitem inheritances, \hyperpage{71}
+      \subsubitem insecure basis, \hyperpage{71}
+      \subsubitem jealousy, \hyperpage{74}
+      \subsubitem judgements, \hyperpage{72, 73}
+      \subsubitem lawsuits, \hyperpage{65}, \hyperpage{69}, 
+		\hyperpage{73}
+      \subsubitem legacies, \hyperpage{65}, \hyperpage{71, 72}, 
+		\hyperpage{74}
+      \subsubitem livelihood, unstable, \hyperpage{74}
       \subsubitem loss, \hyperpage{69}
       \subsubitem loss of possessions, \hyperpage{67}
       \subsubitem lost possessions, \hyperpage{66}
@@ -810,42 +879,67 @@
       \subsubitem money, \hyperpage{65}, \hyperpage{69}
       \subsubitem money problems, \hyperpage{65}
       \subsubitem murder, \hyperpage{68}
-      \subsubitem plots, \hyperpage{65}
-      \subsubitem popularity, \hyperpage{67}
+      \subsubitem murder, poison, \hyperpage{73, 74}
+      \subsubitem plots, \hyperpage{65}, \hyperpage{71}, \hyperpage{74}
+      \subsubitem poisonings, \hyperpage{74}
+      \subsubitem popularity, \hyperpage{67}, \hyperpage{72}, 
+		\hyperpage{74}
+      \subsubitem poverty, \hyperpage{73}
       \subsubitem powerful enemies, \hyperpage{66}
+      \subsubitem priesthood, \hyperpage{71}
+      \subsubitem profit, \hyperpage{71}, \hyperpage{73}
       \subsubitem profits, \hyperpage{67}
       \subsubitem property, \hyperpage{69}
-      \subsubitem quarrels, \hyperpage{65}
-      \subsubitem rank, \hyperpage{66--69}
-      \subsubitem reversals, \hyperpage{65}, \hyperpage{69}
+      \subsubitem public exposure, \hyperpage{74}
+      \subsubitem punishments, \hyperpage{74}
+      \subsubitem quarrels, \hyperpage{65}, \hyperpage{74}
+      \subsubitem rank, \hyperpage{66--69}, \hyperpage{71}, 
+		\hyperpage{73}
+      \subsubitem rank, high, \hyperpage{74}
+      \subsubitem reputation, \hyperpage{71}
+      \subsubitem reputation, low, \hyperpage{71}
+      \subsubitem reversals, \hyperpage{65}, \hyperpage{69}, 
+		\hyperpage{71}, \hyperpage{73}
       \subsubitem rivalry, \hyperpage{68}
-      \subsubitem ruin, \hyperpage{65}
+      \subsubitem ruin, \hyperpage{65}, \hyperpage{73}
+      \subsubitem scandal, \hyperpage{73}
       \subsubitem secret enemities, \hyperpage{66}
       \subsubitem selling and receiving goods, \hyperpage{68}
       \subsubitem separations, \hyperpage{66}
       \subsubitem ship ownership, \hyperpage{65}
-      \subsubitem slander, \hyperpage{65}, \hyperpage{68}
+      \subsubitem ships, \hyperpage{71}
+      \subsubitem slander, \hyperpage{65}, \hyperpage{68}, 
+		\hyperpage{72}
       \subsubitem slaves, \hyperpage{66}
       \subsubitem speech, \hyperpage{69}
       \subsubitem status, \hyperpage{67}, \hyperpage{69}
       \subsubitem success, \hyperpage{69}
       \subsubitem successful enterprises, \hyperpage{67}
-      \subsubitem treachery, \hyperpage{65}
+      \subsubitem sudden danger, \hyperpage{71}
+      \subsubitem travel, \hyperpage{74}
+      \subsubitem travel abroad, \hyperpage{71}
+      \subsubitem treachery, \hyperpage{65}, \hyperpage{73}
       \subsubitem treasure, \hyperpage{67}
-      \subsubitem trials, \hyperpage{65}
+      \subsubitem trials, \hyperpage{65}, \hyperpage{73}
       \subsubitem trust, \hyperpage{67}
+      \subsubitem turmoil, \hyperpage{74}
       \subsubitem unexpected dangers, \hyperpage{65}
-      \subsubitem unstable marriage, \hyperpage{65}, \hyperpage{68}
+      \subsubitem unstable life, \hyperpage{74}
+      \subsubitem unstable marriage, \hyperpage{65}, \hyperpage{68}, 
+		\hyperpage{72}
       \subsubitem unsteady activities, \hyperpage{69}
       \subsubitem unsteady, weak, mind, \hyperpage{68}
       \subsubitem upsets, \hyperpage{68}
+      \subsubitem vice, \hyperpage{74}
+      \subsubitem violence, \hyperpage{71}, \hyperpage{73}
+      \subsubitem violent activities, \hyperpage{73}
       \subsubitem wealth, \hyperpage{67}
       \subsubitem wrongs, \hyperpage{69}
     \subitem Saturn, \hyperpage{2}, \hyperpage{96}, 
 		\hyperpage{105, 106}, \hyperpage{108}, \hyperpage{110}, 
 		\hyperpage{129, 130}
       \subsubitem aspect, \hyperpage{113, 114}, \hyperpage{120}
-      \subsubitem in combination with other planets, \hyperpage{71}
+      \subsubitem combinations, \hyperpage{71}
       \subsubitem with the other planets, \hyperpage{65}
     \subitem Sun, \hyperpage{1}, \hyperpage{97}, \hyperpage{105, 106}, 
 		\hyperpage{108}, \hyperpage{110}, \hyperpage{129}
