@@ -26,18 +26,18 @@
 
   \item Ceres, \hyperpage{11}
   \item character
-    \subitem \Aquarius, \hyperpage{21}, \hyperpage{31}
     \subitem \Aries, \hyperpage{9}, \hyperpage{25}
-    \subitem \Cancer, \hyperpage{14}, \hyperpage{26}
-    \subitem \Capricorn, \hyperpage{20}, \hyperpage{30}
-    \subitem \Gemini, \hyperpage{26}
-    \subitem \Leo, \hyperpage{15}, \hyperpage{27}
-    \subitem \Libra, \hyperpage{17}, \hyperpage{28}
-    \subitem \Pisces, \hyperpage{23}, \hyperpage{31}
-    \subitem \Sagittarius, \hyperpage{19}, \hyperpage{29}
-    \subitem \Scorpio, \hyperpage{18}, \hyperpage{29}
     \subitem \Taurus, \hyperpage{11}, \hyperpage{25}
+    \subitem \Gemini, \hyperpage{12}, \hyperpage{26}
+    \subitem \Cancer, \hyperpage{14}, \hyperpage{26}
+    \subitem \Leo, \hyperpage{15}, \hyperpage{27}
     \subitem \Virgo, \hyperpage{16}, \hyperpage{27}
+    \subitem \Libra, \hyperpage{17}, \hyperpage{28}
+    \subitem \Scorpio, \hyperpage{18}, \hyperpage{29}
+    \subitem \Sagittarius, \hyperpage{19}, \hyperpage{29}
+    \subitem \Capricorn, \hyperpage{20}, \hyperpage{30}
+    \subitem \Aquarius, \hyperpage{21}, \hyperpage{31}
+    \subitem \Pisces, \hyperpage{23}, \hyperpage{31}
     \subitem accusative, \hyperpage{21}, \hyperpage{81}
     \subitem acquisitive, \hyperpage{66}
     \subitem active, \hyperpage{76}, \hyperpage{80}
@@ -247,8 +247,7 @@
     \subitem cold, \hyperpage{21}
     \subitem cool, \hyperpage{10}, \hyperpage{23}
     \subitem damp, \hyperpage{13}, \hyperpage{21}
-    \subitem desctructive, \hyperpage{12}
-    \subitem destructive, \hyperpage{9, 10}, \hyperpage{13}, 
+    \subitem destructive, \hyperpage{9, 10}, \hyperpage{12, 13}, 
 		\hyperpage{16}, \hyperpage{20}, \hyperpage{23}
     \subitem earthquakes, \hyperpage{10}, \hyperpage{13}, 
 		\hyperpage{18}
@@ -895,12 +894,22 @@
   \item signa
     \subitem public, \hyperpage{12}
   \item signs
+    \subitem \Aries, \hyperpage{9}
+    \subitem \Taurus, \hyperpage{10}
+    \subitem \Gemini, \hyperpage{12}
+    \subitem \Cancer, \hyperpage{13}
+    \subitem \Leo, \hyperpage{15}
+    \subitem \Virgo, \hyperpage{16}
+    \subitem \Libra, \hyperpage{17}
+    \subitem \Scorpio, \hyperpage{18}
+    \subitem \Sagittarius, \hyperpage{19}
+    \subitem \Capricorn, \hyperpage{20}
+    \subitem \Aquarius, \hyperpage{21}
+    \subitem \Pisces, \hyperpage{22}
     \subitem airy, \hyperpage{17}
     \subitem amphibious, \hyperpage{14}
     \subitem anthromorphic, \hyperpage{17}, \hyperpage{21}
     \subitem anthropomorphic, \hyperpage{16}
-    \subitem Aquarius, \hyperpage{21}
-    \subitem Aries, \hyperpage{9}
     \subitem athletic, \hyperpage{21}
     \subitem autumn, \hyperpage{19}
     \subitem barren, \hyperpage{16}
@@ -910,23 +919,21 @@
     \subitem bicorporeal, \hyperpage{12}, \hyperpage{16}, 
 		\hyperpage{19}, \hyperpage{22}
     \subitem brutal, \hyperpage{20}
-    \subitem Cancer, \hyperpage{13}
-    \subitem Capricorn, \hyperpage{20}
     \subitem changeable, \hyperpage{9}, \hyperpage{15--17}, 
 		\hyperpage{19}, \hyperpage{23}
     \subitem climate
-      \subsubitem \Aquarius, \hyperpage{21}
       \subsubitem \Aries, \hyperpage{9}
-      \subsubitem \Cancer, \hyperpage{13}
-      \subsubitem \Capricorn, \hyperpage{20}
-      \subsubitem \Gemini, \hyperpage{12}
-      \subsubitem \Leo, \hyperpage{15}
-      \subsubitem \Libra, \hyperpage{17}
-      \subsubitem \Pisces, \hyperpage{23}
-      \subsubitem \Sagittarius, \hyperpage{19}
-      \subsubitem \Scorpio, \hyperpage{18}
       \subsubitem \Taurus, \hyperpage{10}
+      \subsubitem \Gemini, \hyperpage{12}
+      \subsubitem \Cancer, \hyperpage{13}
+      \subsubitem \Leo, \hyperpage{15}
       \subsubitem \Virgo, \hyperpage{16}
+      \subsubitem \Libra, \hyperpage{17}
+      \subsubitem \Scorpio, \hyperpage{18}
+      \subsubitem \Sagittarius, \hyperpage{19}
+      \subsubitem \Capricorn, \hyperpage{20}
+      \subsubitem \Aquarius, \hyperpage{21}
+      \subsubitem \Pisces, \hyperpage{23}
       \subsubitem destructive, \hyperpage{15}
       \subsubitem hot, \hyperpage{15}
       \subsubitem stifling, \hyperpage{15}
@@ -947,7 +954,6 @@
     \subitem fertility, \hyperpage{11}
     \subitem fiery, \hyperpage{9}, \hyperpage{15}, \hyperpage{19}
     \subitem fixed, \hyperpage{11}
-    \subitem Gemini, \hyperpage{12}
     \subitem governing, \hyperpage{9}, \hyperpage{15}, \hyperpage{19}
     \subitem half-finished, \hyperpage{19, 20}
     \subitem humpbacked, \hyperpage{22}
@@ -955,9 +961,7 @@
     \subitem industrious, \hyperpage{16}
     \subitem infertile, \hyperpage{16}
     \subitem intellectual, \hyperpage{15}
-    \subitem Leo, \hyperpage{15}
     \subitem leprous, \hyperpage{22}
-    \subitem Libra, \hyperpage{17}
     \subitem listening and beholding, \hyperpage{42}
     \subitem lurking, \hyperpage{20}
     \subitem luxurious, \hyperpage{16}
@@ -972,15 +976,12 @@
     \subitem mysterious, \hyperpage{19, 20}
     \subitem noble, \hyperpage{9}, \hyperpage{11}, \hyperpage{15}, 
 		\hyperpage{17}
-    \subitem Pisces, \hyperpage{22}
     \subitem prolific, \hyperpage{14}
     \subitem public, \hyperpage{14}, \hyperpage{17}, \hyperpage{21}
     \subitem rising times, \hyperpage{40}
     \subitem roya, \hyperpage{19}
     \subitem royal, \hyperpage{15}
-    \subitem Sagittarius, \hyperpage{19}
     \subitem scaley, \hyperpage{22}
-    \subitem Scorpio, \hyperpage{18}
     \subitem semi-vocal, \hyperpage{9}, \hyperpage{11}, \hyperpage{16}
     \subitem servile, \hyperpage{9}, \hyperpage{14}, \hyperpage{18}, 
 		\hyperpage{20}, \hyperpage{23}
@@ -991,19 +992,15 @@
     \subitem solstitial, \hyperpage{14}
     \subitem stable, \hyperpage{15}
     \subitem sterile, \hyperpage{12}, \hyperpage{20}
-    \subitem Taurus, \hyperpage{10}
     \subitem temperate, \hyperpage{15}
     \subitem terrestial, \hyperpage{9}
     \subitem toil, \hyperpage{20}
-    \subitem tropical, \hyperpage{9}, \hyperpage{20}
+    \subitem tropical, \hyperpage{9, 10}, \hyperpage{20}
     \subitem unchangeable, \hyperpage{18}
     \subitem unchanging, \hyperpage{21}
-    \subitem Virgo, \hyperpage{16}
     \subitem vocal, \hyperpage{17}, \hyperpage{19}
     \subitem watery, \hyperpage{14}, \hyperpage{18}
     \subitem winged, \hyperpage{16}, \hyperpage{19}
-  \item sigsns
-    \subitem tropical, \hyperpage{10}
   \item skin
     \subitem rough, \hyperpage{22}
   \item states
@@ -1107,18 +1104,18 @@
   \item technique
     \subitem triplicity rulers, \hyperpage{91}
   \item terms
-    \subitem \Aquarius, \hyperpage{31}
     \subitem \Aries, \hyperpage{25}
-    \subitem \Cancer, \hyperpage{26}
-    \subitem \Capricorn, \hyperpage{30}
-    \subitem \Gemini, \hyperpage{26}
-    \subitem \Leo, \hyperpage{27}
-    \subitem \Libra, \hyperpage{28}
-    \subitem \Pisces, \hyperpage{31}
-    \subitem \Sagittarius, \hyperpage{29}
-    \subitem \Scorpio, \hyperpage{29}
     \subitem \Taurus, \hyperpage{25}
+    \subitem \Gemini, \hyperpage{26}
+    \subitem \Cancer, \hyperpage{26}
+    \subitem \Leo, \hyperpage{27}
     \subitem \Virgo, \hyperpage{27}
+    \subitem \Libra, \hyperpage{28}
+    \subitem \Scorpio, \hyperpage{29}
+    \subitem \Sagittarius, \hyperpage{29}
+    \subitem \Capricorn, \hyperpage{30}
+    \subitem \Aquarius, \hyperpage{31}
+    \subitem \Pisces, \hyperpage{31}
   \item thighs, \hyperpage{19}
   \item thoughtful, \hyperpage{65}
   \item transit
