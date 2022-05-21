@@ -331,9 +331,12 @@
     \subitem masculine and feminine, \hyperpage{49}
   \item delineation
     \subitem benefics, \hyperpage{8}
+    \subitem dispositor, \hyperpage{94}
+    \subitem Fortune, \hyperpage{93}, \hyperpage{95}
     \subitem malefics, \hyperpage{8}
     \subitem nodes, \hyperpage{53}
     \subitem planets, \hyperpage{8}, \hyperpage{81}
+    \subitem sect, \hyperpage{93}
     \subitem sign ruler, \hyperpage{12}, \hyperpage{32}
     \subitem transits, \hyperpage{64}
   \item \textsl{dodekatemorion}, \hyperpage{33}
@@ -530,6 +533,7 @@
 
   \indexspace
 
+  \item Petosiris, \hyperpage{95}
   \item places
     \subitem 11th, \hyperpage{100}
     \subitem 12th, \hyperpage{99}
@@ -568,6 +572,7 @@
     \subitem \Jupiter-\Venus-\Moon, \hyperpage{78}
     \subitem \Jupiter-\Venus-\Sun, \hyperpage{77}
     \subitem \Mars
+      \subsubitem aspects, \hyperpage{93}
       \subsubitem significations, \hyperpage{4}, \hyperpage{8}
     \subitem \Mars-\Moon-\Mercury, \hyperpage{81}
     \subitem \Mars-\Sun-\Mercury, \hyperpage{80}
@@ -585,12 +590,13 @@
     \subitem \Moon
       \subsubitem significations, \hyperpage{1}, \hyperpage{8}
     \subitem \Saturn
+      \subsubitem aspects, \hyperpage{93}
       \subsubitem significations, \hyperpage{2}, \hyperpage{8}
     \subitem \Saturn-\Jupiter, \hyperpage{65}
     \subitem \Saturn-\Jupiter-\Mars, \hyperpage{71}
     \subitem \Saturn-\Jupiter-\Mercury, \hyperpage{72}
     \subitem \Saturn-\Jupiter-\Moon, \hyperpage{71}
-    \subitem \Saturn-\Jupiter-\Sun, \hyperpage{71}
+    \subitem \Saturn-\Jupiter-\Sun, \hyperpage{71}, \hyperpage{93}
     \subitem \Saturn-\Jupiter-\Venus, \hyperpage{72}
     \subitem \Saturn-\Mars, \hyperpage{65}
     \subitem \Saturn-\Mars-\Mercury, \hyperpage{73}
@@ -616,6 +622,7 @@
     \subitem \Venus-\Sun, \hyperpage{67}
     \subitem \Venus-\Sun-\Moon, \hyperpage{78}
     \subitem aspects, \hyperpage{113}
+    \subitem benefic as malefic, \hyperpage{94}
     \subitem benefics, \hyperpage{100--104}, \hyperpage{106, 107}, 
 		\hyperpage{110}
       \subsubitem condition, \hyperpage{8}
@@ -629,6 +636,7 @@
       \subsubitem with the other planets, \hyperpage{66}
     \subitem malefic
       \subsubitem condition, \hyperpage{8}
+    \subitem malefic as benefic, \hyperpage{93}
     \subitem malefics, \hyperpage{98, 99}, \hyperpage{101}, 
 		\hyperpage{104}, \hyperpage{107}, \hyperpage{110}
     \subitem Mars, \hyperpage{96}, \hyperpage{105--108}, 
@@ -1103,6 +1111,7 @@
 
   \item technique
     \subitem triplicity rulers, \hyperpage{91}
+      \subsubitem timing, \hyperpage{91}
   \item terms
     \subitem \Aries, \hyperpage{25}
     \subitem \Taurus, \hyperpage{25}
