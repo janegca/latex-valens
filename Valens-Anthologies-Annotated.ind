@@ -1,5 +1,16 @@
 \begin{theindex}
 
+  \item \Mars
+    \subitem travel, \hyperpage{162}
+  \item \Mercury
+    \subitem travel, \hyperpage{164}
+  \item \Venus
+    \subitem travel, \hyperpage{164}
+
+  \indexspace
+
+  \item Abraham, \hyperpage{162}
+    \subitem timing method, \hyperpage{163}
   \item animals, \hyperpage{20}
   \item aromatics, \hyperpage{17}
   \item Artic
@@ -11,6 +22,7 @@
     \subitem gnomon, \hyperpage{36}
   \item aspects
     \subitem sextile, \hyperpage{115}
+    \subitem superior, \hyperpage{171}
 
   \indexspace
 
@@ -342,8 +354,9 @@
     \subitem benefics, \hyperpage{8}
     \subitem Daimon, \hyperpage{99}
     \subitem dispositor, \hyperpage{94}
+    \subitem fortunate, \hyperpage{146}
     \subitem Fortune, \hyperpage{93}, \hyperpage{95, 96}, 
-		\hyperpage{99}, \hyperpage{106}
+		\hyperpage{99}, \hyperpage{106}, \hyperpage{161}
       \subsubitem \Jupiter, \hyperpage{96}
       \subsubitem \Mars, \hyperpage{96}
       \subsubitem \Mercury, \hyperpage{97}
@@ -354,8 +367,13 @@
     \subitem malefic as benefic, \hyperpage{115}
     \subitem malefics, \hyperpage{8}
     \subitem nodes, \hyperpage{53}
+    \subitem notable, \hyperpage{146}
     \subitem planet, \hyperpage{115}
     \subitem planets, \hyperpage{8}, \hyperpage{81}
+    \subitem prosperity, \hyperpage{127}
+    \subitem ruin, \hyperpage{146}
+    \subitem ruined nativity, \hyperpage{153}
+    \subitem SAN, \hyperpage{146}
     \subitem sect, \hyperpage{93}
     \subitem sextiles, \hyperpage{115}
     \subitem sign ruler, \hyperpage{12}, \hyperpage{32}
@@ -370,6 +388,7 @@
 
   \indexspace
 
+  \item father, \hyperpage{169}
   \item fixed stars
     \subitem Aries, \hyperpage{9}
 
@@ -504,6 +523,7 @@
   \item lame, \hyperpage{20}
   \item land owner, \hyperpage{65}
   \item length of life, \hyperpage{98}
+  \item life, length of, \hyperpage{160}
   \item limbs
     \subitem extra, \hyperpage{20}
     \subitem loss of, \hyperpage{20}
@@ -514,9 +534,22 @@
     \subitem varied, \hyperpage{69}
   \item long-suffering, \hyperpage{66}
   \item lots
-    \subitem Daimon, \hyperpage{102}, \hyperpage{127}
+    \subitem Accomplishment, \hyperpage{149}
+    \subitem Basis, \hyperpage{147}
+    \subitem Daimon, \hyperpage{102}, \hyperpage{127}, \hyperpage{146}, 
+		\hyperpage{163}
+      \subsubitem travel, \hyperpage{163}
+    \subitem Debt, \hyperpage{151}
+    \subitem Deceit, \hyperpage{153}
+    \subitem Exaltation, \hyperpage{126}
+    \subitem Father, \hyperpage{169}
+    \subitem Foreign Lands, \hyperpage{163}
     \subitem Fortune, \hyperpage{95}, \hyperpage{102, 103}, 
 		\hyperpage{110}, \hyperpage{124}, \hyperpage{127}
+      \subsubitem travel, \hyperpage{164}
+    \subitem Mother, \hyperpage{169}
+    \subitem Theft, \hyperpage{152}
+    \subitem Travel , \ see Lot of Foreign Lands{163}
   \item lucky, \hyperpage{70}
 
   \indexspace
@@ -533,6 +566,7 @@
     \subitem unstable, \hyperpage{75}, \hyperpage{77, 78}, 
 		\hyperpage{80}
     \subitem unsteady, \hyperpage{14}
+  \item mother, \hyperpage{169}
   \item murder
     \subitem poison, \hyperpage{68}
 
@@ -552,7 +586,8 @@
 
   \indexspace
 
-  \item Petosiris, \hyperpage{95}
+  \item parents, \hyperpage{169}
+  \item Petosiris, \hyperpage{95}, \hyperpage{162}
   \item places
     \subitem 2nd, \hyperpage{110}
     \subitem 3rd, \hyperpage{108}
@@ -561,13 +596,14 @@
     \subitem 6th, \hyperpage{105}
     \subitem 7th, \hyperpage{104}
     \subitem 8th, \hyperpage{103}
-    \subitem 9th, \hyperpage{102}
+    \subitem 9th, \hyperpage{102}, \hyperpage{162}
     \subitem 10th, \hyperpage{101}
     \subitem 11th, \hyperpage{100}
     \subitem 12th, \hyperpage{99}
     \subitem benefics, \hyperpage{105}
     \subitem declines, \hyperpage{124}
-    \subitem exaltation, \hyperpage{126}
+    \subitem Exaltation, \hyperpage{126}
+    \subitem Foreign Lands, \hyperpage{162}
     \subitem Fortune houses, \hyperpage{124}
       \subsubitem accomplishment (acquisition), \hyperpage{129}
     \subitem names of, \hyperpage{112}
@@ -575,7 +611,7 @@
   \item planets
     \subitem \Jupiter, \hyperpage{96}, \hyperpage{100}, \hyperpage{105}, 
 		\hyperpage{108}, \hyperpage{110}, \hyperpage{114}, 
-		\hyperpage{122}
+		\hyperpage{122}, \hyperpage{129}
       \subsubitem significations, \hyperpage{3}, \hyperpage{8}
     \subitem \Jupiter-\Mars, \hyperpage{67}, \hyperpage{96}, 
 		\hyperpage{122}
@@ -597,7 +633,7 @@
     \subitem \Jupiter-\Venus-\Moon, \hyperpage{78}
     \subitem \Jupiter-\Venus-\Sun, \hyperpage{77}
     \subitem \Mars, \hyperpage{96}, \hyperpage{105--108}, 
-		\hyperpage{110}, \hyperpage{114, 115}
+		\hyperpage{110}, \hyperpage{114, 115}, \hyperpage{129}
       \subsubitem aspects, \hyperpage{93}
       \subsubitem significations, \hyperpage{4}, \hyperpage{8}
     \subitem \Mars-\Jupiter, \hyperpage{96}
@@ -613,7 +649,8 @@
     \subitem \Mars-\Sun-\Venus, \hyperpage{80}
     \subitem \Mars-\Venus, \hyperpage{96}
     \subitem \Mercury, \hyperpage{97}, \hyperpage{103--106}, 
-		\hyperpage{108}, \hyperpage{110}, \hyperpage{116}
+		\hyperpage{108}, \hyperpage{110}, \hyperpage{116}, 
+		\hyperpage{129}
       \subsubitem significations, \hyperpage{6}, \hyperpage{8}
     \subitem \Mercury-\Jupiter, \hyperpage{97}, \hyperpage{118}
     \subitem \Mercury-\Jupiter-\Saturn, \hyperpage{97}
@@ -630,7 +667,8 @@
     \subitem \Mercury-\Sun-\Venus, \hyperpage{79}
     \subitem \Mercury-\Venus, \hyperpage{119}
     \subitem \Moon, \hyperpage{97}, \hyperpage{103}, 
-		\hyperpage{105, 106}, \hyperpage{108}, \hyperpage{111}
+		\hyperpage{105, 106}, \hyperpage{108}, \hyperpage{111}, 
+		\hyperpage{129}
       \subsubitem significations, \hyperpage{1}, \hyperpage{8}
     \subitem \Moon-\Jupiter, \hyperpage{97}
     \subitem \Moon-\Mars, \hyperpage{97}
@@ -639,7 +677,8 @@
     \subitem \Moon-\Venus, \hyperpage{97}
     \subitem \Moon-\Venus-\Mars, \hyperpage{97}
     \subitem \Saturn, \hyperpage{105, 106}, \hyperpage{108}, 
-		\hyperpage{110}, \hyperpage{113, 114}, \hyperpage{120}
+		\hyperpage{110}, \hyperpage{113, 114}, \hyperpage{120}, 
+		\hyperpage{129}
       \subsubitem aspects, \hyperpage{93}
       \subsubitem benefic, \hyperpage{96}
       \subsubitem significations, \hyperpage{2}, \hyperpage{8}
@@ -651,13 +690,17 @@
     \subitem \Saturn-\Jupiter-\Sun, \hyperpage{71}, \hyperpage{93}
     \subitem \Saturn-\Jupiter-\Venus, \hyperpage{72}
     \subitem \Saturn-\Mars, \hyperpage{65}, \hyperpage{96}, 
-		\hyperpage{121}
+		\hyperpage{121}, \hyperpage{130}
     \subitem \Saturn-\Mars-\Mercury, \hyperpage{73}
     \subitem \Saturn-\Mars-\Moon, \hyperpage{73}
     \subitem \Saturn-\Mars-\Sun, \hyperpage{72}
     \subitem \Saturn-\Mars-\Sun-\Jupiter, \hyperpage{113}
     \subitem \Saturn-\Mars-\Venus, \hyperpage{73}
     \subitem \Saturn-\Mercury, \hyperpage{65}, \hyperpage{96}
+    \subitem \Saturn-\Mercury-\Mars, \hyperpage{129}
+    \subitem \Saturn-\Mercury-\Mars-\Venus, \hyperpage{129}
+    \subitem \Saturn-\Mercury-\Mars-\Venus-\Jupiter-\Moon, 
+		\hyperpage{129}
     \subitem \Saturn-\Moon, \hyperpage{65}, \hyperpage{108}
     \subitem \Saturn-\Sun, \hyperpage{66}, \hyperpage{113, 114}
     \subitem \Saturn-\Sun-\Jupiter-\Mars, \hyperpage{113}
@@ -666,7 +709,7 @@
     \subitem \Saturn-\Venus-\Moon, \hyperpage{74}
     \subitem \Saturn-\Venus-\Sun, \hyperpage{74}
     \subitem \Sun, \hyperpage{97}, \hyperpage{105, 106}, 
-		\hyperpage{108}, \hyperpage{110}
+		\hyperpage{108}, \hyperpage{110}, \hyperpage{129}
       \subsubitem significations, \hyperpage{1}, \hyperpage{8}
     \subitem \Sun-\Jupiter, \hyperpage{97}
     \subitem \Sun-\Jupiter-\Mars, \hyperpage{97}
@@ -675,7 +718,7 @@
     \subitem \Sun-\Moon, \hyperpage{69}, \hyperpage{108}
     \subitem \Venus, \hyperpage{96}, \hyperpage{105, 106}, 
 		\hyperpage{108}, \hyperpage{110}, \hyperpage{113}, 
-		\hyperpage{116}, \hyperpage{119}
+		\hyperpage{116}, \hyperpage{119}, \hyperpage{129}
       \subsubitem significations, \hyperpage{5}, \hyperpage{8}
     \subitem \Venus-\Mars, \hyperpage{68}
     \subitem \Venus-\Mars-\Moon, \hyperpage{78}
@@ -694,17 +737,16 @@
     \subitem finding, \hyperpage{59}
       \subsubitem degrees, \hyperpage{59}
     \subitem general, \hyperpage{8}
-    \subitem Jupiter, \hyperpage{129}
+    \subitem Jupiter
       \subsubitem with the other planets, \hyperpage{66}
     \subitem malefic
       \subsubitem condition, \hyperpage{8}
     \subitem malefic as benefic, \hyperpage{93}
     \subitem malefics, \hyperpage{99}, \hyperpage{101}, \hyperpage{104}, 
 		\hyperpage{107}, \hyperpage{110}
-    \subitem Mars, \hyperpage{129, 130}
-    \subitem Mercury, \hyperpage{129}
+    \subitem Mercury
       \subsubitem with the other planets, \hyperpage{68}
-    \subitem Moon, \hyperpage{129}
+    \subitem Moon
       \subsubitem 3rd, 7th, 40th days, \hyperpage{52}
       \subsubitem finding, \hyperpage{56}
       \subsubitem finding New and Full Moon, \hyperpage{43}
@@ -905,18 +947,19 @@
 		\hyperpage{81}
       \subsubitem wide experience, \hyperpage{79}
       \subsubitem wrongs, \hyperpage{69}
-    \subitem Saturn, \hyperpage{129, 130}
+    \subitem Saturn
       \subsubitem with the other planets, \hyperpage{65}
-    \subitem Sun, \hyperpage{129}
+    \subitem Sun
       \subsubitem with the Moon, \hyperpage{69}
     \subitem transits, \hyperpage{64}
-    \subitem Venus, \hyperpage{129}
+    \subitem Venus
       \subsubitem with the other planets, \hyperpage{67}
     \subitem wealth, \hyperpage{75}
   \item possessions, \hyperpage{11}
 
   \indexspace
 
+  \item rank, \hyperpage{160}
   \item reversals, \hyperpage{66}
   \item rivers
     \subitem Borysthenes, \hyperpage{24}
@@ -1173,8 +1216,11 @@
     \subitem \Pisces, \hyperpage{31}
   \item thighs, \hyperpage{19}
   \item thoughtful, \hyperpage{65}
+  \item timing, \hyperpage{160}
+    \subitem from Daimon, \hyperpage{163}
   \item transit
     \subitem places, \hyperpage{64}
+  \item travel, \hyperpage{162, 163}
   \item triplicities
     \subitem air, \hyperpage{89}
     \subitem earth, \hyperpage{89}
