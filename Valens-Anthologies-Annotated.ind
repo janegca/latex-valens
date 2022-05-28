@@ -21,6 +21,7 @@
       \subsubitem degree, \hyperpage{34}, \hyperpage{37}
     \subitem gnomon, \hyperpage{36}
   \item aspects
+    \subitem opposition, \hyperpage{236}
     \subitem sextile, \hyperpage{115}
     \subitem superior, \hyperpage{171}
 
@@ -33,6 +34,7 @@
   \item bereavement, \hyperpage{175}
   \item births
     \subitem premature, \hyperpage{87}
+  \item brothers, \hyperpage{216}
   \item buttocks, \hyperpage{18}
 
   \indexspace
@@ -287,6 +289,7 @@
 		\hyperpage{21, 22}
     \subitem windy, \hyperpage{9}, \hyperpage{16, 17}, \hyperpage{19}
     \subitem wortheless, \hyperpage{21}
+  \item Compiler , \ see Petosiris{218}
   \item conception, \hyperpage{83}
   \item constellations
     \subitem Andromeda, \hyperpage{21}, \hyperpage{23}
@@ -343,6 +346,8 @@
     \subitem marriage, \hyperpage{210}
   \item day
     \subitem ruler, \hyperpage{45}
+  \item death, \hyperpage{223}
+    \subitem violent, \hyperpage{220}
   \item debt, \hyperpage{69}
   \item degrees
     \subitem masculine and feminine, \hyperpage{49}
@@ -404,6 +409,7 @@
     \subitem injuries, \hyperpage{185}, \hyperpage{189}, 
 		\hyperpage{191}
     \subitem marriage, \hyperpage{210, 211}
+    \subitem places, \hyperpage{220}
 
   \indexspace
 
@@ -552,6 +558,7 @@
     \subitem Accomplishment, \hyperpage{149}
     \subitem Adultry, \hyperpage{207}
     \subitem Basis, \hyperpage{147}
+    \subitem Brothers, \hyperpage{216}
     \subitem Daimon, \hyperpage{102}, \hyperpage{127}, \hyperpage{146}, 
 		\hyperpage{163}
       \subsubitem travel, \hyperpage{163}
@@ -593,12 +600,14 @@
   \indexspace
 
   \item nativity
+    \subitem basis, \hyperpage{217}
     \subitem prosperous and effective, \hyperpage{53}
   \item nodes
     \subitem finding, \hyperpage{53}
 
   \indexspace
 
+  \item Old Astrologer , \ see Petosiris{223}
   \item olives, \hyperpage{17}
   \item organs
     \subitem internal, \hyperpage{17}
@@ -611,21 +620,23 @@
     \subitem character, \hyperpage{175}
     \subitem death, \hyperpage{177}
     \subitem separation, \hyperpage{177}
-  \item Petosiris, \hyperpage{95}, \hyperpage{162}, \hyperpage{214}
+  \item Petosiris, \hyperpage{95}, \hyperpage{162}, \hyperpage{214}, 
+		\hyperpage{217, 218}
   \item places
     \subitem 2nd, \hyperpage{110}
-    \subitem 3rd, \hyperpage{108}
+    \subitem 3rd, \hyperpage{108}, \hyperpage{216}
     \subitem 4th, \hyperpage{107}
     \subitem 5th, \hyperpage{106}, \hyperpage{214}
     \subitem 6th, \hyperpage{105}
     \subitem 7th, \hyperpage{104}, \hyperpage{202}
-    \subitem 8th, \hyperpage{103}
+    \subitem 8th, \hyperpage{103}, \hyperpage{220}
     \subitem 9th, \hyperpage{102}, \hyperpage{162}
     \subitem 10th, \hyperpage{101}, \hyperpage{189}
     \subitem 11th, \hyperpage{100}
     \subitem 12th, \hyperpage{99}
     \subitem benefics, \hyperpage{105}
     \subitem declines, \hyperpage{124}
+    \subitem delineation, \hyperpage{218}
     \subitem Exaltation, \hyperpage{126}
     \subitem Foreign Lands, \hyperpage{162}
     \subitem Fortune houses, \hyperpage{124}
@@ -635,7 +646,7 @@
   \item planets
     \subitem \Jupiter, \hyperpage{96}, \hyperpage{100}, \hyperpage{105}, 
 		\hyperpage{108}, \hyperpage{110}, \hyperpage{114}, 
-		\hyperpage{122}, \hyperpage{129}
+		\hyperpage{122}, \hyperpage{129}, \hyperpage{222}
       \subsubitem significations, \hyperpage{3}, \hyperpage{8}
     \subitem \Jupiter-\Mars, \hyperpage{67}, \hyperpage{96}, 
 		\hyperpage{122}
@@ -659,7 +670,7 @@
     \subitem \Jupiter-\Venus-\Sun, \hyperpage{77}
     \subitem \Mars, \hyperpage{96}, \hyperpage{105--108}, 
 		\hyperpage{110}, \hyperpage{114, 115}, \hyperpage{129}, 
-		\hyperpage{209}
+		\hyperpage{209}, \hyperpage{220}, \hyperpage{222}
       \subsubitem aspects, \hyperpage{93}
       \subsubitem significations, \hyperpage{4}, \hyperpage{8}
     \subitem \Mars-\Jupiter, \hyperpage{96}
@@ -677,7 +688,7 @@
     \subitem \Mars-\Venus, \hyperpage{96}, \hyperpage{206, 207}
     \subitem \Mercury, \hyperpage{97}, \hyperpage{103--106}, 
 		\hyperpage{108}, \hyperpage{110}, \hyperpage{116}, 
-		\hyperpage{129}
+		\hyperpage{129}, \hyperpage{221}
       \subsubitem significations, \hyperpage{6}, \hyperpage{8}
     \subitem \Mercury-\Jupiter, \hyperpage{97}, \hyperpage{118}
     \subitem \Mercury-\Jupiter-\Saturn, \hyperpage{97}
@@ -695,7 +706,7 @@
     \subitem \Mercury-\Venus, \hyperpage{119}
     \subitem \Moon, \hyperpage{97}, \hyperpage{103}, 
 		\hyperpage{105, 106}, \hyperpage{108}, \hyperpage{111}, 
-		\hyperpage{129}
+		\hyperpage{129}, \hyperpage{221}
       \subsubitem new, \hyperpage{181}
       \subsubitem phases, \hyperpage{181}
       \subsubitem significations, \hyperpage{1}, \hyperpage{8}
@@ -707,7 +718,7 @@
     \subitem \Moon-\Venus-\Mars, \hyperpage{97}
     \subitem \Saturn, \hyperpage{105, 106}, \hyperpage{108}, 
 		\hyperpage{110}, \hyperpage{113, 114}, \hyperpage{120}, 
-		\hyperpage{129}
+		\hyperpage{129}, \hyperpage{222}
       \subsubitem aspects, \hyperpage{93}
       \subsubitem benefic, \hyperpage{96}
       \subsubitem significations, \hyperpage{2}, \hyperpage{8}
@@ -742,7 +753,8 @@
     \subitem \Saturn-\Venus-\Moon, \hyperpage{74}
     \subitem \Saturn-\Venus-\Sun, \hyperpage{74}
     \subitem \Sun, \hyperpage{97}, \hyperpage{105, 106}, 
-		\hyperpage{108}, \hyperpage{110}, \hyperpage{129}
+		\hyperpage{108}, \hyperpage{110}, \hyperpage{129}, 
+		\hyperpage{221}
       \subsubitem significations, \hyperpage{1}, \hyperpage{8}
     \subitem \Sun-\Jupiter, \hyperpage{97}
     \subitem \Sun-\Jupiter-\Mars, \hyperpage{97}
@@ -750,12 +762,12 @@
     \subitem \Sun-\Jupiter-\Mercury, \hyperpage{97}
     \subitem \Sun-\Jupiter-\Venus, \hyperpage{203}
     \subitem \Sun-\Moon, \hyperpage{69}, \hyperpage{108}, 
-		\hyperpage{205}
+		\hyperpage{205}, \hyperpage{217}
     \subitem \Sun-\Venus, \hyperpage{207}
     \subitem \Venus, \hyperpage{96}, \hyperpage{105, 106}, 
 		\hyperpage{108}, \hyperpage{110}, \hyperpage{113}, 
 		\hyperpage{116}, \hyperpage{119}, \hyperpage{129}, 
-		\hyperpage{202}, \hyperpage{209}
+		\hyperpage{202}, \hyperpage{209}, \hyperpage{221, 222}
       \subsubitem significations, \hyperpage{5}, \hyperpage{8}
     \subitem \Venus-\Mars, \hyperpage{68}, \hyperpage{202}
     \subitem \Venus-\Mars-\Moon, \hyperpage{78}
@@ -782,7 +794,7 @@
       \subsubitem condition, \hyperpage{8}
     \subitem malefic as benefic, \hyperpage{93}
     \subitem malefics, \hyperpage{99}, \hyperpage{101}, \hyperpage{104}, 
-		\hyperpage{107}, \hyperpage{110}
+		\hyperpage{107}, \hyperpage{110}, \hyperpage{236}
     \subitem Mercury
       \subsubitem with the other planets, \hyperpage{68}
     \subitem Moon
@@ -991,6 +1003,7 @@
     \subitem Sun
       \subsubitem with the Moon, \hyperpage{69}
     \subitem transits, \hyperpage{64}
+    \subitem triplicity rulers, \hyperpage{236}
     \subitem Venus
       \subsubitem with the other planets, \hyperpage{67}
     \subitem wealth, \hyperpage{75}
@@ -1012,7 +1025,7 @@
 
   \indexspace
 
-  \item SAN, \hyperpage{192}
+  \item SAN, \hyperpage{192}, \hyperpage{220}
   \item seas
     \subitem Adriatic, \hyperpage{19}
     \subitem Aegean Sea, \hyperpage{21}
@@ -1032,18 +1045,21 @@
   \item signa
     \subitem public, \hyperpage{12}
   \item signs
-    \subitem \Aries, \hyperpage{9}, \hyperpage{186}
-    \subitem \Taurus, \hyperpage{10}, \hyperpage{186}
-    \subitem \Gemini, \hyperpage{12}, \hyperpage{187}
-    \subitem \Cancer, \hyperpage{13}, \hyperpage{187}
-    \subitem \Leo, \hyperpage{15}, \hyperpage{187}
-    \subitem \Virgo, \hyperpage{16}, \hyperpage{187}
-    \subitem \Libra, \hyperpage{17}, \hyperpage{188}
-    \subitem \Scorpio, \hyperpage{18}, \hyperpage{188}
-    \subitem \Sagittarius, \hyperpage{19}, \hyperpage{188}
-    \subitem \Capricorn, \hyperpage{20}, \hyperpage{188}
-    \subitem \Aquarius, \hyperpage{21}, \hyperpage{188}
-    \subitem \Pisces, \hyperpage{22}, \hyperpage{188}
+    \subitem \Aries, \hyperpage{9}, \hyperpage{186}, \hyperpage{220}
+    \subitem \Taurus, \hyperpage{10}, \hyperpage{186}, \hyperpage{221}
+    \subitem \Gemini, \hyperpage{12}, \hyperpage{187}, \hyperpage{221}
+    \subitem \Cancer, \hyperpage{13}, \hyperpage{187}, \hyperpage{221}
+    \subitem \Leo, \hyperpage{15}, \hyperpage{187}, \hyperpage{221}
+    \subitem \Virgo, \hyperpage{16}, \hyperpage{187}, \hyperpage{221}
+    \subitem \Libra, \hyperpage{17}, \hyperpage{188}, \hyperpage{222}
+    \subitem \Scorpio, \hyperpage{18}, \hyperpage{188}, \hyperpage{222}
+    \subitem \Sagittarius, \hyperpage{19}, \hyperpage{188}, 
+		\hyperpage{222}
+    \subitem \Capricorn, \hyperpage{20}, \hyperpage{188}, 
+		\hyperpage{222}
+    \subitem \Aquarius, \hyperpage{21}, \hyperpage{188}, 
+		\hyperpage{222}
+    \subitem \Pisces, \hyperpage{22}, \hyperpage{188}, \hyperpage{222}
     \subitem airy, \hyperpage{17}
     \subitem amphibious, \hyperpage{14}
     \subitem anthromorphic, \hyperpage{17}, \hyperpage{21}
