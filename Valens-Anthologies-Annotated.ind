@@ -7,6 +7,7 @@
   \item \Venus
     \subitem travel, \hyperpage{164}
   \item \textit{Critodemus}, \hyperpage{266, 267}, \hyperpage{280}
+  \item \textit{Hypsicles}, \hyperpage{295}
   \item \textit{Orion}, \hyperpage{248}
   \item \textit{Petosiris}, \hyperpage{271}
 
@@ -349,6 +350,7 @@
 
   \item Daimon
     \subitem diseases, \hyperpage{186}, \hyperpage{189}
+    \subitem distribution, \hyperpage{303}
     \subitem marriage, \hyperpage{210}
   \item day
     \subitem ruler, \hyperpage{45}
@@ -377,6 +379,8 @@
     \subitem benefics, \hyperpage{8}
     \subitem Daimon, \hyperpage{99}
     \subitem dispositor, \hyperpage{94}
+    \subitem distributions, \hyperpage{313}, \hyperpage{332}
+      \subsubitem starting points, \hyperpage{331}
     \subitem fortunate, \hyperpage{146}
     \subitem Fortune, \hyperpage{93}, \hyperpage{95, 96}, 
 		\hyperpage{99}, \hyperpage{106}, \hyperpage{161}
@@ -393,6 +397,7 @@
     \subitem notable, \hyperpage{146}
     \subitem planet, \hyperpage{115}
     \subitem planets, \hyperpage{8}, \hyperpage{81}
+      \subsubitem distributions, \hyperpage{310}
     \subitem prosperity, \hyperpage{127}
     \subitem rank, \hyperpage{179}
     \subitem ruin, \hyperpage{146}
@@ -408,6 +413,15 @@
     \subitem diseases, \hyperpage{191}
   \item directions, \hyperpage{252}
   \item diseases, \hyperpage{185}, \hyperpage{191}
+  \item distribution
+    \subitem \Mercury\, to \Jupiter, \hyperpage{310}
+    \subitem \Saturn\, or \Mars, \hyperpage{315}
+    \subitem \Saturn\, to \Sun, \Moon, \hyperpage{310}
+    \subitem \Sun,\Moon\, to \Saturn, \hyperpage{310}
+    \subitem \Sun\, or \Moon, \hyperpage{315}
+    \subitem days, \hyperpage{320}
+    \subitem periods, \hyperpage{321}
+    \subitem profection, \hyperpage{327}
   \item \textsl{dodekatemorion}, \hyperpage{33}
 
   \indexspace
@@ -423,6 +437,7 @@
     \subitem Aries, \hyperpage{9}
   \item Fortune
     \subitem calculation, \hyperpage{289}
+    \subitem distribution, \hyperpage{303}
     \subitem injuries, \hyperpage{185}, \hyperpage{189}, 
 		\hyperpage{191}
     \subitem marriage, \hyperpage{210, 211}
@@ -579,6 +594,7 @@
     \subitem Adultry, \hyperpage{207}
     \subitem Basis, \hyperpage{147}
     \subitem Brothers, \hyperpage{216}
+    \subitem critical years, \hyperpage{294}
     \subitem Daimon, \hyperpage{102}, \hyperpage{127}, \hyperpage{146}, 
 		\hyperpage{163}
       \subsubitem travel, \hyperpage{163}
@@ -621,7 +637,7 @@
   \indexspace
 
   \item nativity
-    \subitem basis, \hyperpage{217}
+    \subitem basis, \hyperpage{217}, \hyperpage{316}, \hyperpage{330}
     \subitem control, \hyperpage{237}
     \subitem prosperous and effective, \hyperpage{53}
     \subitem ruler, \hyperpage{237}
@@ -667,6 +683,7 @@
     \subitem Fortune houses, \hyperpage{124}
       \subsubitem accomplishment (acquisition), \hyperpage{129}
     \subitem names of, \hyperpage{112}
+    \subitem operative, \hyperpage{332}
   \item plagues, \hyperpage{9}
   \item planets
     \subitem \Jupiter, \hyperpage{96}, \hyperpage{100}, \hyperpage{105}, 
@@ -815,6 +832,8 @@
       \subsubitem condition, \hyperpage{8}
     \subitem crisis-producing, \hyperpage{246}
     \subitem destructive, \hyperpage{256}
+    \subitem distribution of days, \hyperpage{302}
+    \subitem distribution periods, \hyperpage{300}
     \subitem exaltations, \hyperpage{258}
     \subitem finding, \hyperpage{59}
       \subsubitem degrees, \hyperpage{59}
@@ -1038,6 +1057,7 @@
       \subsubitem with the other planets, \hyperpage{65}
     \subitem sect, \hyperpage{261}
     \subitem setting, \hyperpage{260}
+    \subitem significations, \hyperpage{331}
     \subitem Sun
       \subsubitem with the Moon, \hyperpage{69}
     \subitem transits, \hyperpage{64}
@@ -1046,6 +1066,8 @@
       \subsubitem with the other planets, \hyperpage{67}
     \subitem wealth, \hyperpage{75}
     \subitem winds, \hyperpage{258}
+    \subitem years
+      \subsubitem mean, \hyperpage{295}
   \item possessions, \hyperpage{11}
 
   \indexspace
@@ -1134,6 +1156,7 @@
       \subsubitem wet, \hyperpage{15}
     \subitem common, \hyperpage{16}
     \subitem destructive, \hyperpage{18}, \hyperpage{20}
+    \subitem earth and water, \hyperpage{308}
     \subitem earthy, \hyperpage{11}, \hyperpage{16}, \hyperpage{20}
     \subitem ecliptic, \hyperpage{9}, \hyperpage{17, 18}
     \subitem elements, \hyperpage{89}
@@ -1146,6 +1169,7 @@
 		\hyperpage{21--23}
     \subitem fertility, \hyperpage{11}
     \subitem fiery, \hyperpage{9}, \hyperpage{15}, \hyperpage{19}
+    \subitem fire and air, \hyperpage{308}
     \subitem fixed, \hyperpage{11}
     \subitem governing, \hyperpage{9}, \hyperpage{15}, \hyperpage{19}
     \subitem half-finished, \hyperpage{19, 20}
@@ -1331,9 +1355,11 @@
 
   \indexspace
 
+  \item Valen's admonition, \hyperpage{325}
   \item Vesta, \hyperpage{11}
   \item vineyards, \hyperpage{17}
-  \item vital sector, \hyperpage{268}, \hyperpage{281}
+  \item vital sector, \hyperpage{268}, \hyperpage{281}, \hyperpage{301}, 
+		\hyperpage{303}
 
   \indexspace
 
@@ -1347,5 +1373,9 @@
 
   \item year
     \subitem ruler, \hyperpage{47}
+  \item years
+    \subitem critical, \hyperpage{294}
+    \subitem planets, \hyperpage{311}
+    \subitem signs, \hyperpage{311}
 
 \end{theindex}
