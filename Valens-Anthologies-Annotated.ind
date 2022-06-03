@@ -6,7 +6,8 @@
     \subitem travel, \hyperpage{164}
   \item \Venus
     \subitem travel, \hyperpage{164}
-  \item \textit{Critodemus}, \hyperpage{266, 267}, \hyperpage{280}
+  \item \textit{Critodemus}, \hyperpage{266, 267}, \hyperpage{280}, 
+		\hyperpage{373}
   \item \textit{Hypsicles}, \hyperpage{295}
   \item \textit{Orion}, \hyperpage{248}
   \item \textit{Petosiris}, \hyperpage{271}
@@ -24,7 +25,7 @@
     \subitem finding, \hyperpage{33}
       \subsubitem degree, \hyperpage{34}, \hyperpage{37}
     \subitem gnomon, \hyperpage{36}
-  \item aspects
+  \item aspects, \hyperpage{349}
     \subitem opposition, \hyperpage{236}
     \subitem sextile, \hyperpage{115}
     \subitem superior, \hyperpage{171}
@@ -379,7 +380,21 @@
     \subitem benefics, \hyperpage{8}
     \subitem Daimon, \hyperpage{99}
     \subitem dispositor, \hyperpage{94}
-    \subitem distributions, \hyperpage{313}, \hyperpage{332}
+    \subitem distribution, \hyperpage{348}
+      \subsubitem \Jupiter, \hyperpage{361}
+      \subsubitem \Mars, \hyperpage{363}
+      \subsubitem \Mercury, \hyperpage{368}
+      \subsubitem \Moon, \hyperpage{356}
+      \subsubitem \Saturn, \hyperpage{347}, \hyperpage{359}
+      \subsubitem \Sun, \hyperpage{353}
+      \subsubitem \Venus, \hyperpage{366}
+      \subsubitem Ascendant, \hyperpage{358}
+      \subsubitem lots, \hyperpage{370}
+      \subsubitem success, \hyperpage{348}
+    \subitem distributions, \hyperpage{313}, \hyperpage{332}, 
+		\hyperpage{337}, \hyperpage{341}, \hyperpage{346}
+      \subsubitem benefics, \hyperpage{341}
+      \subsubitem malefics, \hyperpage{341}
       \subsubitem starting points, \hyperpage{331}
     \subitem fortunate, \hyperpage{146}
     \subitem Fortune, \hyperpage{93}, \hyperpage{95, 96}, 
@@ -391,6 +406,7 @@
       \subsubitem \Saturn, \hyperpage{96}
       \subsubitem \Sun, \hyperpage{97}
       \subsubitem \Venus, \hyperpage{96}
+    \subitem general, \hyperpage{350}
     \subitem malefic as benefic, \hyperpage{115}
     \subitem malefics, \hyperpage{8}
     \subitem nodes, \hyperpage{53}
@@ -414,12 +430,19 @@
   \item directions, \hyperpage{252}
   \item diseases, \hyperpage{185}, \hyperpage{191}
   \item distribution
+    \subitem \Jupiter, \hyperpage{343}
     \subitem \Mercury\, to \Jupiter, \hyperpage{310}
     \subitem \Saturn\, or \Mars, \hyperpage{315}
+    \subitem \Saturn\, to \Jupiter, \hyperpage{339}
     \subitem \Saturn\, to \Sun, \Moon, \hyperpage{310}
     \subitem \Sun,\Moon\, to \Saturn, \hyperpage{310}
     \subitem \Sun\, or \Moon, \hyperpage{315}
+    \subitem Days, \hyperpage{377}
     \subitem days, \hyperpage{320}
+    \subitem Fourths, \hyperpage{379}
+    \subitem Method for Years, \hyperpage{374}
+    \subitem Month, \hyperpage{376}
+    \subitem One-fourth Method, \hyperpage{373}
     \subitem periods, \hyperpage{321}
     \subitem profection, \hyperpage{327}
   \item \textsl{dodekatemorion}, \hyperpage{33}
@@ -663,17 +686,21 @@
   \item Petosiris, \hyperpage{95}, \hyperpage{162}, \hyperpage{214}, 
 		\hyperpage{217, 218}
   \item places
-    \subitem 2nd, \hyperpage{110}
-    \subitem 3rd, \hyperpage{108}, \hyperpage{216}
-    \subitem 4th, \hyperpage{107}
-    \subitem 5th, \hyperpage{106}, \hyperpage{214}
-    \subitem 6th, \hyperpage{105}
-    \subitem 7th, \hyperpage{104}, \hyperpage{202}
-    \subitem 8th, \hyperpage{103}, \hyperpage{220}
-    \subitem 9th, \hyperpage{102}, \hyperpage{162}
-    \subitem 10th, \hyperpage{101}, \hyperpage{189}
-    \subitem 11th, \hyperpage{100}
-    \subitem 12th, \hyperpage{99}
+    \subitem 1st, \hyperpage{337}
+    \subitem 2nd, \hyperpage{110}, \hyperpage{337, 338}
+    \subitem 3rd, \hyperpage{108}, \hyperpage{216}, \hyperpage{337}, 
+		\hyperpage{345}
+    \subitem 4th, \hyperpage{107}, \hyperpage{337}
+    \subitem 5th, \hyperpage{106}, \hyperpage{214}, \hyperpage{337}
+    \subitem 6th, \hyperpage{105}, \hyperpage{337}
+    \subitem 7th, \hyperpage{104}, \hyperpage{202}, \hyperpage{337}
+    \subitem 8th, \hyperpage{103}, \hyperpage{220}, 
+		\hyperpage{337, 338}
+    \subitem 9th, \hyperpage{102}, \hyperpage{162}, \hyperpage{337}, 
+		\hyperpage{345}
+    \subitem 10th, \hyperpage{101}, \hyperpage{189}, \hyperpage{337}
+    \subitem 11th, \hyperpage{100}, \hyperpage{337}
+    \subitem 12th, \hyperpage{99}, \hyperpage{337}
     \subitem anaeretic, \hyperpage{255}
     \subitem benefics, \hyperpage{105}
     \subitem declines, \hyperpage{124}
@@ -684,6 +711,7 @@
       \subsubitem accomplishment (acquisition), \hyperpage{129}
     \subitem names of, \hyperpage{112}
     \subitem operative, \hyperpage{332}
+    \subitem significations, \hyperpage{337}
   \item plagues, \hyperpage{9}
   \item planets
     \subitem \Jupiter, \hyperpage{96}, \hyperpage{100}, \hyperpage{105}, 
@@ -828,10 +856,12 @@
     \subitem benefic, \hyperpage{260}
     \subitem benefic as malefic, \hyperpage{94}
     \subitem benefics, \hyperpage{99--104}, \hyperpage{106, 107}, 
-		\hyperpage{110}
+		\hyperpage{110}, \hyperpage{347}
       \subsubitem condition, \hyperpage{8}
+    \subitem condition, \hyperpage{343}, \hyperpage{354}
     \subitem crisis-producing, \hyperpage{246}
     \subitem destructive, \hyperpage{256}
+    \subitem direct, \hyperpage{343}
     \subitem distribution of days, \hyperpage{302}
     \subitem distribution periods, \hyperpage{300}
     \subitem exaltations, \hyperpage{258}
@@ -845,7 +875,8 @@
       \subsubitem condition, \hyperpage{8}
     \subitem malefic as benefic, \hyperpage{93}
     \subitem malefics, \hyperpage{99}, \hyperpage{101}, \hyperpage{104}, 
-		\hyperpage{107}, \hyperpage{110}, \hyperpage{236}
+		\hyperpage{107}, \hyperpage{110}, \hyperpage{236}, 
+		\hyperpage{347}
       \subsubitem terms, \hyperpage{264}
     \subitem Mercury
       \subsubitem with the other planets, \hyperpage{68}
@@ -1052,7 +1083,7 @@
 		\hyperpage{81}
       \subsubitem wide experience, \hyperpage{79}
       \subsubitem wrongs, \hyperpage{69}
-    \subitem retrograde, \hyperpage{260}
+    \subitem retrograde, \hyperpage{260}, \hyperpage{343}
     \subitem Saturn
       \subsubitem with the other planets, \hyperpage{65}
     \subitem sect, \hyperpage{261}
@@ -1064,6 +1095,7 @@
     \subitem triplicity rulers, \hyperpage{236}
     \subitem Venus
       \subsubitem with the other planets, \hyperpage{67}
+    \subitem visibility, \hyperpage{343}
     \subitem wealth, \hyperpage{75}
     \subitem winds, \hyperpage{258}
     \subitem years
@@ -1072,7 +1104,8 @@
 
   \indexspace
 
-  \item rank, \hyperpage{160}
+  \item rank, \hyperpage{160}, \hyperpage{341}, \hyperpage{343}, 
+		\hyperpage{347}, \hyperpage{349}
   \item rape, \hyperpage{212}
   \item reversals, \hyperpage{66}
   \item rivers
@@ -1102,6 +1135,8 @@
     \subitem Mediterranean, \hyperpage{21}
     \subitem Read Sea, \hyperpage{14}
     \subitem Red Sea, \hyperpage{10}, \hyperpage{19}, \hyperpage{24}
+  \item sect
+    \subitem configurations, \hyperpage{341}
   \item self controlled, \hyperpage{66}
   \item signa
     \subitem public, \hyperpage{12}
@@ -1202,6 +1237,8 @@
     \subitem semi-vocal, \hyperpage{9}, \hyperpage{11}, \hyperpage{16}
     \subitem servile, \hyperpage{9}, \hyperpage{14}, \hyperpage{18}, 
 		\hyperpage{20}, \hyperpage{23}
+    \subitem significations
+      \subsubitem Thema Mundi, \hyperpage{340}
     \subitem sinewy, \hyperpage{22}
     \subitem single, \hyperpage{21}
     \subitem solid, \hyperpage{10}, \hyperpage{15}, \hyperpage{18}, 
