@@ -7,8 +7,9 @@
   \item \Venus
     \subitem travel, \hyperpage{164}
   \item \textit{Critodemus}, \hyperpage{266, 267}, \hyperpage{280}, 
-		\hyperpage{373}
+		\hyperpage{373}, \hyperpage{434}
   \item \textit{Hypsicles}, \hyperpage{295}
+  \item \textit{Iliad}, \hyperpage{406}
   \item \textit{Orion}, \hyperpage{248}
   \item \textit{Petosiris}, \hyperpage{271}
 
@@ -29,6 +30,11 @@
     \subitem opposition, \hyperpage{236}
     \subitem sextile, \hyperpage{115}
     \subitem superior, \hyperpage{171}
+  \item astrology
+    \subitem art, \hyperpage{406}
+    \subitem forecasting, \hyperpage{413}
+    \subitem metaphor, \hyperpage{406}
+    \subitem science, \hyperpage{389}
 
   \indexspace
 
@@ -392,9 +398,10 @@
       \subsubitem lots, \hyperpage{370}
       \subsubitem success, \hyperpage{348}
     \subitem distributions, \hyperpage{313}, \hyperpage{332}, 
-		\hyperpage{337}, \hyperpage{341}, \hyperpage{346}
-      \subsubitem benefics, \hyperpage{341}
-      \subsubitem malefics, \hyperpage{341}
+		\hyperpage{337}, \hyperpage{341}, \hyperpage{346}, 
+		\hyperpage{403}, \hyperpage{432}
+      \subsubitem benefics, \hyperpage{341}, \hyperpage{433}
+      \subsubitem malefics, \hyperpage{341}, \hyperpage{433}
       \subsubitem starting points, \hyperpage{331}
     \subitem fortunate, \hyperpage{146}
     \subitem Fortune, \hyperpage{93}, \hyperpage{95, 96}, 
@@ -409,7 +416,7 @@
     \subitem general, \hyperpage{350}
     \subitem malefic as benefic, \hyperpage{115}
     \subitem malefics, \hyperpage{8}
-    \subitem nodes, \hyperpage{53}
+    \subitem nodes, \hyperpage{53}, \hyperpage{389}
     \subitem notable, \hyperpage{146}
     \subitem planet, \hyperpage{115}
     \subitem planets, \hyperpage{8}, \hyperpage{81}
@@ -422,6 +429,7 @@
     \subitem sect, \hyperpage{93}
     \subitem sextiles, \hyperpage{115}
     \subitem sign ruler, \hyperpage{12}, \hyperpage{32}
+    \subitem signs, \hyperpage{389}
     \subitem terms, \hyperpage{270}
     \subitem transits, \hyperpage{64}
     \subitem winds, \hyperpage{260}
@@ -437,28 +445,38 @@
     \subitem \Saturn\, to \Sun, \Moon, \hyperpage{310}
     \subitem \Sun,\Moon\, to \Saturn, \hyperpage{310}
     \subitem \Sun\, or \Moon, \hyperpage{315}
+    \subitem 12 year cycle, \hyperpage{407}
+    \subitem by degree, \hyperpage{410}
     \subitem Days, \hyperpage{377}
-    \subitem days, \hyperpage{320}
+    \subitem days, \hyperpage{320}, \hyperpage{397}
     \subitem Fourths, \hyperpage{379}
     \subitem Method for Years, \hyperpage{374}
     \subitem Month, \hyperpage{376}
+    \subitem month, \hyperpage{395}
     \subitem One-fourth Method, \hyperpage{373}
     \subitem periods, \hyperpage{321}
+    \subitem planets
+      \subsubitem retrograde, \hyperpage{412}
     \subitem profection, \hyperpage{327}
+    \subitem year, \hyperpage{394}
+    \subitem years, \hyperpage{434}, \hyperpage{440}
   \item \textsl{dodekatemorion}, \hyperpage{33}
 
   \indexspace
 
+  \item elections
+    \subitem nodes, \hyperpage{391}
   \item estates, \hyperpage{11}
   \item expenses
     \subitem great, \hyperpage{69}
 
   \indexspace
 
+  \item Fate, \hyperpage{403, 404}
   \item father, \hyperpage{169}
   \item fixed stars
     \subitem Aries, \hyperpage{9}
-  \item Fortune
+  \item Fortune, \hyperpage{404}
     \subitem calculation, \hyperpage{289}
     \subitem distribution, \hyperpage{303}
     \subitem injuries, \hyperpage{185}, \hyperpage{189}, 
@@ -488,12 +506,14 @@
   \item hips, \hyperpage{18}
   \item homesteads, \hyperpage{17}
   \item homosexual, \hyperpage{212}
+  \item Hope, \hyperpage{404}
   \item hostility, \hyperpage{66}
   \item hour
     \subitem ruler, \hyperpage{45}
   \item hours
     \subitem length
       \subsubitem day, \hyperpage{39}
+  \item human lives, \hyperpage{406}
   \item hunchback, \hyperpage{20}
 
   \indexspace
@@ -617,6 +637,7 @@
     \subitem Adultry, \hyperpage{207}
     \subitem Basis, \hyperpage{147}
     \subitem Brothers, \hyperpage{216}
+    \subitem crisis-producing (Accusation), \hyperpage{384}
     \subitem critical years, \hyperpage{294}
     \subitem Daimon, \hyperpage{102}, \hyperpage{127}, \hyperpage{146}, 
 		\hyperpage{163}
@@ -661,11 +682,12 @@
 
   \item nativity
     \subitem basis, \hyperpage{217}, \hyperpage{316}, \hyperpage{330}
+      \subsubitem levels, \hyperpage{434}
     \subitem control, \hyperpage{237}
     \subitem prosperous and effective, \hyperpage{53}
     \subitem ruler, \hyperpage{237}
     \subitem sect light, \hyperpage{237}
-  \item nodes, \hyperpage{281}
+  \item nodes, \hyperpage{281}, \hyperpage{388}
     \subitem finding, \hyperpage{53}
 
   \indexspace
@@ -712,6 +734,8 @@
     \subitem names of, \hyperpage{112}
     \subitem operative, \hyperpage{332}
     \subitem significations, \hyperpage{337}
+    \subitem signs
+      \subsubitem dynamic, \hyperpage{413}
   \item plagues, \hyperpage{9}
   \item planets
     \subitem \Jupiter, \hyperpage{96}, \hyperpage{100}, \hyperpage{105}, 
@@ -777,6 +801,7 @@
     \subitem \Moon, \hyperpage{97}, \hyperpage{103}, 
 		\hyperpage{105, 106}, \hyperpage{108}, \hyperpage{111}, 
 		\hyperpage{129}, \hyperpage{221}
+      \subsubitem inclinations (noddings), \hyperpage{399}
       \subsubitem new, \hyperpage{181}
       \subsubitem phases, \hyperpage{181}
       \subsubitem significations, \hyperpage{1}, \hyperpage{8}
@@ -858,7 +883,8 @@
     \subitem benefics, \hyperpage{99--104}, \hyperpage{106, 107}, 
 		\hyperpage{110}, \hyperpage{347}
       \subsubitem condition, \hyperpage{8}
-    \subitem condition, \hyperpage{343}, \hyperpage{354}
+    \subitem condition, \hyperpage{343}, \hyperpage{354}, 
+		\hyperpage{398}, \hyperpage{412}, \hyperpage{434}
     \subitem crisis-producing, \hyperpage{246}
     \subitem destructive, \hyperpage{256}
     \subitem direct, \hyperpage{343}
@@ -888,6 +914,7 @@
       \subsubitem invisibility, \hyperpage{51}
       \subsubitem visibility periods, \hyperpage{50}
       \subsubitem winds, \hyperpage{55}
+    \subitem phases, \hyperpage{398}
     \subitem powerful, \hyperpage{244}
     \subitem predicting effects, \hyperpage{81}
     \subitem productive of
@@ -1105,7 +1132,8 @@
   \indexspace
 
   \item rank, \hyperpage{160}, \hyperpage{341}, \hyperpage{343}, 
-		\hyperpage{347}, \hyperpage{349}
+		\hyperpage{347}, \hyperpage{349}, \hyperpage{385}, 
+		\hyperpage{403}
   \item rape, \hyperpage{212}
   \item reversals, \hyperpage{66}
   \item rivers
@@ -1190,6 +1218,7 @@
       \subsubitem temperate, \hyperpage{15}
       \subsubitem wet, \hyperpage{15}
     \subitem common, \hyperpage{16}
+    \subitem critical, \hyperpage{393}
     \subitem destructive, \hyperpage{18}, \hyperpage{20}
     \subitem earth and water, \hyperpage{308}
     \subitem earthy, \hyperpage{11}, \hyperpage{16}, \hyperpage{20}
@@ -1374,7 +1403,8 @@
     \subitem anaretic, \hyperpage{264}
     \subitem aphetic, \hyperpage{264}
   \item The King , \ see \textit{Petosiris}{276}, 
-		\ see \textit{Petosiris}{289}
+		\ see \textit{Petosiris}{289}, 
+		\ see \textit{Petosiris}{395}
   \item The Old Astrologer, \hyperpage{290}
   \item thighs, \hyperpage{19}
   \item thoughtful, \hyperpage{65}
@@ -1396,7 +1426,7 @@
   \item Vesta, \hyperpage{11}
   \item vineyards, \hyperpage{17}
   \item vital sector, \hyperpage{268}, \hyperpage{281}, \hyperpage{301}, 
-		\hyperpage{303}
+		\hyperpage{303}, \hyperpage{432}
 
   \indexspace
 
@@ -1409,6 +1439,7 @@
   \indexspace
 
   \item year
+    \subitem critical, \hyperpage{388}
     \subitem ruler, \hyperpage{47}
   \item years
     \subitem critical, \hyperpage{294}
