@@ -6,12 +6,16 @@
     \subitem travel, \hyperpage{164}
   \item \Venus
     \subitem travel, \hyperpage{164}
+  \item \textit{Apollinarius}, \hyperpage{466}
   \item \textit{Critodemus}, \hyperpage{266, 267}, \hyperpage{280}, 
 		\hyperpage{373}, \hyperpage{434}
   \item \textit{Hypsicles}, \hyperpage{295}
   \item \textit{Iliad}, \hyperpage{406}
+  \item \textit{Nechepso}, \hyperpage{452}
+  \item \textit{Nemesis}, \hyperpage{484}
   \item \textit{Orion}, \hyperpage{248}
-  \item \textit{Petosiris}, \hyperpage{271}
+  \item \textit{Petosiris}, \hyperpage{271}, \hyperpage{463}
+  \item \textit{Phainon}, \ see {planets, \Saturn}{463}
 
   \indexspace
 
@@ -26,11 +30,15 @@
     \subitem finding, \hyperpage{33}
       \subsubitem degree, \hyperpage{34}, \hyperpage{37}
     \subitem gnomon, \hyperpage{36}
+  \item aspect
+    \subitem 3° orb, \hyperpage{457}
+    \subitem superior, \hyperpage{458}
   \item aspects, \hyperpage{349}
+    \subitem Asc-\Moon, \hyperpage{479}
     \subitem opposition, \hyperpage{236}
     \subitem sextile, \hyperpage{115}
     \subitem superior, \hyperpage{171}
-  \item astrology
+  \item astrology, \hyperpage{452}
     \subitem art, \hyperpage{406}
     \subitem forecasting, \hyperpage{413}
     \subitem metaphor, \hyperpage{406}
@@ -301,7 +309,8 @@
     \subitem windy, \hyperpage{9}, \hyperpage{16, 17}, \hyperpage{19}
     \subitem wortheless, \hyperpage{21}
   \item Compiler , \ see Petosiris{218}
-  \item conception, \hyperpage{83}, \hyperpage{282}, \hyperpage{284}
+  \item conception, \hyperpage{83}, \hyperpage{282}, \hyperpage{284}, 
+		\hyperpage{482}
   \item configuration
     \subitem unsuitable, \hyperpage{272}
   \item constellations
@@ -364,6 +373,7 @@
   \item death, \hyperpage{223}
     \subitem violent, \hyperpage{220}
   \item debt, \hyperpage{69}
+  \item Decennials , \ see {distribution, {10-year, 9-month}} {468}
   \item degrees
     \subitem anaeretic, \hyperpage{255}
     \subitem average, \hyperpage{245}
@@ -383,7 +393,7 @@
       \subsubitem \Saturn, \hyperpage{96}
       \subsubitem \Sun, \hyperpage{97}
       \subsubitem \Venus, \hyperpage{96}
-    \subitem benefics, \hyperpage{8}
+    \subitem benefics, \hyperpage{8}, \hyperpage{465}
     \subitem Daimon, \hyperpage{99}
     \subitem dispositor, \hyperpage{94}
     \subitem distribution, \hyperpage{348}
@@ -394,8 +404,13 @@
       \subsubitem \Saturn, \hyperpage{347}, \hyperpage{359}
       \subsubitem \Sun, \hyperpage{353}
       \subsubitem \Venus, \hyperpage{366}
-      \subsubitem Ascendant, \hyperpage{358}
+      \subsubitem Ascendant, \hyperpage{358}, \hyperpage{461}
+      \subsubitem benefic, \hyperpage{459}
+      \subsubitem benefic as malefic, \hyperpage{460}
+      \subsubitem benefics, \hyperpage{469}
       \subsubitem lots, \hyperpage{370}
+      \subsubitem malefic, \hyperpage{460}
+      \subsubitem malefics, \hyperpage{469}
       \subsubitem success, \hyperpage{348}
     \subitem distributions, \hyperpage{313}, \hyperpage{332}, 
 		\hyperpage{337}, \hyperpage{341}, \hyperpage{346}, 
@@ -415,7 +430,7 @@
       \subsubitem \Venus, \hyperpage{96}
     \subitem general, \hyperpage{350}
     \subitem malefic as benefic, \hyperpage{115}
-    \subitem malefics, \hyperpage{8}
+    \subitem malefics, \hyperpage{8}, \hyperpage{465}
     \subitem nodes, \hyperpage{53}, \hyperpage{389}
     \subitem notable, \hyperpage{146}
     \subitem planet, \hyperpage{115}
@@ -431,7 +446,7 @@
     \subitem sign ruler, \hyperpage{12}, \hyperpage{32}
     \subitem signs, \hyperpage{389}
     \subitem terms, \hyperpage{270}
-    \subitem transits, \hyperpage{64}
+    \subitem transits, \hyperpage{64}, \hyperpage{467}
     \subitem winds, \hyperpage{260}
   \item Diamon
     \subitem diseases, \hyperpage{191}
@@ -445,10 +460,14 @@
     \subitem \Saturn\, to \Sun, \Moon, \hyperpage{310}
     \subitem \Sun,\Moon\, to \Saturn, \hyperpage{310}
     \subitem \Sun\, or \Moon, \hyperpage{315}
+    \subitem 10-year, 9-month, \hyperpage{468}
+      \subsubitem days, \hyperpage{476}
+      \subsubitem months, \hyperpage{473}
     \subitem 12 year cycle, \hyperpage{407}
     \subitem by degree, \hyperpage{410}
     \subitem Days, \hyperpage{377}
     \subitem days, \hyperpage{320}, \hyperpage{397}
+    \subitem degrees, \hyperpage{455}
     \subitem Fourths, \hyperpage{379}
     \subitem Method for Years, \hyperpage{374}
     \subitem Month, \hyperpage{376}
@@ -620,7 +639,7 @@
   \item land owner, \hyperpage{65}
   \item length of life, \hyperpage{98}, \hyperpage{237}, 
 		\hyperpage{271}, \hyperpage{281}, \hyperpage{284}, 
-		\hyperpage{289}
+		\hyperpage{289}, \hyperpage{478}
     \subitem vital sector, \hyperpage{248}
   \item life, length of, \hyperpage{160}
   \item limbs
@@ -740,7 +759,8 @@
   \item planets
     \subitem \Jupiter, \hyperpage{96}, \hyperpage{100}, \hyperpage{105}, 
 		\hyperpage{108}, \hyperpage{110}, \hyperpage{114}, 
-		\hyperpage{122}, \hyperpage{129}, \hyperpage{222}
+		\hyperpage{122}, \hyperpage{129}, \hyperpage{222}, 
+		\hyperpage{463}
       \subsubitem significations, \hyperpage{3}, \hyperpage{8}
     \subitem \Jupiter-\Mars, \hyperpage{67}, \hyperpage{96}, 
 		\hyperpage{122}
@@ -762,6 +782,7 @@
 		\hyperpage{204}, \hyperpage{207}
     \subitem \Jupiter-\Venus-\Moon, \hyperpage{78}
     \subitem \Jupiter-\Venus-\Sun, \hyperpage{77}
+    \subitem \Jupiter\,-\Mars, \hyperpage{458}
     \subitem \Mars, \hyperpage{96}, \hyperpage{105--108}, 
 		\hyperpage{110}, \hyperpage{114, 115}, \hyperpage{129}, 
 		\hyperpage{209}, \hyperpage{220}, \hyperpage{222}
@@ -813,7 +834,7 @@
     \subitem \Moon-\Venus-\Mars, \hyperpage{97}
     \subitem \Saturn, \hyperpage{105, 106}, \hyperpage{108}, 
 		\hyperpage{110}, \hyperpage{113, 114}, \hyperpage{120}, 
-		\hyperpage{129}, \hyperpage{222}
+		\hyperpage{129}, \hyperpage{222}, \hyperpage{463}
       \subsubitem aspects, \hyperpage{93}
       \subsubitem benefic, \hyperpage{96}
       \subsubitem significations, \hyperpage{2}, \hyperpage{8}
@@ -849,7 +870,7 @@
     \subitem \Saturn-\Venus-\Sun, \hyperpage{74}
     \subitem \Sun, \hyperpage{97}, \hyperpage{105, 106}, 
 		\hyperpage{108}, \hyperpage{110}, \hyperpage{129}, 
-		\hyperpage{221}
+		\hyperpage{221}, \hyperpage{464}
       \subsubitem significations, \hyperpage{1}, \hyperpage{8}
     \subitem \Sun-\Jupiter, \hyperpage{97}
     \subitem \Sun-\Jupiter-\Mars, \hyperpage{97}
@@ -862,7 +883,8 @@
     \subitem \Venus, \hyperpage{96}, \hyperpage{105, 106}, 
 		\hyperpage{108}, \hyperpage{110}, \hyperpage{113}, 
 		\hyperpage{116}, \hyperpage{119}, \hyperpage{129}, 
-		\hyperpage{202}, \hyperpage{209}, \hyperpage{221, 222}
+		\hyperpage{202}, \hyperpage{209}, \hyperpage{221, 222}, 
+		\hyperpage{464}
       \subsubitem significations, \hyperpage{5}, \hyperpage{8}
     \subitem \Venus-\Mars, \hyperpage{68}, \hyperpage{202}
     \subitem \Venus-\Mars-\Moon, \hyperpage{78}
@@ -883,6 +905,7 @@
     \subitem benefics, \hyperpage{99--104}, \hyperpage{106, 107}, 
 		\hyperpage{110}, \hyperpage{347}
       \subsubitem condition, \hyperpage{8}
+    \subitem colors, \hyperpage{463}
     \subitem condition, \hyperpage{343}, \hyperpage{354}, 
 		\hyperpage{398}, \hyperpage{412}, \hyperpage{434}
     \subitem crisis-producing, \hyperpage{246}
@@ -1384,6 +1407,8 @@
 
   \indexspace
 
+  \item tables
+    \subitem astronomical, \hyperpage{465}
   \item technique
     \subitem triplicity rulers, \hyperpage{91}
       \subsubitem timing, \hyperpage{91}
@@ -1402,23 +1427,29 @@
     \subitem \Pisces, \hyperpage{31}
     \subitem anaretic, \hyperpage{264}
     \subitem aphetic, \hyperpage{264}
+  \item The Ancients, \hyperpage{480}
+  \item The Ancients , \ see \textit{Petosiris}{453}, 
+		\ see \textit{Petosiris}{463}
   \item The King , \ see \textit{Petosiris}{276}, 
 		\ see \textit{Petosiris}{289}, 
 		\ see \textit{Petosiris}{395}
   \item The Old Astrologer, \hyperpage{290}
+  \item the soul, \hyperpage{461}
+  \item the young, \hyperpage{483}
   \item thighs, \hyperpage{19}
   \item thoughtful, \hyperpage{65}
   \item timing, \hyperpage{160}, \hyperpage{264}
     \subitem from Daimon, \hyperpage{163}
   \item transit
     \subitem places, \hyperpage{64}
+  \item transits, \hyperpage{457}
   \item travel, \hyperpage{162, 163}
   \item triplicities
     \subitem air, \hyperpage{89}
     \subitem earth, \hyperpage{89}
     \subitem fire, \hyperpage{89}
     \subitem water, \hyperpage{90}
-  \item twins, \hyperpage{273}
+  \item twins, \hyperpage{273}, \hyperpage{458}
 
   \indexspace
 
@@ -1426,7 +1457,7 @@
   \item Vesta, \hyperpage{11}
   \item vineyards, \hyperpage{17}
   \item vital sector, \hyperpage{268}, \hyperpage{281}, \hyperpage{301}, 
-		\hyperpage{303}, \hyperpage{432}
+		\hyperpage{303}, \hyperpage{432}, \hyperpage{458}
 
   \indexspace
 
