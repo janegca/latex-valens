@@ -27,7 +27,7 @@
     \subitem circle, \hyperpage{23}
     \subitem pole, \hyperpage{23}
   \item Ascendant
-    \subitem finding, \hyperpage{33}
+    \subitem finding, \hyperpage{33}, \hyperpage{558}
       \subsubitem degree, \hyperpage{34}, \hyperpage{37}
     \subitem gnomon, \hyperpage{36}
   \item aspect
@@ -366,6 +366,7 @@
     \subitem Triangulum, \hyperpage{23}
     \subitem Zeugma, \hyperpage{15}
   \item critical 7-day number, \hyperpage{276}
+  \item critical times, \hyperpage{588}
   \item crops, \hyperpage{17}
 
   \indexspace
@@ -444,7 +445,7 @@
     \subitem malefic as benefic, \hyperpage{115}
     \subitem malefics, \hyperpage{8}, \hyperpage{465}, \hyperpage{489}, 
 		\hyperpage{515}
-    \subitem nodes, \hyperpage{53}, \hyperpage{389}
+    \subitem nodes, \hyperpage{53}, \hyperpage{389}, \hyperpage{582}
     \subitem notable, \hyperpage{146}
     \subitem planet, \hyperpage{115}
     \subitem planets, \hyperpage{8}, \hyperpage{81}
@@ -530,6 +531,9 @@
   \item gender
     \subitem bi-sexual, \hyperpage{68}, \hyperpage{73, 74}, 
 		\hyperpage{78, 79}
+  \item gnomon
+    \subitem lunar, \hyperpage{565}
+    \subitem solar, \hyperpage{565}
   \item gods
     \subitem Apollo, \hyperpage{13}
     \subitem Hercules, \hyperpage{13}, \hyperpage{22}
@@ -569,6 +573,8 @@
     \subitem ruptures, \hyperpage{18}
     \subitem stones, \hyperpage{18}
     \subitem stranguary, \hyperpage{18}
+  \item inceptions
+    \subitem illness, \hyperpage{589}
   \item infamy, \hyperpage{69}
   \item injuries, \hyperpage{185}, \hyperpage{191}
   \item insomniac, \hyperpage{20}
@@ -663,6 +669,7 @@
 		\hyperpage{271}, \hyperpage{281}, \hyperpage{284}, 
 		\hyperpage{289}, \hyperpage{478}, \hyperpage{486}, 
 		\hyperpage{505}
+    \subitem three-sign method, \hyperpage{565}
     \subitem vital sector, \hyperpage{248}
   \item life, length of, \hyperpage{160}
   \item limbs
@@ -726,7 +733,7 @@
 
   \item nativity
     \subitem basis, \hyperpage{217}, \hyperpage{316}, \hyperpage{330}, 
-		\hyperpage{487}, \hyperpage{517}
+		\hyperpage{487}, \hyperpage{517}, \hyperpage{566}
       \subsubitem levels, \hyperpage{434}
     \subitem control, \hyperpage{237}
     \subitem infants, \hyperpage{491}
@@ -772,7 +779,7 @@
 		\hyperpage{345}
     \subitem 10th, \hyperpage{101}, \hyperpage{189}, \hyperpage{337}
     \subitem 11th, \hyperpage{100}, \hyperpage{337}
-    \subitem 12th, \hyperpage{99}, \hyperpage{337}
+    \subitem 12th, \hyperpage{99}, \hyperpage{337}, \hyperpage{567}
     \subitem anaeretic, \hyperpage{255}
     \subitem benefics, \hyperpage{105}
     \subitem declines, \hyperpage{124}
@@ -1194,6 +1201,7 @@
 		\hyperpage{403}, \hyperpage{489}
   \item rape, \hyperpage{212}
   \item reversals, \hyperpage{66}
+  \item rising times, \hyperpage{568}
   \item rivers
     \subitem Borysthenes, \hyperpage{24}
     \subitem Euphrates, \hyperpage{24}
@@ -1462,6 +1470,7 @@
     \subitem \Pisces, \hyperpage{31}
     \subitem anaretic, \hyperpage{264}
     \subitem aphetic, \hyperpage{264}
+    \subitem hostile, \hyperpage{588}
   \item The Ancients, \hyperpage{480}, \hyperpage{505}
   \item The Ancients , \ see \textit{Petosiris}{453}, 
 		\ see \textit{Petosiris}{463}
@@ -1487,6 +1496,7 @@
     \subitem fire, \hyperpage{89}
     \subitem water, \hyperpage{90}
   \item twins, \hyperpage{273}, \hyperpage{458}
+    \subitem birth time, \hyperpage{561}
 
   \indexspace
 
