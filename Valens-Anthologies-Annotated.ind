@@ -1,28 +1,9 @@
 \begin{theindex}
 
-  \item \Mars
-    \subitem travel, \hyperpage{162}
-  \item \Mercury
-    \subitem travel, \hyperpage{164}
-  \item \Venus
-    \subitem travel, \hyperpage{164}
-  \item \textit{Apollinarius}, \hyperpage{466}
-  \item \textit{Critodemus}, \hyperpage{266, 267}, \hyperpage{280}, 
-		\hyperpage{373}, \hyperpage{434}
-  \item \textit{Hypsicles}, \hyperpage{295}
-  \item \textit{Iliad}, \hyperpage{406}
-  \item \textit{Nechepso}, \hyperpage{452}
-  \item \textit{Nemesis}, \hyperpage{484}
-  \item \textit{Orion}, \hyperpage{248}
-  \item \textit{Petosiris}, \hyperpage{271}, \hyperpage{463}
-  \item \textit{Phainon}, \ see {planets, \Saturn}{463}
-
-  \indexspace
-
-  \item Abraham, \hyperpage{162}
-    \subitem timing method, \hyperpage{163}
+  \item \textit{Abraham}, \hyperpage{162}
   \item \textit{Achilles}, \hyperpage{621}
   \item animals, \hyperpage{20}
+  \item \textit{Apollinarius}, \hyperpage{466}
   \item \textit{Apollo}, \hyperpage{621}
   \item \textit{Apollonius}, \hyperpage{628}
   \item \textit{Aristarchus}, \hyperpage{627}
@@ -31,23 +12,21 @@
     \subitem circle, \hyperpage{23}
     \subitem pole, \hyperpage{23}
   \item Ascendant
-    \subitem degree, \hyperpage{623}, \hyperpage{625}, \hyperpage{638}
-      \subsubitem finding, \hyperpage{611}
-    \subitem finding, \hyperpage{33}, \hyperpage{558}
-      \subsubitem degree, \hyperpage{34}, \hyperpage{37}
+    \subitem degree, \hyperpage{34}, \hyperpage{37}, \hyperpage{558}, 
+		\hyperpage{611}, \hyperpage{623}, \hyperpage{625}, 
+		\hyperpage{638}
+    \subitem finding, \hyperpage{33}
     \subitem gnomon, \hyperpage{36}
   \item \textit{Asclation}, \hyperpage{591}
   \item \textit{Asclepius}, \hyperpage{598}
-  \item aspect
-    \subitem 3° orb, \hyperpage{457}
-    \subitem strength, \hyperpage{489}, \hyperpage{523}
-      \subsubitem sextile, \hyperpage{491}
-    \subitem superior, \hyperpage{458}
   \item aspects, \hyperpage{349}
+    \subitem 3° orb, \hyperpage{457}
     \subitem Asc-\Moon, \hyperpage{479}
     \subitem opposition, \hyperpage{236}
     \subitem sextile, \hyperpage{115}
-    \subitem superior, \hyperpage{171}
+    \subitem strength, \hyperpage{489}, \hyperpage{523}
+      \subsubitem sextile, \hyperpage{491}
+    \subitem superior, \hyperpage{171}, \hyperpage{458}
   \item astrology, \hyperpage{452}
     \subitem art, \hyperpage{406}
     \subitem effects, \hyperpage{501}
@@ -65,8 +44,7 @@
 
   \item Babylonians, \hyperpage{627}
   \item baldness, \hyperpage{20}
-  \item beasts
-    \subitem wild, \hyperpage{20}
+  \item beasts, \hyperpage{20}
   \item belly, \hyperpage{17}
   \item bereavement, \hyperpage{175}
   \item births
@@ -76,7 +54,7 @@
 
   \indexspace
 
-  \item Ceres, \hyperpage{11}
+  \item \textit{Ceres}, \hyperpage{11}
   \item Chaldeans, \hyperpage{598}, \hyperpage{627}
   \item character
     \subitem \Aries, \hyperpage{9}, \hyperpage{25}
@@ -327,7 +305,6 @@
 		\hyperpage{21, 22}
     \subitem windy, \hyperpage{9}, \hyperpage{16, 17}, \hyperpage{19}
     \subitem wortheless, \hyperpage{21}
-  \item Compiler , \ see Petosiris{218}
   \item conception, \hyperpage{83}, \hyperpage{282}, \hyperpage{284}, 
 		\hyperpage{482}, \hyperpage{634}
   \item configuration
@@ -339,8 +316,9 @@
     \subitem Argo, \hyperpage{15}, \hyperpage{19}
     \subitem Auriga, \hyperpage{9}, \hyperpage{11}
     \subitem Bear, \hyperpage{22}
-    \subitem Bearguard , \ see{Bootes}{24}
+    \subitem Bearguard , \ see {constellations,Bootes}{24}
     \subitem Bootes, \hyperpage{9}, \hyperpage{11}, \hyperpage{13--15}
+    \subitem Bootes , \hyperpage{24}
     \subitem Cancer, \hyperpage{15}
     \subitem Canis, \hyperpage{13}
     \subitem Canis Major, \hyperpage{14}
@@ -380,7 +358,9 @@
     \subitem Zeugma, \hyperpage{15}
   \item critical 7-day number, \hyperpage{276}
   \item critical times, \hyperpage{588}
-  \item \textit{Critodemus}, \hyperpage{591, 592}, \hyperpage{621}
+  \item \textit{Critodemus}, \hyperpage{266, 267}, \hyperpage{280}, 
+		\hyperpage{373}, \hyperpage{434}, \hyperpage{440}, 
+		\hyperpage{591, 592}, \hyperpage{621}
   \item crops, \hyperpage{17}
 
   \indexspace
@@ -525,16 +505,17 @@
     \subitem timing, \hyperpage{486}, \hyperpage{488}, \hyperpage{500}, 
 		\hyperpage{505}, \hyperpage{509}, \hyperpage{514}, 
 		\hyperpage{517, 518}, \hyperpage{545}
+    \subitem timing method, \hyperpage{163}
     \subitem topics, \hyperpage{487}
     \subitem year, \hyperpage{394}
     \subitem years, \hyperpage{434}, \hyperpage{440}
-  \item dodekatemorion
+  \item distributions
+    \subitem periodic, \hyperpage{603}
+  \item \textit{dodekatemorion}, \hyperpage{33}
     \subitem \Moon, \hyperpage{612}
-  \item \textsl{dodekatemorion}, \hyperpage{33}
 
   \indexspace
 
-  \item Egypitans, \hyperpage{598}
   \item Egyptians, \hyperpage{598}
   \item elections
     \subitem nodes, \hyperpage{391}
@@ -552,8 +533,6 @@
   \item father, \hyperpage{169}
   \item fixed stars
     \subitem Aries, \hyperpage{9}
-  \item forecasts
-    \subitem periodic, \hyperpage{603}
   \item Fortune, \hyperpage{404}
     \subitem calculation, \hyperpage{289}
     \subitem distribution, \hyperpage{303}
@@ -602,6 +581,7 @@
       \subsubitem day, \hyperpage{39}
   \item human lives, \hyperpage{406}
   \item hunchback, \hyperpage{20}
+  \item \textit{Hypsicles}, \hyperpage{295}
 
   \indexspace
 
@@ -624,8 +604,6 @@
 
   \indexspace
 
-  \item job
-    \subitem dictator, \hyperpage{66}
   \item jobs
     \subitem accountant, \hyperpage{16}, \hyperpage{67}
     \subitem accounts, \hyperpage{77}
@@ -642,6 +620,7 @@
     \subitem burglar, \hyperpage{18}
     \subitem chamberlains, \hyperpage{79}
     \subitem crafts, \hyperpage{80}
+    \subitem dictator, \hyperpage{66}
     \subitem educator, \hyperpage{67}
     \subitem educators, \hyperpage{12}
     \subitem embezzler, \hyperpage{69}
@@ -707,17 +686,16 @@
 
   \item lame, \hyperpage{20}
   \item land owner, \hyperpage{65}
-  \item length of life, \hyperpage{98}, \hyperpage{237}, 
-		\hyperpage{271}, \hyperpage{281}, \hyperpage{284}, 
-		\hyperpage{289}, \hyperpage{478}, \hyperpage{486}, 
-		\hyperpage{505}, \hyperpage{613}, \hyperpage{618}, 
-		\hyperpage{623}, \hyperpage{633, 634}, \hyperpage{638}, 
-		\hyperpage{640}, \hyperpage{645}
+  \item length of life, \hyperpage{98}, \hyperpage{160}, 
+		\hyperpage{237}, \hyperpage{271}, \hyperpage{281}, 
+		\hyperpage{284}, \hyperpage{289}, \hyperpage{478}, 
+		\hyperpage{486}, \hyperpage{505}, \hyperpage{613}, 
+		\hyperpage{618}, \hyperpage{623}, \hyperpage{633, 634}, 
+		\hyperpage{638}, \hyperpage{640}, \hyperpage{645}
     \subitem Fortune and Daimon, \hyperpage{595}
     \subitem signs, \hyperpage{650}
     \subitem three-sign method, \hyperpage{565}
     \subitem vital sector, \hyperpage{248}
-  \item life, length of, \hyperpage{160}
   \item limbs
     \subitem extra, \hyperpage{20}
     \subitem loss of, \hyperpage{20}
@@ -750,10 +728,9 @@
     \subitem Marriage, \hyperpage{207}
       \subsubitem men, \hyperpage{209}
       \subsubitem women, \hyperpage{209}
-    \subitem Mother, \hyperpage{169}, \hyperpage{173}
-    \subitem mother, \hyperpage{211}
+    \subitem Mother, \hyperpage{169}, \hyperpage{173}, \hyperpage{211}
     \subitem Theft, \hyperpage{152}
-    \subitem Travel , \ see Lot of Foreign Lands{163}
+    \subitem Travel , \ see {lots,Foreign Lands }{163}
   \item lucky, \hyperpage{70}
 
   \indexspace
@@ -791,7 +768,8 @@
     \subitem ruler, \hyperpage{237}
     \subitem sect light, \hyperpage{237}
   \item Nature, \hyperpage{615}
-  \item \textit{Nechepso}, \hyperpage{591}
+  \item \textit{Nechepso}, \hyperpage{452}, \hyperpage{591}
+  \item \textit{Nemesis}, \hyperpage{484}
   \item nodes, \hyperpage{281}, \hyperpage{388}, \hyperpage{632}
     \subitem finding, \hyperpage{53}
 
@@ -800,7 +778,6 @@
   \item oath
     \subitem student, \hyperpage{551}
   \item \textit{Odysseus}, \hyperpage{621}
-  \item Old Astrologer , \ see Petosiris{223}
   \item olives, \hyperpage{17}
   \item organs
     \subitem internal, \hyperpage{17}
@@ -815,11 +792,13 @@
     \subitem death, \hyperpage{177}
     \subitem separation, \hyperpage{177}
   \item \textit{Paris}, \hyperpage{621}
-  \item Petosiris, \hyperpage{95}, \hyperpage{162}, \hyperpage{214}, 
+  \item Petosiris, \hyperpage{95}, \hyperpage{214}, 
 		\hyperpage{217, 218}
-  \item \textit{Petosiris}, \hyperpage{595}, \hyperpage{625}
+  \item \textit{Petosiris}, \hyperpage{162}, \hyperpage{271}, 
+		\hyperpage{463}, \hyperpage{595}, \hyperpage{625}
   \item \textit{Petosiris}, \hyperpage{517}
   \item \textit{Petosiris}, \hyperpage{523}
+  \item \textit{Phainon}, \ see {planets, \Saturn}{463}
   \item \textit{Philip}, \hyperpage{627}
   \item places
     \subitem 1st, \hyperpage{337}, \hyperpage{598}
@@ -865,6 +844,7 @@
 		\hyperpage{122}, \hyperpage{129}, \hyperpage{222}, 
 		\hyperpage{463}
       \subsubitem significations, \hyperpage{3}, \hyperpage{8}
+      \subsubitem with the other planets, \hyperpage{66}
     \subitem \Jupiter-\Mars, \hyperpage{67}, \hyperpage{96}, 
 		\hyperpage{122}, \hyperpage{490}
     \subitem \Jupiter-\Mars-\Mercury, \hyperpage{76}
@@ -891,6 +871,7 @@
 		\hyperpage{209}, \hyperpage{220}, \hyperpage{222}
       \subsubitem aspects, \hyperpage{93}
       \subsubitem significations, \hyperpage{4}, \hyperpage{8}
+      \subsubitem travel, \hyperpage{162}
     \subitem \Mars-\Jupiter, \hyperpage{96}
     \subitem \Mars-\Mercury, \hyperpage{96}, \hyperpage{205}
     \subitem \Mars-\Moon, \hyperpage{108}, \hyperpage{115}
@@ -908,6 +889,7 @@
 		\hyperpage{108}, \hyperpage{110}, \hyperpage{116}, 
 		\hyperpage{129}, \hyperpage{221}
       \subsubitem significations, \hyperpage{6}, \hyperpage{8}
+      \subsubitem travel, \hyperpage{164}
     \subitem \Mercury-\Jupiter, \hyperpage{97}, \hyperpage{118}
     \subitem \Mercury-\Jupiter-\Saturn, \hyperpage{97}
     \subitem \Mercury-\Mars, \hyperpage{69}, \hyperpage{104}, 
@@ -991,6 +973,7 @@
 		\hyperpage{202}, \hyperpage{209}, \hyperpage{221, 222}, 
 		\hyperpage{464}
       \subsubitem significations, \hyperpage{5}, \hyperpage{8}
+      \subsubitem travel, \hyperpage{164}
     \subitem \Venus-\Mars, \hyperpage{68}, \hyperpage{202}
     \subitem \Venus-\Mars-\Moon, \hyperpage{78}
     \subitem \Venus-\Mercury, \hyperpage{68}, \hyperpage{96}, 
@@ -1024,8 +1007,6 @@
       \subsubitem degrees, \hyperpage{59}
     \subitem general, \hyperpage{8}
     \subitem joys, \hyperpage{261}
-    \subitem Jupiter
-      \subsubitem with the other planets, \hyperpage{66}
     \subitem malefic
       \subsubitem condition, \hyperpage{8}
     \subitem malefic as benefic, \hyperpage{93}
@@ -1256,7 +1237,7 @@
     \subitem visibility, \hyperpage{343}
     \subitem wealth, \hyperpage{75}
     \subitem winds, \hyperpage{258}
-    \subitem years
+    \subitem years, \hyperpage{311}
       \subsubitem mean, \hyperpage{295}
   \item possessions, \hyperpage{11}
 
@@ -1393,8 +1374,7 @@
     \subitem prolific, \hyperpage{14}
     \subitem public, \hyperpage{14}, \hyperpage{17}, \hyperpage{21}
     \subitem rising times, \hyperpage{40}
-    \subitem roya, \hyperpage{19}
-    \subitem royal, \hyperpage{15}
+    \subitem royal, \hyperpage{15}, \hyperpage{19}
     \subitem scaley, \hyperpage{22}
     \subitem semi-vocal, \hyperpage{9}, \hyperpage{11}, \hyperpage{16}
     \subitem servile, \hyperpage{9}, \hyperpage{14}, \hyperpage{18}, 
@@ -1417,6 +1397,7 @@
     \subitem vocal, \hyperpage{17}, \hyperpage{19}
     \subitem watery, \hyperpage{14}, \hyperpage{18}
     \subitem winged, \hyperpage{16}, \hyperpage{19}
+    \subitem years, \hyperpage{311}
   \item skin
     \subitem rough, \hyperpage{22}
   \item \textit{Soudines}, \hyperpage{628}
@@ -1540,18 +1521,15 @@
     \subitem aphetic, \hyperpage{264}
     \subitem Egyptian, \hyperpage{649}
     \subitem hostile, \hyperpage{588}
-  \item The Ancients, \hyperpage{480}, \hyperpage{505}
-  \item The Ancients , \ see \textit{Petosiris}{453}, 
-		\ see \textit{Petosiris}{463}
-  \item The Compiler, \hyperpage{517}
-  \item The King, \hyperpage{517, 518}, \hyperpage{545--547}, 
+  \item The Ancients, \hyperpage{453}, \hyperpage{463}, \hyperpage{480}, 
+		\hyperpage{505}
+  \item The King, \hyperpage{276}, \hyperpage{289}, \hyperpage{395}, 
+		\hyperpage{517, 518}, \hyperpage{545--547}, 
 		\hyperpage{591}, \hyperpage{595}, \hyperpage{604}, 
 		\hyperpage{625}, \hyperpage{628}
-  \item The King , \ see \textit{Petosiris}{276}, 
-		\ see \textit{Petosiris}{289}, 
-		\ see \textit{Petosiris}{395}
-  \item The Old Astrologer, \hyperpage{290}
-  \item The Poet, \hyperpage{620}, \hyperpage{635}
+  \item The Old Astrologer, \hyperpage{223}, \hyperpage{248}, 
+		\hyperpage{290}
+  \item The Poet, \hyperpage{406}, \hyperpage{620}, \hyperpage{635}
   \item the soul, \hyperpage{461}
   \item the young, \hyperpage{483}
   \item thighs, \hyperpage{19}
@@ -1594,13 +1572,9 @@
   \indexspace
 
   \item year
-    \subitem critical, \hyperpage{388}
+    \subitem critical, \hyperpage{294}, \hyperpage{388}
     \subitem length, \hyperpage{627}
     \subitem ruler, \hyperpage{47}
-  \item years
-    \subitem critical, \hyperpage{294}
-    \subitem planets, \hyperpage{311}
-    \subitem signs, \hyperpage{311}
 
   \indexspace
 
