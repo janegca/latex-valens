@@ -1443,46 +1443,46 @@
 \indexentry{delineation!Fortune|hyperpage}{95}
 \indexentry{Petosiris|hyperpage}{95}
 \indexentry{delineation!Ascendant|hyperpage}{96}
-\indexentry{delineation!Fortune|hyperpage}{96}
+\indexentry{lots!Fortune|hyperpage}{96}
 \indexentry{delineation!Ascendant!\Saturn|hyperpage}{96}
-\indexentry{delineation!Fortune!\Saturn|hyperpage}{96}
+\indexentry{lots!Fortune!\Saturn|hyperpage}{96}
 \indexentry{planets!\Saturn!benefic|hyperpage}{96}
 \indexentry{planets!\Saturn-\Jupiter|hyperpage}{96}
 \indexentry{planets!\Saturn-\Venus|hyperpage}{96}
 \indexentry{planets!\Saturn-\Mars|hyperpage}{96}
 \indexentry{planets!\Saturn-\Mercury|hyperpage}{96}
 \indexentry{delineation!Ascendant!\Jupiter|hyperpage}{96}
-\indexentry{delineation!Fortune!\Jupiter|hyperpage}{96}
+\indexentry{lots!Fortune!\Jupiter|hyperpage}{96}
 \indexentry{planets!\Jupiter|hyperpage}{96}
 \indexentry{planets!\Jupiter-\Mars|hyperpage}{96}
 \indexentry{planets!\Jupiter-\Saturn|hyperpage}{96}
 \indexentry{planets!\Jupiter-\Venus|hyperpage}{96}
 \indexentry{planets!\Jupiter-\Mercury|hyperpage}{96}
 \indexentry{delineation!Ascendant!\Mars|hyperpage}{96}
-\indexentry{delineation!Fortune!\Mars|hyperpage}{96}
+\indexentry{lots!Fortune!\Mars|hyperpage}{96}
 \indexentry{planets!\Mars|hyperpage}{96}
 \indexentry{planets!\Mars-\Jupiter|hyperpage}{96}
 \indexentry{planets!\Mars-\Venus|hyperpage}{96}
 \indexentry{planets!\Mars-\Mercury|hyperpage}{96}
 \indexentry{delineation!Ascendant!\Venus|hyperpage}{96}
-\indexentry{delineation!Fortune!\Venus|hyperpage}{96}
+\indexentry{lots!Fortune!\Venus|hyperpage}{96}
 \indexentry{planets!\Venus|hyperpage}{96}
 \indexentry{planets!\Venus-\Mercury|hyperpage}{96}
 \indexentry{planets!\Venus-\Mercury-\Saturn|hyperpage}{96}
 \indexentry{delineation!Ascendant!\Mercury|hyperpage}{97}
-\indexentry{delineation!Fortune!\Mercury|hyperpage}{97}
+\indexentry{lots!Fortune!\Mercury|hyperpage}{97}
 \indexentry{planets!\Mercury|hyperpage}{97}
 \indexentry{planets!\Mercury-\Jupiter|hyperpage}{97}
 \indexentry{planets!\Mercury-\Jupiter-\Saturn|hyperpage}{97}
 \indexentry{delineation!Ascendant!\Sun|hyperpage}{97}
-\indexentry{delineation!Fortune!\Sun|hyperpage}{97}
+\indexentry{lots!Fortune!\Sun|hyperpage}{97}
 \indexentry{planets!\Sun|hyperpage}{97}
 \indexentry{planets!\Sun-\Jupiter|hyperpage}{97}
 \indexentry{planets!\Sun-\Jupiter-\Mercury|hyperpage}{97}
 \indexentry{planets!\Sun-\Jupiter-\Mars|hyperpage}{97}
 \indexentry{planets!\Sun-\Jupiter-\Mars-\Saturn|hyperpage}{97}
 \indexentry{delineation!Ascendant!\Moon|hyperpage}{97}
-\indexentry{delineation!Fortune!\Moon|hyperpage}{97}
+\indexentry{lots!Fortune!\Moon|hyperpage}{97}
 \indexentry{planets!\Moon|hyperpage}{97}
 \indexentry{planets!\Moon-\Venus|hyperpage}{97}
 \indexentry{planets!\Moon-\Venus-\Mars|hyperpage}{97}
@@ -1495,8 +1495,8 @@
 \indexentry{places!12@12th|hyperpage}{99}
 \indexentry{planets!malefics|hyperpage}{99}
 \indexentry{planets!benefics|hyperpage}{99}
-\indexentry{delineation!Fortune|hyperpage}{99}
-\indexentry{delineation!Daimon|hyperpage}{99}
+\indexentry{lots!Fortune|hyperpage}{99}
+\indexentry{lots!Daimon|hyperpage}{99}
 \indexentry{delineation!Ascendant|hyperpage}{99}
 \indexentry{places!11@11th|hyperpage}{100}
 \indexentry{planets!benefics|hyperpage}{100}
@@ -1868,18 +1868,20 @@
 \indexentry{distribution!\Saturn\, to \Sun, \Moon|hyperpage}{310}
 \indexentry{signs!years|hyperpage}{311}
 \indexentry{planets!years|hyperpage}{311}
-\indexentry{delineation!distributions|hyperpage}{313}
-\indexentry{distribution!\Saturn\, or \Mars|hyperpage}{315}
-\indexentry{distribution!\Sun\, or \Moon|hyperpage}{315}
+\indexentry{distributions|hyperpage}{313}
+\indexentry{planets!\Saturn\!distribution|hyperpage}{315}
+\indexentry{planets!\Mars!distribution|hyperpage}{315}
+\indexentry{planets!\Sun!distribution|hyperpage}{315}
+\indexentry{planets!\Moon!distribution|hyperpage}{315}
 \indexentry{nativity!basis|hyperpage}{316}
 \indexentry{distribution!days|hyperpage}{320}
 \indexentry{distribution!periods|hyperpage}{321}
 \indexentry{Valen's admonition|hyperpage}{325}
 \indexentry{distribution!profection|hyperpage}{327}
 \indexentry{nativity!basis|hyperpage}{330}
-\indexentry{delineation!distributions!starting points|hyperpage}{331}
+\indexentry{distribution!starting points|hyperpage}{331}
 \indexentry{planets!significations|hyperpage}{331}
-\indexentry{delineation!distributions|hyperpage}{332}
+\indexentry{distribution|hyperpage}{332}
 \indexentry{places!operative|hyperpage}{332}
 \indexentry{places!significations|hyperpage}{337}
 \indexentry{places!01@1st|hyperpage}{337}
@@ -1894,16 +1896,17 @@
 \indexentry{places!10@10th|hyperpage}{337}
 \indexentry{places!11@11th|hyperpage}{337}
 \indexentry{places!12@12th|hyperpage}{337}
-\indexentry{delineation!distributions|hyperpage}{337}
+\indexentry{distribution|hyperpage}{337}
 \indexentry{places!02@2nd|hyperpage}{338}
 \indexentry{places!08@8th|hyperpage}{338}
-\indexentry{distribution!\Saturn\, to \Jupiter|hyperpage}{339}
-\indexentry{signs!significations!Thema Mundi|hyperpage}{340}
-\indexentry{delineation!distributions|hyperpage}{341}
-\indexentry{delineation!distributions!malefics|hyperpage}{341}
+\indexentry{planets!\Saturn!distribution|hyperpage}{339}
+\indexentry{planets!\Jupiter!distribution|hyperpage}{339}
+\indexentry{Thema Mundi@\textit{Thema Mundi}|hyperpage}{340}
+\indexentry{distribution|hyperpage}{341}
+\indexentry{distribution!malefics|hyperpage}{341}
 \indexentry{sect!configurations|hyperpage}{341}
 \indexentry{rank|hyperpage}{341}
-\indexentry{delineation!distributions!benefics|hyperpage}{341}
+\indexentry{distribution!benefics|hyperpage}{341}
 \indexentry{planets!condition|hyperpage}{343}
 \indexentry{planets!retrograde|hyperpage}{343}
 \indexentry{planets!direct|hyperpage}{343}
@@ -1912,26 +1915,26 @@
 \indexentry{distribution!\Jupiter|hyperpage}{343}
 \indexentry{places!03@3rd|hyperpage}{345}
 \indexentry{places!09@9th|hyperpage}{345}
-\indexentry{delineation!distributions|hyperpage}{346}
+\indexentry{distribution|hyperpage}{346}
 \indexentry{rank|hyperpage}{347}
 \indexentry{planets!malefics|hyperpage}{347}
 \indexentry{planets!benefics|hyperpage}{347}
-\indexentry{delineation!distribution!\Saturn|hyperpage}{347}
-\indexentry{delineation!distribution|hyperpage}{348}
-\indexentry{delineation!distribution!success|hyperpage}{348}
+\indexentry{planets!\Saturn!distribution|hyperpage}{347}
+\indexentry{distribution|hyperpage}{348}
+\indexentry{distribution!success|hyperpage}{348}
 \indexentry{rank|hyperpage}{349}
 \indexentry{aspects|hyperpage}{349}
 \indexentry{delineation!general|hyperpage}{350}
-\indexentry{delineation!distribution!\Sun|hyperpage}{353}
+\indexentry{panets!\Sun!distribution|hyperpage}{353}
 \indexentry{planets!condition|hyperpage}{354}
-\indexentry{delineation!distribution!\Moon|hyperpage}{356}
-\indexentry{delineation!distribution!Ascendant|hyperpage}{358}
-\indexentry{delineation!distribution!\Saturn|hyperpage}{359}
-\indexentry{delineation!distribution!\Jupiter|hyperpage}{361}
-\indexentry{delineation!distribution!\Mars|hyperpage}{363}
-\indexentry{delineation!distribution!\Venus|hyperpage}{366}
-\indexentry{delineation!distribution!\Mercury|hyperpage}{368}
-\indexentry{delineation!distribution!lots|hyperpage}{370}
+\indexentry{planets!\Moon!distribution|hyperpage}{356}
+\indexentry{distributions!Ascendant|hyperpage}{358}
+\indexentry{planets!\Saturn!distribution|hyperpage}{359}
+\indexentry{planets!\Jupiter!distribution|hyperpage}{361}
+\indexentry{planets!\Mars!distribution|hyperpage}{363}
+\indexentry{planets!\Venus!distribution|hyperpage}{366}
+\indexentry{planets!\Mercury!distribution|hyperpage}{368}
+\indexentry{distribution!lots|hyperpage}{370}
 \indexentry{distribution!One-fourth Method|hyperpage}{373}
 \indexentry{Critodemus@\textit{Critodemus}|hyperpage}{373}
 \indexentry{distribution!Method for Years|hyperpage}{374}
@@ -1954,7 +1957,7 @@
 \indexentry{planets!phases|hyperpage}{398}
 \indexentry{planets!condition|hyperpage}{398}
 \indexentry{planets!\Moon!inclinations (noddings)|hyperpage}{399}
-\indexentry{delineation!distributions|hyperpage}{403}
+\indexentry{distribution|hyperpage}{403}
 \indexentry{Fate|hyperpage}{403}
 \indexentry{rank|hyperpage}{403}
 \indexentry{Fate|hyperpage}{404}
@@ -1965,15 +1968,15 @@
 \indexentry{astrology!metaphor|hyperpage}{406}
 \indexentry{human lives|hyperpage}{406}
 \indexentry{distribution!12 year cycle|hyperpage}{407}
-\indexentry{distribution!by degree|hyperpage}{410}
+\indexentry{distribution!degree|hyperpage}{410}
 \indexentry{planets!condition|hyperpage}{412}
 \indexentry{distribution!planets!retrograde|hyperpage}{412}
 \indexentry{astrology!forecasting|hyperpage}{413}
 \indexentry{places!signs!dynamic|hyperpage}{413}
-\indexentry{delineation!distributions|hyperpage}{432}
+\indexentry{distribution|hyperpage}{432}
 \indexentry{vital sector|hyperpage}{432}
-\indexentry{delineation!distributions!benefics|hyperpage}{433}
-\indexentry{delineation!distributions!malefics|hyperpage}{433}
+\indexentry{distribution!benefics|hyperpage}{433}
+\indexentry{distribution!malefics|hyperpage}{433}
 \indexentry{planets!condition|hyperpage}{434}
 \indexentry{nativity!basis!levels|hyperpage}{434}
 \indexentry{Critodemus@\textit{Critodemus}|hyperpage}{434}
@@ -1990,10 +1993,10 @@
 \indexentry{planets!\Jupiter\,-\Mars|hyperpage}{458}
 \indexentry{twins|hyperpage}{458}
 \indexentry{aspects!superior|hyperpage}{458}
-\indexentry{delineation!distribution!benefic|hyperpage}{459}
-\indexentry{delineation!distribution!malefic|hyperpage}{460}
-\indexentry{delineation!distribution!benefic as malefic|hyperpage}{460}
-\indexentry{delineation!distribution!Ascendant|hyperpage}{461}
+\indexentry{distribution!benefics|hyperpage}{459}
+\indexentry{distribution!malefics|hyperpage}{460}
+\indexentry{distribution!benefic as malefic|hyperpage}{460}
+\indexentry{distribution!Ascendant|hyperpage}{461}
 \indexentry{the soul|hyperpage}{461}
 \indexentry{planets!colors|hyperpage}{463}
 \indexentry{The Ancients|hyperpage}{463}
@@ -2008,8 +2011,8 @@
 \indexentry{Apollinarius@\textit{Apollinarius}|hyperpage}{466}
 \indexentry{delineation!transits|hyperpage}{467}
 \indexentry{distribution!10-year, 9-month|hyperpage}{468}
-\indexentry{delineation!distribution!benefics|hyperpage}{469}
-\indexentry{delineation!distribution!malefics|hyperpage}{469}
+\indexentry{distribution!benefics|hyperpage}{469}
+\indexentry{distribution!malefics|hyperpage}{469}
 \indexentry{distribution!10-year, 9-month!months|hyperpage}{473}
 \indexentry{distribution!10-year, 9-month!days|hyperpage}{476}
 \indexentry{length of life|hyperpage}{478}
@@ -2034,9 +2037,9 @@
 \indexentry{aspects!strength|hyperpage}{489}
 \indexentry{planets!\Saturn-\Jupiter|hyperpage}{490}
 \indexentry{planets!\Jupiter-\Mars|hyperpage}{490}
-\indexentry{delineation!distribution!productive|hyperpage}{490}
+\indexentry{distribution!productive|hyperpage}{490}
 \indexentry{distribution!method|hyperpage}{491}
-\indexentry{delineation!distribution!mixed|hyperpage}{491}
+\indexentry{distribution!mixed|hyperpage}{491}
 \indexentry{aspects!strength!sextile|hyperpage}{491}
 \indexentry{nativity!infants|hyperpage}{491}
 \indexentry{planets!condition|hyperpage}{498}
@@ -2050,22 +2053,22 @@
 \indexentry{distribution!method|hyperpage}{505}
 \indexentry{distribution!timing|hyperpage}{505}
 \indexentry{distribution!timing|hyperpage}{509}
-\indexentry{distribution!method!timing|hyperpage}{512}
+\indexentry{distribution!timing|hyperpage}{512}
 \indexentry{lots!Fortune|hyperpage}{512}
-\indexentry{delineation!distribution!malefics|hyperpage}{514}
-\indexentry{delineation!distribution!benefics|hyperpage}{514}
+\indexentry{distribution!malefics|hyperpage}{514}
+\indexentry{distribution!benefics|hyperpage}{514}
 \indexentry{distribution!timing|hyperpage}{514}
 \indexentry{delineation!malefics|hyperpage}{515}
 \indexentry{delineation!benefics|hyperpage}{515}
 \indexentry{euripides@\textit{Euripides}|hyperpage}{515}
-\indexentry{distribution!method!timing|hyperpage}{515}
+\indexentry{distribution!timing|hyperpage}{515}
 \indexentry{planets!periods!mean|hyperpage}{515}
 \indexentry{distribution!timing|hyperpage}{517}
 \indexentry{The King|hyperpage}{517}
 \indexentry{petosiris@\textit{Petosiris}|hyperpage}{517}
 \indexentry{astrology!prediction|hyperpage}{517}
-\indexentry{delineation!distribution!malefics|hyperpage}{517}
-\indexentry{delineation!distribution!benefics|hyperpage}{517}
+\indexentry{distribution!malefics|hyperpage}{517}
+\indexentry{distribution!benefics|hyperpage}{517}
 \indexentry{nativity!basis|hyperpage}{517}
 \indexentry{The King|hyperpage}{518}
 \indexentry{distribution!timing|hyperpage}{518}
@@ -2076,18 +2079,18 @@
 \indexentry{planets!\Saturn-\Mars|hyperpage}{535}
 \indexentry{transits|hyperpage}{536}
 \indexentry{Fate|hyperpage}{536}
-\indexentry{delineation!distribution!forecasting|hyperpage}{542}
+\indexentry{distribution!forecasting|hyperpage}{542}
 \indexentry{distribution!timing|hyperpage}{545}
 \indexentry{The King|hyperpage}{545}
 \indexentry{The King|hyperpage}{546}
-\indexentry{delineation!distribution|hyperpage}{547}
+\indexentry{distribution|hyperpage}{547}
 \indexentry{transits|hyperpage}{547}
 \indexentry{The King|hyperpage}{547}
 \indexentry{lots!Accomplishment|hyperpage}{548}
-\indexentry{delineation!distribution!\Moon|hyperpage}{549}
-\indexentry{delineation!distribution!\Mercury|hyperpage}{549}
-\indexentry{delineation!distribution!\Venus|hyperpage}{549}
-\indexentry{delineation!distribution!\Jupiter|hyperpage}{549}
+\indexentry{planets!\Moon!distribution|hyperpage}{549}
+\indexentry{planets!\Mercury!distribution|hyperpage}{549}
+\indexentry{planets!\Venus!distribution|hyperpage}{549}
+\indexentry{planets!\Jupiter!distribution|hyperpage}{549}
 \indexentry{marcus@\textit{Marcus}|hyperpage}{551}
 \indexentry{oath!student|hyperpage}{551}
 \indexentry{Ascendant!degree|hyperpage}{558}
@@ -2151,10 +2154,10 @@
 \indexentry{distribution!method|hyperpage}{604}
 \indexentry{Zoroaster@\textit{Zoroaster}|hyperpage}{604}
 \indexentry{The King|hyperpage}{604}
-\indexentry{delineation!\Jupiter|hyperpage}{605}
-\indexentry{delineation!\Jupiter!malefic|hyperpage}{605}
-\indexentry{delineation!\Moon|hyperpage}{606}
-\indexentry{delineation!distribution!nodes|hyperpage}{606}
+\indexentry{planets!\Jupiter|hyperpage}{605}
+\indexentry{planets!\Jupiter!malefic|hyperpage}{605}
+\indexentry{planets!\Moon|hyperpage}{606}
+\indexentry{distribution!nodes|hyperpage}{606}
 \indexentry{distribution!critical times|hyperpage}{607}
 \indexentry{planets!periods|hyperpage}{607}
 \indexentry{horoscopes!initiatives (Elections)|hyperpage}{609}
@@ -2223,3 +2226,4 @@
 \indexentry{lots!Travel|see{lots, Foreign Lands }}{662}
 \indexentry{Phainon@\textit{Phainon}|see{planets, \Saturn}}{662}
 \indexentry{signs!beholding|see{signs, listening and beholding}}{662}
+\indexentry{transmissions!see{distriubtion}|hyperpage}{662}
