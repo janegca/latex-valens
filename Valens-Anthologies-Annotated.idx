@@ -101,7 +101,7 @@
 \indexentry{Vesta|hyperpage}{11}
 \indexentry{constellations!Bootes|hyperpage}{11}
 \indexentry{constellations!Ophiouchus|hyperpage}{11}
-\indexentry{constellations!Orioin|hyperpage}{11}
+\indexentry{constellations!Orion|hyperpage}{11}
 \indexentry{signs!fixed|hyperpage}{11}
 \indexentry{signs!earthy|hyperpage}{11}
 \indexentry{jobs!farmer|hyperpage}{11}
@@ -170,7 +170,6 @@
 \indexentry{climate!wet|hyperpage}{12}
 \indexentry{constellations!Cetus|hyperpage}{13}
 \indexentry{constellations!Orion|hyperpage}{13}
-\indexentry{constellations!Satyr!see {constellations, Orion}|hyperpage}{13}
 \indexentry{constellations!Lyra|hyperpage}{13}
 \indexentry{constellations!Canis|hyperpage}{13}
 \indexentry{constellations!Eridanus|hyperpage}{13}
@@ -281,7 +280,7 @@
 \indexentry{signs!climate!temperate|hyperpage}{15}
 \indexentry{constellations!Bootes|hyperpage}{15}
 \indexentry{constellations!Argo|hyperpage}{15}
-\indexentry{constellations!Dog | see{Sirrius}}{15}
+\indexentry{constellations!Sirrius|hyperpage}{15}
 \indexentry{constellations!Hydra|hyperpage}{15}
 \indexentry{constellations!Scorpio|hyperpage}{15}
 \indexentry{constellations!Cancer|hyperpage}{15}
@@ -684,8 +683,8 @@
 \indexentry{constellations!Great Bear|hyperpage}{23}
 \indexentry{constellations!Cynosura|hyperpage}{23}
 \indexentry{constellations!Lesser Bear|hyperpage}{23}
-\indexentry{constellations!Bearguard | see {constellations,Bootes}}{24}
-\indexentry{constellations!Bootes |hyperpage}{24}
+\indexentry{constellations!Bearguard|see{constellations,Bootes}}{24}
+\indexentry{constellations!Bootes|hyperpage}{24}
 \indexentry{rivers!Euphrates|hyperpage}{24}
 \indexentry{rivers!Tigris|hyperpage}{24}
 \indexentry{states!Syria|hyperpage}{24}
@@ -732,7 +731,6 @@
 \indexentry{hours!length!day|hyperpage}{39}
 \indexentry{signs!rising times|hyperpage}{40}
 \indexentry{signs!listening and beholding|hyperpage}{42}
-\indexentry{signs!beholding | see{listening and beholding}}{42}
 \indexentry{planets!Moon!finding New and Full Moon|hyperpage}{43}
 \indexentry{day!ruler|hyperpage}{45}
 \indexentry{hour!ruler|hyperpage}{45}
@@ -1657,7 +1655,6 @@
 \indexentry{planets!\Mars!travel|hyperpage}{162}
 \indexentry{travel|hyperpage}{163}
 \indexentry{lots!Foreign Lands|hyperpage}{163}
-\indexentry{lots!Travel | see {lots,Foreign Lands }}{163}
 \indexentry{lots!Daimon!travel|hyperpage}{163}
 \indexentry{distribution!timing method|hyperpage}{163}
 \indexentry{lots!Daimon|hyperpage}{163}
@@ -1690,7 +1687,7 @@
 \indexentry{injuries|hyperpage}{185}
 \indexentry{diseases|hyperpage}{185}
 \indexentry{Fortune!injuries|hyperpage}{185}
-\indexentry{Daimon!diseases|hyperpage}{186}
+\indexentry{lots!Daimon!diseases|hyperpage}{186}
 \indexentry{signs!01@\Aries|hyperpage}{186}
 \indexentry{signs!02@\Taurus|hyperpage}{186}
 \indexentry{signs!03@\Gemini|hyperpage}{187}
@@ -1704,7 +1701,7 @@
 \indexentry{signs!11@\Aquarius|hyperpage}{188}
 \indexentry{signs!12@\Pisces|hyperpage}{188}
 \indexentry{Fortune!injuries|hyperpage}{189}
-\indexentry{Daimon!diseases|hyperpage}{189}
+\indexentry{lots!Daimon!diseases|hyperpage}{189}
 \indexentry{places!10@10th|hyperpage}{189}
 \indexentry{injuries|hyperpage}{191}
 \indexentry{diseases|hyperpage}{191}
@@ -1742,8 +1739,8 @@
 \indexentry{lots!Marriage!women|hyperpage}{209}
 \indexentry{planets!\Venus|hyperpage}{209}
 \indexentry{planets!\Mars|hyperpage}{209}
-\indexentry{Fortune!marriage|hyperpage}{210}
-\indexentry{Daimon!marriage|hyperpage}{210}
+\indexentry{lots!Fortune!marriage|hyperpage}{210}
+\indexentry{lots!Daimon!marriage|hyperpage}{210}
 \indexentry{lots!Mother|hyperpage}{211}
 \indexentry{Fortune!marriage|hyperpage}{211}
 \indexentry{homosexual|hyperpage}{212}
@@ -1860,8 +1857,8 @@
 \indexentry{planets!distribution periods|hyperpage}{300}
 \indexentry{vital sector|hyperpage}{301}
 \indexentry{planets!distribution of days|hyperpage}{302}
-\indexentry{Fortune!distribution|hyperpage}{303}
-\indexentry{Daimon!distribution|hyperpage}{303}
+\indexentry{lots!Fortune!distribution|hyperpage}{303}
+\indexentry{lots!Daimon!distribution|hyperpage}{303}
 \indexentry{vital sector|hyperpage}{303}
 \indexentry{signs!fire and air|hyperpage}{308}
 \indexentry{signs!earth and water|hyperpage}{308}
@@ -2002,7 +1999,6 @@
 \indexentry{The Ancients|hyperpage}{463}
 \indexentry{Petosiris@\textit{Petosiris}|hyperpage}{463}
 \indexentry{planets!\Saturn|hyperpage}{463}
-\indexentry{Phainon@\textit{Phainon}| see {planets, \Saturn}}{463}
 \indexentry{planets!\Jupiter|hyperpage}{463}
 \indexentry{planets!\Sun|hyperpage}{464}
 \indexentry{planets!\Venus|hyperpage}{464}
@@ -2012,7 +2008,6 @@
 \indexentry{Apollinarius@\textit{Apollinarius}|hyperpage}{466}
 \indexentry{delineation!transits|hyperpage}{467}
 \indexentry{distribution!10-year, 9-month|hyperpage}{468}
-\indexentry{Decennials | see {distribution, {10-year, 9-month}} }{468}
 \indexentry{delineation!distribution!benefics|hyperpage}{469}
 \indexentry{delineation!distribution!malefics|hyperpage}{469}
 \indexentry{distribution!10-year, 9-month!months|hyperpage}{473}
@@ -2222,3 +2217,9 @@
 \indexentry{terms!Egyptian|hyperpage}{649}
 \indexentry{length of life!signs|hyperpage}{650}
 \indexentry{distribution!method!10-year, 9-month|hyperpage}{650}
+\indexentry{constellations!Dog|see{constellations, Sirrius}}{662}
+\indexentry{constellations!Satyr|see{constellations, Orion}}{662}
+\indexentry{Decennials|see{distribution, {10-year, 9-month}}}{662}
+\indexentry{lots!Travel|see{lots, Foreign Lands }}{662}
+\indexentry{Phainon@\textit{Phainon}|see{planets, \Saturn}}{662}
+\indexentry{signs!beholding|see{signs, listening and beholding}}{662}

@@ -316,9 +316,9 @@
     \subitem Argo, \hyperpage{15}, \hyperpage{19}
     \subitem Auriga, \hyperpage{9}, \hyperpage{11}
     \subitem Bear, \hyperpage{22}
-    \subitem Bearguard , \ see {constellations,Bootes}{24}
-    \subitem Bootes, \hyperpage{9}, \hyperpage{11}, \hyperpage{13--15}
-    \subitem Bootes , \hyperpage{24}
+    \subitem Bearguard, \see{constellations,Bootes}{24}
+    \subitem Bootes, \hyperpage{9}, \hyperpage{11}, \hyperpage{13--15}, 
+		\hyperpage{24}
     \subitem Cancer, \hyperpage{15}
     \subitem Canis, \hyperpage{13}
     \subitem Canis Major, \hyperpage{14}
@@ -330,7 +330,7 @@
     \subitem Crown, \hyperpage{13, 14}
     \subitem Cygnus, \hyperpage{15}, \hyperpage{22}
     \subitem Cynosura, \hyperpage{22, 23}
-    \subitem Dog , \ see{Sirrius}{15}
+    \subitem Dog, \see{constellations, Sirrius}{662}
     \subitem Dolphin, \hyperpage{15}
     \subitem Draco, \hyperpage{15}
     \subitem Eridanus, \hyperpage{11}, \hyperpage{13}, \hyperpage{22}
@@ -345,15 +345,14 @@
     \subitem Lupus, \hyperpage{9}
     \subitem Lyra, \hyperpage{13}, \hyperpage{15}
     \subitem Ophiouchus, \hyperpage{11}, \hyperpage{13}, \hyperpage{15}
-    \subitem Orioin, \hyperpage{11}
-    \subitem Orion, \hyperpage{13}
+    \subitem Orion, \hyperpage{11}, \hyperpage{13}
     \subitem Pegasus, \hyperpage{15}, \hyperpage{20, 21}
     \subitem Perseus, \hyperpage{9}, \hyperpage{23}
     \subitem Procyon, \hyperpage{14}
     \subitem Sagitta, \hyperpage{22}
-    \subitem Satyr
-      \subsubitem see {constellations, Orion}, \hyperpage{13}
+    \subitem Satyr, \see{constellations, Orion}{662}
     \subitem Scorpio, \hyperpage{15}
+    \subitem Sirrius, \hyperpage{15}
     \subitem Triangulum, \hyperpage{23}
     \subitem Zeugma, \hyperpage{15}
   \item critical 7-day number, \hyperpage{276}
@@ -365,16 +364,12 @@
 
   \indexspace
 
-  \item Daimon
-    \subitem diseases, \hyperpage{186}, \hyperpage{189}
-    \subitem distribution, \hyperpage{303}
-    \subitem marriage, \hyperpage{210}
   \item day
     \subitem ruler, \hyperpage{45}
   \item death, \hyperpage{223}
     \subitem violent, \hyperpage{220}
   \item debt, \hyperpage{69}
-  \item Decennials , \ see {distribution, {10-year, 9-month}} {468}
+  \item Decennials, \see{distribution, {10-year, 9-month}}{662}
   \item degrees
     \subitem anaeretic, \hyperpage{255}
     \subitem average, \hyperpage{245}
@@ -535,10 +530,9 @@
     \subitem Aries, \hyperpage{9}
   \item Fortune, \hyperpage{404}
     \subitem calculation, \hyperpage{289}
-    \subitem distribution, \hyperpage{303}
     \subitem injuries, \hyperpage{185}, \hyperpage{189}, 
 		\hyperpage{191}
-    \subitem marriage, \hyperpage{210, 211}
+    \subitem marriage, \hyperpage{211}
     \subitem places, \hyperpage{220}
 
   \indexspace
@@ -714,6 +708,9 @@
     \subitem critical years, \hyperpage{294}
     \subitem Daimon, \hyperpage{102}, \hyperpage{127}, \hyperpage{146}, 
 		\hyperpage{163}, \hyperpage{594}
+      \subsubitem diseases, \hyperpage{186}, \hyperpage{189}
+      \subsubitem distribution, \hyperpage{303}
+      \subsubitem marriage, \hyperpage{210}
       \subsubitem travel, \hyperpage{163}
     \subitem Debt, \hyperpage{151}
     \subitem Deceit, \hyperpage{153}
@@ -723,6 +720,8 @@
     \subitem Fortune, \hyperpage{95}, \hyperpage{102, 103}, 
 		\hyperpage{110}, \hyperpage{124}, \hyperpage{127}, 
 		\hyperpage{505}, \hyperpage{512}, \hyperpage{594}
+      \subsubitem distribution, \hyperpage{303}
+      \subsubitem marriage, \hyperpage{210}
       \subsubitem travel, \hyperpage{164}
     \subitem Life, \hyperpage{271}
     \subitem Marriage, \hyperpage{207}
@@ -730,7 +729,7 @@
       \subsubitem women, \hyperpage{209}
     \subitem Mother, \hyperpage{169}, \hyperpage{173}, \hyperpage{211}
     \subitem Theft, \hyperpage{152}
-    \subitem Travel , \ see {lots,Foreign Lands }{163}
+    \subitem Travel, \see{lots, Foreign Lands }{662}
   \item lucky, \hyperpage{70}
 
   \indexspace
@@ -798,7 +797,7 @@
 		\hyperpage{463}, \hyperpage{595}, \hyperpage{625}
   \item \textit{Petosiris}, \hyperpage{517}
   \item \textit{Petosiris}, \hyperpage{523}
-  \item \textit{Phainon}, \ see {planets, \Saturn}{463}
+  \item \textit{Phainon}, \see{planets, \Saturn}{662}
   \item \textit{Philip}, \hyperpage{627}
   \item places
     \subitem 1st, \hyperpage{337}, \hyperpage{598}
@@ -1306,7 +1305,7 @@
     \subitem autumn, \hyperpage{19}
     \subitem barren, \hyperpage{16}
     \subitem base, \hyperpage{21}
-    \subitem beholding , \ see{listening and beholding}{42}
+    \subitem beholding, \see{signs, listening and beholding}{662}
     \subitem bi-corporeal, \hyperpage{20}
     \subitem bicorporeal, \hyperpage{12}, \hyperpage{16}, 
 		\hyperpage{19}, \hyperpage{22}
