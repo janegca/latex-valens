@@ -7,7 +7,7 @@
 \indexentry{planets!\Mercury!significations|hyperpage}{6}
 \indexentry{delineation!benefics|hyperpage}{8}
 \indexentry{planets!general|hyperpage}{8}
-\indexentry{planets!benefics!condition|hyperpage}{8}
+\indexentry{planets!condition|hyperpage}{8}
 \indexentry{delineation!malefics|hyperpage}{8}
 \indexentry{planets!malefic!condition|hyperpage}{8}
 \indexentry{delineation!planets|hyperpage}{8}
@@ -150,7 +150,7 @@
 \indexentry{signs!bicorporeal|hyperpage}{12}
 \indexentry{character!articulate|hyperpage}{12}
 \indexentry{signs!sterile|hyperpage}{12}
-\indexentry{signa!public|hyperpage}{12}
+\indexentry{signs!public|hyperpage}{12}
 \indexentry{jobs!scholars|hyperpage}{12}
 \indexentry{jobs!educators|hyperpage}{12}
 \indexentry{jobs!poets|hyperpage}{12}
@@ -360,7 +360,7 @@
 \indexentry{signs!equinotical|hyperpage}{17}
 \indexentry{signs!anthromorphic|hyperpage}{17}
 \indexentry{signs!airy|hyperpage}{17}
-\indexentry{signs!femininzing|hyperpage}{17}
+\indexentry{signs!feminizing|hyperpage}{17}
 \indexentry{signs!vocal|hyperpage}{17}
 \indexentry{signs!noble|hyperpage}{17}
 \indexentry{signs!changeable|hyperpage}{17}
@@ -538,7 +538,7 @@
 \indexentry{signs!brutal|hyperpage}{20}
 \indexentry{signs!lurking|hyperpage}{20}
 \indexentry{signs!mysterious|hyperpage}{20}
-\indexentry{signs!bi-corporeal|hyperpage}{20}
+\indexentry{signs!bicorporeal|hyperpage}{20}
 \indexentry{signs!moist|hyperpage}{20}
 \indexentry{signs!half-finished|hyperpage}{20}
 \indexentry{hunchback|hyperpage}{20}
@@ -731,28 +731,28 @@
 \indexentry{hours!length!day|hyperpage}{39}
 \indexentry{signs!rising times|hyperpage}{40}
 \indexentry{signs!listening and beholding|hyperpage}{42}
-\indexentry{planets!Moon!finding New and Full Moon|hyperpage}{43}
+\indexentry{planets!\Moon!finding New and Full Moon|hyperpage}{43}
 \indexentry{day!ruler|hyperpage}{45}
 \indexentry{hour!ruler|hyperpage}{45}
 \indexentry{ruler!of hour|hyperpage}{45}
 \indexentry{year!ruler|hyperpage}{47}
 \indexentry{ruler!of the month|hyperpage}{47}
 \indexentry{degrees!masculine and feminine|hyperpage}{49}
-\indexentry{planets!Moon!visibility periods|hyperpage}{50}
-\indexentry{planets!Moon!invisibility|hyperpage}{51}
-\indexentry{planets!Moon!3rd, 7th, 40th days|hyperpage}{52}
+\indexentry{planets!\Moon!visibility periods|hyperpage}{50}
+\indexentry{planets!\Moon!invisibility|hyperpage}{51}
+\indexentry{planets!\Moon!3rd, 7th, 40th days|hyperpage}{52}
 \indexentry{nodes!finding|hyperpage}{53}
 \indexentry{delineation!nodes|hyperpage}{53}
 \indexentry{nativity!prosperous and effective|hyperpage}{53}
-\indexentry{planets!Moon!winds|hyperpage}{55}
+\indexentry{planets!\Moon!winds|hyperpage}{55}
 \indexentry{steps!of the Moon|hyperpage}{55}
-\indexentry{planets!Moon!finding|hyperpage}{56}
+\indexentry{planets!\Moon!finding|hyperpage}{56}
 \indexentry{planets!finding|hyperpage}{59}
 \indexentry{planets!finding!degrees|hyperpage}{59}
 \indexentry{transit!places|hyperpage}{64}
 \indexentry{planets!transits|hyperpage}{64}
 \indexentry{delineation!transits|hyperpage}{64}
-\indexentry{planets!Saturn!with the other planets|hyperpage}{65}
+\indexentry{planets!\Saturn!with the other planets|hyperpage}{65}
 \indexentry{planets!\Saturn-\Jupiter|hyperpage}{65}
 \indexentry{planets!productive of!legacies|hyperpage}{65}
 \indexentry{planets!productive of!adoptions|hyperpage}{65}
@@ -920,7 +920,7 @@
 \indexentry{planets!productive of!basic livelihood|hyperpage}{68}
 \indexentry{character!unsteady|hyperpage}{68}
 \indexentry{character!fickle|hyperpage}{68}
-\indexentry{planets!Mercury!with the other planets|hyperpage}{68}
+\indexentry{planets!\Mercury!with the other planets|hyperpage}{68}
 \indexentry{planets!\Mercury-\Sun|hyperpage}{68}
 \indexentry{character!adaptable|hyperpage}{68}
 \indexentry{planets!productive of!many friends|hyperpage}{68}
@@ -970,7 +970,7 @@
 \indexentry{planets!productive of!accusations|hyperpage}{69}
 \indexentry{planets!productive of!imprisonment|hyperpage}{69}
 \indexentry{planets!productive of!loss|hyperpage}{69}
-\indexentry{planets!Sun!with the Moon|hyperpage}{69}
+\indexentry{planets!\Sun!with the Moon|hyperpage}{69}
 \indexentry{planets!\Sun-\Moon|hyperpage}{69}
 \indexentry{planets!productive of!associations|hyperpage}{69}
 \indexentry{planets!productive of!rank|hyperpage}{69}
@@ -1429,10 +1429,10 @@
 \indexentry{triplicities!earth|hyperpage}{89}
 \indexentry{triplicities!air|hyperpage}{89}
 \indexentry{triplicities!water|hyperpage}{90}
-\indexentry{technique!triplicity rulers|hyperpage}{91}
-\indexentry{technique!triplicity rulers!timing|hyperpage}{91}
+\indexentry{triplicity rulers|hyperpage}{91}
+\indexentry{triplicity rulers!timing|hyperpage}{91}
 \indexentry{delineation!sect|hyperpage}{93}
-\indexentry{delineation!Fortune|hyperpage}{93}
+\indexentry{lots!Fortune|hyperpage}{93}
 \indexentry{planets!\Saturn!aspects|hyperpage}{93}
 \indexentry{planets!\Mars!aspects|hyperpage}{93}
 \indexentry{planets!\Saturn-\Jupiter-\Sun|hyperpage}{93}
@@ -1440,8 +1440,7 @@
 \indexentry{planets!benefic as malefic|hyperpage}{94}
 \indexentry{delineation!dispositor|hyperpage}{94}
 \indexentry{lots!Fortune|hyperpage}{95}
-\indexentry{delineation!Fortune|hyperpage}{95}
-\indexentry{Petosiris|hyperpage}{95}
+\indexentry{Petosiris@\textit{Petosiris}|hyperpage}{95}
 \indexentry{delineation!Ascendant|hyperpage}{96}
 \indexentry{lots!Fortune|hyperpage}{96}
 \indexentry{delineation!Ascendant!\Saturn|hyperpage}{96}
@@ -1521,7 +1520,7 @@
 \indexentry{planets!\Mercury|hyperpage}{104}
 \indexentry{planets!\Mercury-\Mars|hyperpage}{104}
 \indexentry{places!06@6th|hyperpage}{105}
-\indexentry{places!benefics|hyperpage}{105}
+\indexentry{places!benefic|hyperpage}{105}
 \indexentry{planets!\Sun|hyperpage}{105}
 \indexentry{planets!\Saturn|hyperpage}{105}
 \indexentry{planets!\Jupiter|hyperpage}{105}
@@ -1532,7 +1531,7 @@
 \indexentry{places!05@5th|hyperpage}{106}
 \indexentry{planets!benefics|hyperpage}{106}
 \indexentry{planets!\Venus|hyperpage}{106}
-\indexentry{delineation!Fortune|hyperpage}{106}
+\indexentry{lots!Fortune|hyperpage}{106}
 \indexentry{delineation!Ascendant|hyperpage}{106}
 \indexentry{planets!\Mars|hyperpage}{106}
 \indexentry{planets!\Saturn|hyperpage}{106}
@@ -1591,7 +1590,7 @@
 \indexentry{aspects!sextile|hyperpage}{115}
 \indexentry{planets!\Mars|hyperpage}{115}
 \indexentry{planets!\Mars-\Moon|hyperpage}{115}
-\indexentry{delineation!planet|hyperpage}{115}
+\indexentry{delineation!planets|hyperpage}{115}
 \indexentry{delineation!malefic as benefic|hyperpage}{115}
 \indexentry{planets!\Venus|hyperpage}{116}
 \indexentry{planets!\Venus-\Moon|hyperpage}{116}
@@ -1632,21 +1631,21 @@
 \indexentry{planets!\Saturn-\Mercury-\Mars-\Venus|hyperpage}{129}
 \indexentry{planets!\Saturn-\Mercury-\Mars-\Venus-\Jupiter-\Moon|hyperpage}{129}
 \indexentry{planets!\Saturn-\Mars|hyperpage}{130}
-\indexentry{delineation!notable|hyperpage}{146}
-\indexentry{delineation!SAN|hyperpage}{146}
-\indexentry{delineation!fortunate|hyperpage}{146}
-\indexentry{delineation!ruin|hyperpage}{146}
+\indexentry{nativity!notable|hyperpage}{146}
+\indexentry{SAN|hyperpage}{146}
+\indexentry{nativity!fortunate|hyperpage}{146}
+\indexentry{nativity!ruin|hyperpage}{146}
 \indexentry{lots!Daimon|hyperpage}{146}
 \indexentry{lots!Basis|hyperpage}{147}
 \indexentry{lots!Accomplishment|hyperpage}{149}
 \indexentry{lots!Debt|hyperpage}{151}
 \indexentry{lots!Theft|hyperpage}{152}
 \indexentry{lots!Deceit|hyperpage}{153}
-\indexentry{delineation!ruined nativity|hyperpage}{153}
+\indexentry{nativity!debased|hyperpage}{153}
 \indexentry{timing|hyperpage}{160}
 \indexentry{length of life|hyperpage}{160}
 \indexentry{rank|hyperpage}{160}
-\indexentry{delineation!Fortune|hyperpage}{161}
+\indexentry{lots!Fortune|hyperpage}{161}
 \indexentry{travel|hyperpage}{162}
 \indexentry{places!Foreign Lands|hyperpage}{162}
 \indexentry{places!09@9th|hyperpage}{162}
@@ -1680,13 +1679,13 @@
 \indexentry{parents!character|hyperpage}{175}
 \indexentry{parents!separation|hyperpage}{177}
 \indexentry{parents!death|hyperpage}{177}
-\indexentry{delineation!SAN|hyperpage}{179}
-\indexentry{delineation!rank|hyperpage}{179}
+\indexentry{SAN|hyperpage}{179}
+\indexentry{rank|hyperpage}{179}
 \indexentry{planets!\Moon!phases|hyperpage}{181}
 \indexentry{planets!\Moon!new|hyperpage}{181}
 \indexentry{injuries|hyperpage}{185}
 \indexentry{diseases|hyperpage}{185}
-\indexentry{Fortune!injuries|hyperpage}{185}
+\indexentry{lots!Fortune!injuries|hyperpage}{185}
 \indexentry{lots!Daimon!diseases|hyperpage}{186}
 \indexentry{signs!01@\Aries|hyperpage}{186}
 \indexentry{signs!02@\Taurus|hyperpage}{186}
@@ -1700,13 +1699,13 @@
 \indexentry{signs!10@\Capricorn|hyperpage}{188}
 \indexentry{signs!11@\Aquarius|hyperpage}{188}
 \indexentry{signs!12@\Pisces|hyperpage}{188}
-\indexentry{Fortune!injuries|hyperpage}{189}
+\indexentry{lots!Fortune!injuries|hyperpage}{189}
 \indexentry{lots!Daimon!diseases|hyperpage}{189}
 \indexentry{places!10@10th|hyperpage}{189}
 \indexentry{injuries|hyperpage}{191}
 \indexentry{diseases|hyperpage}{191}
-\indexentry{Fortune!injuries|hyperpage}{191}
-\indexentry{Diamon!diseases|hyperpage}{191}
+\indexentry{lots!Fortune!injuries|hyperpage}{191}
+\indexentry{lots!Diamon!diseases|hyperpage}{191}
 \indexentry{lots|hyperpage}{192}
 \indexentry{planets!\Saturn-\Mars|hyperpage}{192}
 \indexentry{planets!\Saturn-\Mars-SAN|hyperpage}{192}
@@ -1742,24 +1741,24 @@
 \indexentry{lots!Fortune!marriage|hyperpage}{210}
 \indexentry{lots!Daimon!marriage|hyperpage}{210}
 \indexentry{lots!Mother|hyperpage}{211}
-\indexentry{Fortune!marriage|hyperpage}{211}
-\indexentry{homosexual|hyperpage}{212}
+\indexentry{lots!Fortune!marriage|hyperpage}{211}
+\indexentry{gender!homosexual|hyperpage}{212}
 \indexentry{rape|hyperpage}{212}
 \indexentry{places!05@5th|hyperpage}{214}
 \indexentry{children|hyperpage}{214}
-\indexentry{Petosiris|hyperpage}{214}
+\indexentry{Petosiris@\textit{Petosiris}|hyperpage}{214}
 \indexentry{brothers|hyperpage}{216}
 \indexentry{places!03@3rd|hyperpage}{216}
 \indexentry{lots!Brothers|hyperpage}{216}
 \indexentry{planets!\Sun-\Moon|hyperpage}{217}
-\indexentry{Petosiris|hyperpage}{217}
+\indexentry{Petosiris@\textit{Petosiris}|hyperpage}{217}
 \indexentry{nativity!basis|hyperpage}{217}
 \indexentry{places!delineation|hyperpage}{218}
-\indexentry{Petosiris|hyperpage}{218}
+\indexentry{Petosiris@\textit{Petosiris}|hyperpage}{218}
 \indexentry{death!violent|hyperpage}{220}
 \indexentry{SAN|hyperpage}{220}
 \indexentry{places!08@8th|hyperpage}{220}
-\indexentry{Fortune!places|hyperpage}{220}
+\indexentry{lots!Fortune!places|hyperpage}{220}
 \indexentry{signs!01@\Aries|hyperpage}{220}
 \indexentry{planets!\Mars|hyperpage}{220}
 \indexentry{signs!02@\Taurus|hyperpage}{221}
@@ -1803,7 +1802,7 @@
 \indexentry{planets!crisis-producing|hyperpage}{246}
 \indexentry{length of life!vital sector|hyperpage}{248}
 \indexentry{The Old Astrologer|hyperpage}{248}
-\indexentry{directions|hyperpage}{252}
+\indexentry{distribution!primary directions|hyperpage}{252}
 \indexentry{planets!anaeretic|hyperpage}{255}
 \indexentry{places!anaeretic|hyperpage}{255}
 \indexentry{degrees!anaeretic|hyperpage}{255}
@@ -1847,7 +1846,7 @@
 \indexentry{length of life|hyperpage}{284}
 \indexentry{length of life|hyperpage}{289}
 \indexentry{The King|hyperpage}{289}
-\indexentry{Fortune!calculation|hyperpage}{289}
+\indexentry{lots!Fortune!calculation|hyperpage}{289}
 \indexentry{planets!minor years|hyperpage}{290}
 \indexentry{The Old Astrologer|hyperpage}{290}
 \indexentry{year!critical|hyperpage}{294}
@@ -1862,14 +1861,14 @@
 \indexentry{vital sector|hyperpage}{303}
 \indexentry{signs!fire and air|hyperpage}{308}
 \indexentry{signs!earth and water|hyperpage}{308}
-\indexentry{delineation!planets!distributions|hyperpage}{310}
+\indexentry{distribution!planets|hyperpage}{310}
 \indexentry{distribution!\Sun,\Moon\, to \Saturn|hyperpage}{310}
 \indexentry{distribution!\Mercury\, to \Jupiter|hyperpage}{310}
 \indexentry{distribution!\Saturn\, to \Sun, \Moon|hyperpage}{310}
 \indexentry{signs!years|hyperpage}{311}
 \indexentry{planets!years|hyperpage}{311}
-\indexentry{distributions|hyperpage}{313}
-\indexentry{planets!\Saturn\!distribution|hyperpage}{315}
+\indexentry{distribution|hyperpage}{313}
+\indexentry{planets!\Saturn!distribution|hyperpage}{315}
 \indexentry{planets!\Mars!distribution|hyperpage}{315}
 \indexentry{planets!\Sun!distribution|hyperpage}{315}
 \indexentry{planets!\Moon!distribution|hyperpage}{315}
@@ -1877,7 +1876,7 @@
 \indexentry{distribution!days|hyperpage}{320}
 \indexentry{distribution!periods|hyperpage}{321}
 \indexentry{Valen's admonition|hyperpage}{325}
-\indexentry{distribution!profection|hyperpage}{327}
+\indexentry{distribution!method!12 year cycle|hyperpage}{327}
 \indexentry{nativity!basis|hyperpage}{330}
 \indexentry{distribution!starting points|hyperpage}{331}
 \indexentry{planets!significations|hyperpage}{331}
@@ -1925,22 +1924,22 @@
 \indexentry{rank|hyperpage}{349}
 \indexentry{aspects|hyperpage}{349}
 \indexentry{delineation!general|hyperpage}{350}
-\indexentry{panets!\Sun!distribution|hyperpage}{353}
+\indexentry{planets!\Sun!distribution|hyperpage}{353}
 \indexentry{planets!condition|hyperpage}{354}
 \indexentry{planets!\Moon!distribution|hyperpage}{356}
-\indexentry{distributions!Ascendant|hyperpage}{358}
+\indexentry{distribution!Ascendant|hyperpage}{358}
 \indexentry{planets!\Saturn!distribution|hyperpage}{359}
 \indexentry{planets!\Jupiter!distribution|hyperpage}{361}
 \indexentry{planets!\Mars!distribution|hyperpage}{363}
 \indexentry{planets!\Venus!distribution|hyperpage}{366}
 \indexentry{planets!\Mercury!distribution|hyperpage}{368}
 \indexentry{distribution!lots|hyperpage}{370}
-\indexentry{distribution!One-fourth Method|hyperpage}{373}
+\indexentry{distribution!method!One-Fourth-Part|hyperpage}{373}
 \indexentry{Critodemus@\textit{Critodemus}|hyperpage}{373}
-\indexentry{distribution!Method for Years|hyperpage}{374}
-\indexentry{distribution!Month|hyperpage}{376}
-\indexentry{distribution!Days|hyperpage}{377}
-\indexentry{distribution!Fourths|hyperpage}{379}
+\indexentry{distribution!12 year cycle|hyperpage}{374}
+\indexentry{distribution!method!12 year cycle|hyperpage}{376}
+\indexentry{distribution!days|hyperpage}{377}
+\indexentry{distribution!method!One-Fourth-Part|hyperpage}{379}
 \indexentry{lots!crisis-producing (Accusation)|hyperpage}{384}
 \indexentry{rank|hyperpage}{385}
 \indexentry{year!critical|hyperpage}{388}
@@ -1948,9 +1947,10 @@
 \indexentry{astrology!science|hyperpage}{389}
 \indexentry{delineation!signs|hyperpage}{389}
 \indexentry{delineation!nodes|hyperpage}{389}
-\indexentry{elections!nodes|hyperpage}{391}
+\indexentry{initiatives|hyperpage}{391}
+\indexentry{nodes|hyperpage}{391}
 \indexentry{signs!critical|hyperpage}{393}
-\indexentry{distribution!year|hyperpage}{394}
+\indexentry{distribution!years|hyperpage}{394}
 \indexentry{distribution!month|hyperpage}{395}
 \indexentry{The King|hyperpage}{395}
 \indexentry{distribution!days|hyperpage}{397}
@@ -1962,17 +1962,17 @@
 \indexentry{rank|hyperpage}{403}
 \indexentry{Fate|hyperpage}{404}
 \indexentry{Hope|hyperpage}{404}
-\indexentry{Fortune|hyperpage}{404}
+\indexentry{lots!Fortune|hyperpage}{404}
 \indexentry{The Poet|hyperpage}{406}
 \indexentry{astrology!art|hyperpage}{406}
 \indexentry{astrology!metaphor|hyperpage}{406}
 \indexentry{human lives|hyperpage}{406}
-\indexentry{distribution!12 year cycle|hyperpage}{407}
-\indexentry{distribution!degree|hyperpage}{410}
+\indexentry{distribution!method!12 year cycle|hyperpage}{407}
+\indexentry{distribution!degrees|hyperpage}{410}
 \indexentry{planets!condition|hyperpage}{412}
 \indexentry{distribution!planets!retrograde|hyperpage}{412}
 \indexentry{astrology!forecasting|hyperpage}{413}
-\indexentry{places!signs!dynamic|hyperpage}{413}
+\indexentry{places!dynamic|hyperpage}{413}
 \indexentry{distribution|hyperpage}{432}
 \indexentry{vital sector|hyperpage}{432}
 \indexentry{distribution!benefics|hyperpage}{433}
@@ -1997,7 +1997,7 @@
 \indexentry{distribution!malefics|hyperpage}{460}
 \indexentry{distribution!benefic as malefic|hyperpage}{460}
 \indexentry{distribution!Ascendant|hyperpage}{461}
-\indexentry{the soul|hyperpage}{461}
+\indexentry{soul|hyperpage}{461}
 \indexentry{planets!colors|hyperpage}{463}
 \indexentry{The Ancients|hyperpage}{463}
 \indexentry{Petosiris@\textit{Petosiris}|hyperpage}{463}
@@ -2010,11 +2010,11 @@
 \indexentry{tables!astronomical|hyperpage}{465}
 \indexentry{Apollinarius@\textit{Apollinarius}|hyperpage}{466}
 \indexentry{delineation!transits|hyperpage}{467}
-\indexentry{distribution!10-year, 9-month|hyperpage}{468}
+\indexentry{distribution!method!10-year, 9-month|hyperpage}{468}
 \indexentry{distribution!benefics|hyperpage}{469}
 \indexentry{distribution!malefics|hyperpage}{469}
-\indexentry{distribution!10-year, 9-month!months|hyperpage}{473}
-\indexentry{distribution!10-year, 9-month!days|hyperpage}{476}
+\indexentry{distribution!method!10-year, 9-month|hyperpage}{473}
+\indexentry{distribution!method!10-year, 9-month|hyperpage}{476}
 \indexentry{length of life|hyperpage}{478}
 \indexentry{aspects!Asc-\Moon|hyperpage}{479}
 \indexentry{The Ancients|hyperpage}{480}
@@ -2065,16 +2065,16 @@
 \indexentry{planets!periods!mean|hyperpage}{515}
 \indexentry{distribution!timing|hyperpage}{517}
 \indexentry{The King|hyperpage}{517}
-\indexentry{petosiris@\textit{Petosiris}|hyperpage}{517}
+\indexentry{Petosiris@\textit{Petosiris}|hyperpage}{517}
 \indexentry{astrology!prediction|hyperpage}{517}
 \indexentry{distribution!malefics|hyperpage}{517}
 \indexentry{distribution!benefics|hyperpage}{517}
 \indexentry{nativity!basis|hyperpage}{517}
 \indexentry{The King|hyperpage}{518}
 \indexentry{distribution!timing|hyperpage}{518}
-\indexentry{petrosis@\textit{Petosiris}|hyperpage}{523}
+\indexentry{Petrosis@\textit{Petosiris}|hyperpage}{523}
 \indexentry{aspects!strength|hyperpage}{523}
-\indexentry{delineation!exile|hyperpage}{534}
+\indexentry{nativity!exile|hyperpage}{534}
 \indexentry{SAN|hyperpage}{535}
 \indexentry{planets!\Saturn-\Mars|hyperpage}{535}
 \indexentry{transits|hyperpage}{536}
@@ -2091,7 +2091,7 @@
 \indexentry{planets!\Mercury!distribution|hyperpage}{549}
 \indexentry{planets!\Venus!distribution|hyperpage}{549}
 \indexentry{planets!\Jupiter!distribution|hyperpage}{549}
-\indexentry{marcus@\textit{Marcus}|hyperpage}{551}
+\indexentry{Marcus@\textit{Marcus}|hyperpage}{551}
 \indexentry{oath!student|hyperpage}{551}
 \indexentry{Ascendant!degree|hyperpage}{558}
 \indexentry{twins!birth time|hyperpage}{561}
@@ -2104,8 +2104,8 @@
 \indexentry{delineation!nodes|hyperpage}{582}
 \indexentry{critical times|hyperpage}{588}
 \indexentry{terms!hostile|hyperpage}{588}
-\indexentry{inceptions!illness|hyperpage}{589}
-\indexentry{marcus@\textit{Marcus}|hyperpage}{591}
+\indexentry{initiatives!illness|hyperpage}{589}
+\indexentry{Marcus@\textit{Marcus}|hyperpage}{591}
 \indexentry{Nechepso@\textit{Nechepso}|hyperpage}{591}
 \indexentry{The King|hyperpage}{591}
 \indexentry{Critodemus@\textit{Critodemus}|hyperpage}{591}
@@ -2117,8 +2117,8 @@
 \indexentry{lots!Daimon|hyperpage}{594}
 \indexentry{planets!\Sun|hyperpage}{594}
 \indexentry{planets!\Moon|hyperpage}{594}
-\indexentry{delineation!lots!Fortune|hyperpage}{594}
-\indexentry{delineation!lots!Daimon|hyperpage}{594}
+\indexentry{lots!Fortune|hyperpage}{594}
+\indexentry{lots!Daimon|hyperpage}{594}
 \indexentry{rank|hyperpage}{594}
 \indexentry{delineation!lots|hyperpage}{595}
 \indexentry{length of life!Fortune and Daimon|hyperpage}{595}
@@ -2144,12 +2144,12 @@
 \indexentry{places!10@10th|hyperpage}{601}
 \indexentry{places!11@11th|hyperpage}{601}
 \indexentry{places!12@12th|hyperpage}{601}
-\indexentry{delineation!nativity|hyperpage}{602}
+\indexentry{nativity!delineation|hyperpage}{602}
 \indexentry{distribution!planet order|hyperpage}{602}
 \indexentry{places!equal|hyperpage}{602}
 \indexentry{places!whole sign|hyperpage}{602}
 \indexentry{transits|hyperpage}{603}
-\indexentry{distributions!periodic|hyperpage}{603}
+\indexentry{distribution!periodic|hyperpage}{603}
 \indexentry{transits|hyperpage}{603}
 \indexentry{distribution!method|hyperpage}{604}
 \indexentry{Zoroaster@\textit{Zoroaster}|hyperpage}{604}
@@ -2160,7 +2160,7 @@
 \indexentry{distribution!nodes|hyperpage}{606}
 \indexentry{distribution!critical times|hyperpage}{607}
 \indexentry{planets!periods|hyperpage}{607}
-\indexentry{horoscopes!initiatives (Elections)|hyperpage}{609}
+\indexentry{initiatives|hyperpage}{609}
 \indexentry{Ascendant!degree|hyperpage}{611}
 \indexentry{dodekatemorion@\textit{dodekatemorion}!\Moon|hyperpage}{612}
 \indexentry{length of life|hyperpage}{613}
@@ -2184,7 +2184,7 @@
 \indexentry{Critodemus@\textit{Critodemus}|hyperpage}{621}
 \indexentry{length of life|hyperpage}{623}
 \indexentry{Ascendant!degree|hyperpage}{623}
-\indexentry{gnomons|hyperpage}{623}
+\indexentry{gnomon|hyperpage}{623}
 \indexentry{Ascendant!degree|hyperpage}{625}
 \indexentry{Petosiris@\textit{Petosiris}|hyperpage}{625}
 \indexentry{The King|hyperpage}{625}
@@ -2220,10 +2220,15 @@
 \indexentry{terms!Egyptian|hyperpage}{649}
 \indexentry{length of life!signs|hyperpage}{650}
 \indexentry{distribution!method!10-year, 9-month|hyperpage}{650}
+\indexentry{apheta@\textit{apheta}|see{distribution}}{662}
+\indexentry{aphesis@\textit{aphesis}|see{distribution}}{662}
 \indexentry{constellations!Dog|see{constellations, Sirrius}}{662}
 \indexentry{constellations!Satyr|see{constellations, Orion}}{662}
 \indexentry{Decennials|see{distribution, {10-year, 9-month}}}{662}
+\indexentry{Elections|see{initiatives}}{662}
+\indexentry{Inceptions|see{initiatives}}{662}
 \indexentry{lots!Travel|see{lots, Foreign Lands }}{662}
 \indexentry{Phainon@\textit{Phainon}|see{planets, \Saturn}}{662}
+\indexentry{primary directions|see{distribution, primary directions}}{662}
 \indexentry{signs!beholding|see{signs, listening and beholding}}{662}
-\indexentry{transmissions!see{distriubtion}|hyperpage}{662}
+\indexentry{transmissions|see{distribution}}{662}
